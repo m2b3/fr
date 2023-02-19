@@ -4,7 +4,7 @@ project:
 
 website:
   title: "m2b3.Lab@McGill"
-  site-url: https://m2b3.github.io/m2b3
+  site-url: https://m2b3.github.io/fr
   favicon: images/m2b3sq_favicon.png
   
   page-footer: 
@@ -14,7 +14,7 @@ website:
   navbar:
     logo: images/m2b3_white.png
     logo-alt: "Lab logo"
-    href: https://m2b3.github.io/m2b3
+    href: https://m2b3.github.io/fr
     right:
     - text: "Home"
       href: index.html
@@ -26,6 +26,8 @@ website:
       href: join.qmd
     - text: "About"
       href: locate.qmd
+    - text: "English site"
+      href: https://m2b3.github.io
 #    - icon: github
 #      href: https://github.com/NASA-Openscapes
 #    - icon: twitter

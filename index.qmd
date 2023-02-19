@@ -15,7 +15,7 @@ lang: fr
 
 **Nov 2022** - Amanda et Kasia présentent le premier poster du laboratoire lors de la réunion VHRN à Montréal.
 
-![](images/m2b3_grey){fig-alt="Logo du laboratoire"}
+<!-- ![](images/m2b3_grey){fig-alt="Logo du laboratoire"} -->
 :::
 
 Nous travaillons à l'interface entre la cognition, le cerveau, les machines et le monde extérieur, en utilisant des mesures comportementales (parmi lesquelles l'oculométrie), des mesures physiologiques et des modèles computationnels. Nous travaillons avec des humains (et bientôt avec des animaux, y compris des primates non-humains) ainsi qu'avec des ensembles de données libres d'accès. Une grande partie de notre recherche se concentre sur la vision, l'ouïe et les mouvements des yeux, en considérant des aspects sensoriels, attentionnels et cognitifs. Nous gardons un œil attentif sur les applications directes à la technique, aux algorithmes et à la santé humaine.

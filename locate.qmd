@@ -1,0 +1,31 @@
+---
+title: "À propos du lab"
+---
+
+::: column-margin
+Financement:
+
+::: {#funding}
+::: {layout-ncol="2"}
+![](images/nsercLogo.png){fig-alt="NSERC logo"}
+
+![](images/mcgill.png){fig-alt="McGill logo"}
+
+![](images/cirmmt.png){fig-alt="CIRMMT logo"}
+
+![](images/vhrn.png){fig-alt="VHRN logo"}
+
+![](images/ivado.png){fig-alt="IVADO logo"}
+
+![](images/unique.png){fig-alt="UNIQUE logo"}
+:::
+:::
+:::
+
+Nous sommes joignables à cette [addresse](mailto: m2b3.lab@mcgill.ca).
+
+Localisation du laboratoire
+
+Nous sommes situés dans le [Département de Physiologie](https://www.mcgill.ca/physiology/) de McGill, et nous travaillons également au [CIRMMT]( https://www.cirmmt.org/fr/welcome-to-cirmmt?set_language=fr) (Le Centre Interdisciplinaire de Recherche en Musique, Médias et Technologie), au [BRAMS](https://brams.org/) (Laboratoire International de Recherche sur le Cerveau, la Musique et le Son), au [Neuro](https://www.mcgill.ca/neuro/fr) (Institut-Hôpital neurologique de Montréal) et au [CHUM](https://www.chumontreal.qc.ca/) (Centre hospitalier de l'Université de Montréal).
+
+Nous faisons aussi partie de [UNIQUE](https://fr.unique.quebec/) (le regroupement Neuro-IA de Montréal), du [CRM](https://www.crmath.ca/) (Centre de Recherches Mathématiques), du [RBIQ](https://rbiq-qbin.qc.ca/fr/) (Le Réseau de Bio-Imagerie du Québec), du [RRSV](https://reseauvision.ca/) (Réseau de Recherche en Santé de la Vision), du  [CRIR](https://crir.ca/) (Centre de Recherche Interdisciplinaire en Réadaptation du Montréal Métropolitain), et du [CRBLM](https://crblm.ca/fr/) (Le Centre de Recherche sur le Cerveau, le Langage et la Musique).

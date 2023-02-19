@@ -1,0 +1,8 @@
+website:
+  navbar:
+    right:
+    - text: "Back to lab"
+      href: members.qmd
+    - text: "Projects"
+      href: people/Suresh_projects.qmd
+

@@ -1,5 +1,14 @@
 ---
 title: "Projets"
+description: |
+lang: fr  
+
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+
 editor: visual
 ---
 

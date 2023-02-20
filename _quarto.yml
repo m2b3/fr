@@ -16,7 +16,7 @@ website:
     logo-alt: "Lab logo"
     href: https://m2b3.github.io/fr
     right:
-    - text: "Home"
+    - text: "Accueil"
       href: index.html
     - text: "Membres"
       href: members.qmd

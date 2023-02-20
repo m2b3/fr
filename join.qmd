@@ -9,7 +9,7 @@ output:
     toc: true
     toc_depth: 3
 ---
-
+<!-- ff -->
 * Nous sommes amicaux, gentils, collaboratifs, personnalisés, accommodants, inclusifs, solidaires et dédiés au progrès scientifique et individuel. Et amusants. Tous sont les bienvenus, et en particulier ceux qui ne se sont pas sentis les bienvenus par le passé. Nous valorisons la diversité.
 
 * Si vous êtes intéressé, veuillez envoyer votre CV et votre relevé de notes à cette [adresse](mailto : m2b3.lab@mcgill.ca), ainsi qu'une brève introduction expliquant pourquoi vous êtes intéressé par le laboratoire.
@@ -28,6 +28,6 @@ output:
 
 * Les étudiants du programme McGill-UESTC IPN-China sont les bienvenus. Le laboratoire participe activement à ce programme.
 
-### Postdocs and associés de recherche
+### Postdocs et associés de recherche
 
 * Les disponibilités pour postdocs dépendent de la situation financière du laboratoire, de l'éligibilité aux subventions postdocs externes, etc. Il existe une variété d'options qui changent d'année en année. Les demandes de renseignements sont les bienvenues, tout comme le parrainage de bourses internationales telles que [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships), etc.

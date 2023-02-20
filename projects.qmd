@@ -12,15 +12,13 @@ output:
 editor: visual
 ---
 
-
 Janv 2023 - Si vous avez des compétences en programmation, êtes intéressé par un stage d'été rémunéré (juin - juillet - août), et êtes relativement nouveau dans le monde du logiciel libre, contactez-nous - nous pourrions avoir 2 projets ou plus de Google Summer of Code disponibles.
 
-----------------
-
+------------------------------------------------------------------------
+<!-- ff -->
 Nous travaillons à l'interface entre l'esprit, le cerveau, les machines et le monde extérieur, en utilisant des mesures comportementales (y compris le suivi des yeux), des mesures physiologiques et la modélisation computationnelle. Nous travaillons avec des humains (et bientôt avec des animaux, y compris des primates non humains) ainsi qu'avec des ensembles de données ouverts, et une grande partie de notre recherche est axée sur la vision, l'ouïe et les mouvements oculaires, y compris les aspects sensoriels, attentionnels et cognitifs. Nous gardons un œil attentif sur les applications directes aux dispositifs, aux algorithmes et à la santé humaine.
 
 Nous pratiquons la science ouverte!
-
 
 ::: column-margin
 Financement:
@@ -42,28 +40,27 @@ Financement:
 :::
 :::
 
-
 Nous sommes fonctionnons enfin à plein régime après la longue pause imposée par la pandémie.
 
 Voici quelques-uns de nos projets actuels :
 
-###   Dynamique d'attention visuelle et mouvements oculaires
+### Dynamique d'attention visuelle et mouvements oculaires
 
 Responsable : Amanda Pruss (co-supervisée par [Chris Pack](https://www.mcgill.ca/neurology-neurosurgery/christopher-pack-phd)) - Nous poursuivons le travail de l'article de Yao et al. [eLife](https://elifesciences.org/articles/18009) et étudierons le transfert d'informations entre des mouvements oculaires.
 
-###   Neuro-AI
+### Neuro-AI
 
 Responsable : Yohaï-Eliel Berreby - Nous examinons des questions fondamentales et appliquées liées au fonctionnement des réseaux neuronaux artificiels et biologiques.
 
-###   Vision active
+### Vision active
 
 Responsable : Katarzyna Jurewicz - Katarzyna poursuit son travail, financé par IVADO, sur les aspects computationnels, psychophysiques et physiologiques de la vision active.
 
-###   Vision - IA, fMRI humain et comportement
+### Vision - IA, fMRI humain et comportement
 
 Responsables : Buxin Liao et Haoxiang Liu
 
-###   Flow
+### Flow
 
 Responsable : Oren Gurevitch (co-supervisé par [Simone Dalla Bella](https://brams.org/members/simone-dalla-bella/)) - Nous commençons un projet passionnant et hautement exploratoire sur la caractérisation des corrélats physiologiques et phénoménologiques des états d'expérience optimale (ou "flow").
 

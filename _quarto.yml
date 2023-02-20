@@ -18,13 +18,13 @@ website:
     right:
     - text: "Home"
       href: index.html
-    - text: "Lab Members"
+    - text: "Membres"
       href: members.qmd
-    - text: "Projects"
+    - text: "Projets"
       href: projects.qmd
-    - text: "Join"
+    - text: "Rejoindre"
       href: join.qmd
-    - text: "About"
+    - text: "À propos"
       href: locate.qmd
     - text: "English site"
       href: https://m2b3.github.io

@@ -1,51 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://m2b3.github.io/m2b3/index.html</loc>
-    <lastmod>2023-02-19T22:56:00.415Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/m2b3/join.html</loc>
-    <lastmod>2023-02-19T22:54:35.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/m2b3/locate.html</loc>
-    <lastmod>2023-02-19T22:54:36.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/m2b3/members.html</loc>
-    <lastmod>2023-02-19T22:54:54.053Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/m2b3/people/kasia.html</loc>
-    <lastmod>2023-02-11T23:38:31.287Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/m2b3/people/suresh.html</loc>
-    <lastmod>2023-02-11T23:38:32.154Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/m2b3/projects.html</loc>
-    <lastmod>2023-02-19T22:54:55.025Z</lastmod>
-  </url>
-  <url>
     <loc>https://m2b3.github.io/fr/index.html</loc>
-    <lastmod>2023-02-20T00:34:58.042Z</lastmod>
+    <lastmod>2023-02-20T01:59:23.448Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/fr/join.html</loc>
-    <lastmod>2023-02-20T00:35:08.941Z</lastmod>
+    <lastmod>2023-02-20T01:58:51.728Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/fr/locate.html</loc>
-    <lastmod>2023-02-20T00:35:17.897Z</lastmod>
+    <lastmod>2023-02-20T01:58:52.658Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/fr/members.html</loc>
-    <lastmod>2023-02-20T00:35:42.536Z</lastmod>
+    <lastmod>2023-02-20T01:59:40.065Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/fr/projects.html</loc>
-    <lastmod>2023-02-20T00:35:54.672Z</lastmod>
+    <lastmod>2023-02-20T01:59:11.245Z</lastmod>
   </url>
 </urlset>

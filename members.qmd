@@ -28,7 +28,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo of Kasia"}](#kasia)
 
-[![Yohai-Eliel Berreby](images/yohaism.png){fig-alt="Photo of Yohai"}](#yohai)
+[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai"}](#yohai)
 
 [![Amanda Pruss](images/marty.png){fig-alt="Photo of Amanda"}](#amanda)
 
@@ -92,7 +92,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Yohaï-Eliel Berreby
 
 ::: column-margin
-![](images/yohaism.png){fig-alt="Photo of Yohai" width="200"}
+![](images/yohaism2.png){fig-alt="Photo of Yohai" width="200"}
 :::
 
 -   Étudiant à la Maîtrise, Département de Physiologie, McGill

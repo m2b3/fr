@@ -14,7 +14,8 @@ lang: fr
 **Janv 2023** - Yohai et Oren rejoignent le laboratoire en tant que nouveaux étudiants en MSc ; Anais commence son cours de recherche de premier cycle au laboratoire. Bienvenue !
 
 **Nov 2022** - Amanda et Kasia présentent le premier poster du laboratoire lors de la réunion VHRN à Montréal.
-----------------------
+
+-------------------------------
 <!-- ![](images/emc3_grey){fig-alt="Logo du laboratoire"} -->
 :::
 

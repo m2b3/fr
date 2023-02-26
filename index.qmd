@@ -23,4 +23,4 @@ Nous travaillons à l'interface entre la cognition, le cerveau, les machines et 
 
 Plus de détails sur la page [Projets](projects.qmd).
 
-[![](images/contact.png){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)
+[![](images/contactsm.png){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)

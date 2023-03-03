@@ -80,5 +80,5 @@ Responsable : Suresh Krishna (avec Injy Fouda et Anais Rubsamen) - En collaborat
 
 3. [Montréal SAT Metalab: Utilisation de la capture de mouvement sans marqueur pour la génération de musique, la créativité musicale et les interactions musique-danse](https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-ideas/livepose-audiovisual-generation/)
 
-Un projet exemple visant à construire un logiciel libre de suivi oculaire sur téléphone en utilisant PyTorch est disponible [ici.](https://dssr2.github.io/gaze-track/).
+Un projet exemple visant à construire un logiciel libre de suivi oculaire sur téléphone en utilisant PyTorch est disponible [ici](https://dssr2.github.io/gaze-track/).
 

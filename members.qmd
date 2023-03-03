@@ -11,6 +11,7 @@ output:
 
 execute:
   echo: false
+  freeze: auto
 knitr:
   opts_chunk: 
     collapse: true

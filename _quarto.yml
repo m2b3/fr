@@ -8,7 +8,7 @@ website:
   favicon: images/m2b3sq_favicon.png
   
   page-footer: 
-    right: "Cette page a été créée avec ❤️ et [Quarto](https://quarto.org/), utilisant un thème trouvé chez [vetiver](https://github.com/rstudio/vetiver.rstudio.com) via [NASA Openscapes](https://nasa-openscapes.github.io/). 
+    left: "Cette page a été créée avec ❤️ et [Quarto](https://quarto.org/), utilisant un thème trouvé chez [vetiver](https://github.com/rstudio/vetiver.rstudio.com) via [NASA Openscapes](https://nasa-openscapes.github.io/). 
     \nTraduction française par Amanda, Anais et Yohaï-Eliel"
  
   navbar:

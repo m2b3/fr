@@ -18,7 +18,7 @@ output:
 
 ### Etudiants de Premier Cycle
 
-* Les étudiants de premier cycle de McGill sont les bienvenus en tant que chercheurs indépendants encadrés, ou dans le cadre de cours de recherche comme PHGY 396, COGS 444 D1/D2, PSYC 395/494, COMP 401, NSCI 420 etc. Il existe des projets d'analyse de données/théorie basés sur la programmation pour ceux qui ont des compétences en programmation et des projets basés sur la psychophysique humaine pour ceux qui s'y intéressent. Il y a également des projets liés à la musique. Veuillez envoyer votre CV et votre relevé de notes à cette adresse [e-mail](mailto : m2b3.lab@mcgill.ca).
+* Les étudiants de premier cycle de McGill sont les bienvenus en tant que chercheurs indépendants encadrés, ou dans le cadre de cours de recherche comme PHGY 396/461, COGS 444 D1/D2, PSYC 395/494, COMP 401, NSCI 420 etc. Il existe des projets d'analyse de données/théorie basés sur la programmation pour ceux qui ont des compétences en programmation et des projets basés sur la psychophysique humaine pour ceux qui s'y intéressent. Il y a également des projets liés à la musique. Veuillez envoyer votre CV et votre relevé de notes à cette adresse [e-mail](mailto : m2b3.lab@mcgill.ca).
 
 * Il existe plusieurs bourses possibles pour les étudiants internationaux de premier cycle issus de pays sous-représentés, notamment [ici](https://www.educanada.ca/scholarships-bourses/can/institutions/asean-anase.aspx?lang=eng), [ici](https://www.educanada.ca/scholarships-bourses/can/institutions/study-in-canada-sep-etudes-au-canada-pct.aspx?lang=eng), et [ici](https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng). 
 

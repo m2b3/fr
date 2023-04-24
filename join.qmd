@@ -12,7 +12,7 @@ output:
 <!-- ff -->
 * Nous sommes amicaux, gentils, collaboratifs, personnalisés, accommodants, inclusifs, solidaires et dédiés au progrès scientifique et individuel. Et amusants. Tous sont les bienvenus, et en particulier ceux qui ne se sont pas sentis les bienvenus par le passé. Nous valorisons la diversité.
 
-* En ce moment, nous recherchons particulièrement des personnes (à tous les niveaux) qui s'intéressent à l'analyse *quantitative des données neuronales* et aux *neurosciences computationnelles*, et qui possèdent des compétences et des antécédents adaptés à ces domaines. L'analyse des données neurales peut inclure les données *spiking*, *LFP* et *EEG/MEG*, ainsi que les données *IRMf*.
+* En ce moment, nous recherchons particulièrement des personnes (à tous les niveaux) qui s'intéressent à l'analyse **quantitative des données neuronales** et aux **neurosciences computationnelles**, et qui possèdent des compétences et des antécédents adaptés à ces domaines. L'analyse des données neurales peut inclure les données *spiking*, *LFP* et *EEG/MEG*, ainsi que les données *IRMf*.
 
 * Si vous êtes intéressé, veuillez envoyer votre CV et votre relevé de notes à cette [adresse](mailto : m2b3.lab@mcgill.ca), ainsi qu'une brève introduction expliquant pourquoi vous êtes intéressé par le laboratoire.
 

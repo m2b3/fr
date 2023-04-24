@@ -29,6 +29,14 @@ Financement:
 ![](images/unique.png){fig-alt="UNIQUE logo"}
 :::
 :::
+
+Soutien:
+
+::: {#support}
+::: {layout-ncol="2"}
+![https://zulip.com](images/zulip.png){fig-alt="Zulip"}
+:::
+:::
 :::
 
 Nous sommes joignables à cette [addresse](mailto: m2b3.lab@mcgill.ca).

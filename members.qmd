@@ -43,7 +43,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Injy Fouda](images/injysm.png){fig-alt="Photo of Injy"}](#injy)
 
-[![Pegah Aghili](images/pegahsm.png){fig-alt="Photo of Pegah"}](#pegah)
+[![Chen Liu](images/chensm.png){fig-alt="Photo of Chen"}](#chen)
 :::
 
 <!-- ### Étudiants de 1er Cycle Observateurs Actuels -->
@@ -173,17 +173,19 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------
 
-<a name="pegah"></a>
+<a name="chen"></a>
 
-#### Pegah Aghili
+#### Chen Liu
 
 ::: column-margin
-![](images/pegahsm.png){fig-alt="Photo of Pegah" width="200"}
+![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
 :::
 
-* Étudiante au Baccalauréat en Physiologie avec une mineure en informatique, Université McGill
-* J'ai travaillé avec l'ensemble de données du NWB sur la mémoire sous la supervision du Dr Krishna, et je suis très intéressé à acquérir plus de connaissances dans le domaine des neurosciences computationnelles et cliniques.
-* [Courriel](mailto:%20pegah.aghili@mail.mcgill.ca)
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+-   B. Ing. en Génie Environnementale, Université du Sud-Est, Nanjing, Chine.
+-   Je m'intéresse au développement de la technologie EEG et à la recherche sur les méthodes BCI.
+-   [Courriel](mailto:chen.liu6@mail.mcgill.ca)
 
 -------------------------
 

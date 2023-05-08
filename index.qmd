@@ -5,6 +5,8 @@ lang: fr
 ::: column-margin
 **Actualités**
 
+**May 2023** - Kasia reçoit un prix de présentation scientifique et de formation de la part de VHRN.
+
 **Mars 2023** - L'équipe composée d'Anais, d'Amanda, de Yohai et d'Ula a reçu une bourse d'études du CIRMMT pour travailler sur leur projet de performance musicale.
 
 **Janv 2023** - Si vous avez des compétences en programmation, êtes intéressé.e par un stage d'été rémunéré (juin-juillet-août) et êtes relativement nouveau dans le monde du logiciel libre, contactez-nous - nous pourrions avoir 2 projets ou plus disponibles dans le cadre du programme [Google Summer of Code](projects.qmd){#google-summer-of-code-2023}.

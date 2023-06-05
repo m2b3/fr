@@ -50,11 +50,11 @@ Responsable : Yohaï-Eliel Berreby - Nous examinons des questions fondamentales 
 
 ### Vision active
 
-Responsable : Katarzyna Jurewicz - Katarzyna poursuit son travail, financé par IVADO, sur les aspects computationnels, psychophysiques et physiologiques de la vision active.
+Responsables : Katarzyna Jurewicz - Katarzyna poursuit son travail, financé par IVADO, sur les aspects computationnels, psychophysiques et physiologiques de la vision active. Et Buxin travaille sur la modélisation de la vision active.
 
-### Vision - IA, fMRI humain et comportement
+### Epilepsie
 
-Responsables : Buxin Liao et Haoxiang Liu
+Responsable : Haoxiang Liu - Nous travaillons sur un projet exploratoire visant à harmoniser ensembles de données et algorithmes ouverts portant sur l'épilepsie.
 
 ### Flow
 

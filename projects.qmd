@@ -70,11 +70,9 @@ Responsable : Suresh Krishna (avec Injy Fouda et Anais Rubsamen) - En collaborat
 
 ### Google Summer of Code 2023
 
-1. [INCF: Un outil fondé sur les réseaux d'interactions sociales facilitant l'évaluation et les commentaires sur les rapports de recherche](https://neurostars.org/t/gsoc-2023-project-idea-13-1-a-social-web-tool-to-facilitate-rating-and-commenting-on-research-reports-350-h/24589)
+1. [INCF: Un outil fondé sur les réseaux d'interactions sociales facilitant l'évaluation et les commentaires sur les rapports de recherche](https://neurostars.org/t/gsoc-2023-project-idea-13-1-a-social-web-tool-to-facilitate-rating-and-commenting-on-research-reports-350-h/24589). Stagiare - Jyothi Swaroop Reddy
 
-2. [INCF: Mesure efficace des fonctions visuelles des nourrissons et des jeunes enfants à l'aide d'une application](https://neurostars.org/t/gsoc-2023-project-idea-8-1-efficient-app-based-measurement-of-visual-functions-in-in-infants-and-young-children-350-h/24583)
-
-3. [Montréal SAT Metalab: Utilisation de la capture de mouvement sans marqueur pour la génération de musique, la créativité musicale et les interactions musique-danse](https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-ideas/livepose-audiovisual-generation/)
+2. [INCF: Mesure efficace des fonctions visuelles des nourrissons et des jeunes enfants à l'aide d'une application](https://neurostars.org/t/gsoc-2023-project-idea-8-1-efficient-app-based-measurement-of-visual-functions-in-in-infants-and-young-children-350-h/24583). Stagiare - Soham Mulye
 
 Un projet exemple visant à construire un logiciel libre de suivi oculaire sur téléphone en utilisant PyTorch est disponible [ici](https://dssr2.github.io/gaze-track/).
 

@@ -5,6 +5,8 @@ lang: fr
 ::: column-margin
 **Actualités**
 
+**Juin 2023** - Alexandru, Lilia et Youzhi rejoignent le laboratoire en tant que stagiaires d'été. Alexandru suivra ensuite le cours NSCI 410 avec nous pendant deux semestres.
+
 **Mai 2023** - Kasia reçoit un prix de présentation scientifique et de formation de la part du RRSV.
 
 **Mars 2023** - L'équipe composée d'Anais, d'Amanda, de Yohai et d'Ula a reçu une bourse d'études du CIRMMT pour travailler sur leur projet de performance musicale.

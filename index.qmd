@@ -28,5 +28,7 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Nov 2022** - Amanda et Kasia présentent le premier poster du laboratoire lors de la réunion VHRN à Montréal.
 
+![](images/emc3_grey){fig-alt="Logo du laboratoire"}
+
 -------------------------------
-<!-- ![](images/emc3_grey){fig-alt="Logo du laboratoire"} -->
+

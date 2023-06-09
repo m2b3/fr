@@ -2,10 +2,17 @@
 lang: fr  
 ---
 
-::: column-margin
+Nous travaillons à l'interface entre la cognition, le cerveau, les machines et le monde extérieur, en utilisant des mesures comportementales (parmi lesquelles l'oculométrie), des mesures physiologiques et des modèles computationnels. Nous travaillons avec des humains (et bientôt avec des animaux, y compris des primates non-humains) ainsi qu'avec des ensembles de données libres d'accès. Une grande partie de notre recherche se concentre sur la vision, l'ouïe et les mouvements des yeux, en considérant des aspects sensoriels, attentionnels et cognitifs. Nous gardons un œil attentif sur les applications directes à la technique, aux algorithmes et à la santé humaine.
+
+Plus de détails sur la page [Projets](projects.qmd).
+
+[![](images/contactsm.png){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)
+
+<!-- to make a contact sheet, set boundaries in irfanview thumbnails -->
+
 **Actualités**
 
-**Juin 2023** - Alexandru, Bradley, Lilia et Youzhi rejoignent le laboratoire en tant que stagiaires d'été. Alexandru suivra ensuite le cours NSCI 410 avec nous pendant deux semestres.
+**Juin 2023** - Alexandru, Bradley, Yavuz, Lilia et Youzhi rejoignent le laboratoire en tant que stagiaires d'été. Alexandru et Lilia suivront ensuite les cours NSCI 410 et PSYC 494 respectivement avec nous pendant deux semestres. 
 
 **Mai 2023** - Kasia reçoit un prix de présentation scientifique et de formation de la part du RRSV.
 
@@ -23,12 +30,3 @@ lang: fr
 
 -------------------------------
 <!-- ![](images/emc3_grey){fig-alt="Logo du laboratoire"} -->
-:::
-
-Nous travaillons à l'interface entre la cognition, le cerveau, les machines et le monde extérieur, en utilisant des mesures comportementales (parmi lesquelles l'oculométrie), des mesures physiologiques et des modèles computationnels. Nous travaillons avec des humains (et bientôt avec des animaux, y compris des primates non-humains) ainsi qu'avec des ensembles de données libres d'accès. Une grande partie de notre recherche se concentre sur la vision, l'ouïe et les mouvements des yeux, en considérant des aspects sensoriels, attentionnels et cognitifs. Nous gardons un œil attentif sur les applications directes à la technique, aux algorithmes et à la santé humaine.
-
-Plus de détails sur la page [Projets](projects.qmd).
-
-[![](images/contactsm.png){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)
-
-<!-- to make a contact sheet, set boundaries in irfanview thumbnails -->

@@ -6,7 +6,7 @@ Nous travaillons à l'interface entre la cognition, le cerveau, les machines et 
 
 Plus de détails sur la page [Projets](projects.qmd).
 
-[![](images/labphoto1.png){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)
+[![](images/labphoto1.jpg){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)
 
 <!-- to make a contact sheet, set boundaries in irfanview thumbnails -->
 

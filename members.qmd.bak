@@ -194,12 +194,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/noasm.png){fig-alt="Photo of Noa" width="200"}
 :::
 
--   Étudiante à la Maîtrise, Département de Physiologie, McGill.
--   Baccalauréat complété à McGill en Biologie et Informatique.
--   Entre la comédie musicale, l'informatique et le cerveau - je suis incapable de choisir, alors je compte étudier une de leur intersection: la physiologie de l'audition spatiale.
--   J'ai vécu toute mon enfance en Belgique, mais la moitié de ma famille est en Israël et j’y ai passé la plupart de mes étés. Aujourd’hui, là où je me sens le plus chez-moi est clairement Montréal.
--   [Courriel](mailto:noa.kemp@mail.mcgill.ca)
-
+* M.Sc. Student, Department of Physiology, McGill.
+* B.Sc. in Biology and Computer Science, McGill.
+* Between musical theater, computer science and the brain - I wasn’t able to chose so I will focus on one of their intersections: the physiology of spatial hearing.
+* I was born and raised in Belgium. However half of my family lives in Israel and I have spent most of my summers there. Today, the place I truly call home is definitely Montreal.
 
 ------------------------------------------------------------------
 
@@ -207,10 +205,9 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 #### Alexandru Tecu
 
--   Étudiant au Baccalauréat en Neurosciences, Université McGill.
--   Présentement en train de poursuivre mes études dans le domaine de Neurophysiologie/Neurosciences Computationnelles.
--   [Courriel](mailto:alexandru.tecu.0@gmail.com)
-
+* B.A. Sc Neuroscience student, McGill University.
+* Currently completing my degree under the Neurophysiology/Neural Computational stream
+* [Email](mailto:alexandru.tecu.0@gmail.com)
 
 -----------------------------------------------------------
 
@@ -222,9 +219,9 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/youzhism.png){fig-alt="Photo of Youzhi" width="200"}
 :::
 
-- Étudiant au Baccalauréat en Psychologie, Université McGill.
-- Je suis intéressé par l’aspect cognitif car il permet d’expliquer certains comportements, l’esprit humain, informer des interventions et notamment avancer nos connaissances en processus cognitifs.
-- [Courriel](mailto:youzhi.huang@mail.mcgill.ca)
+* B.Sc. Student, Department of Psychology, McGill. 
+* I am interested in the cognition aspect, it provides valuable insights into the workings of the human mind, explaining behavior, informing interventions, and advancing our understanding of various cognitive processes. 
+* [Email](mailto:youzhi.huang@mail.mcgill.ca)
 
 ---------------------------------------------------------
 
@@ -236,11 +233,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/bradleysm.png){fig-alt="Photo of Bradley" width="200"}
 :::
 
-
-- Étudiant en dip. 2e c en Musicothérapie , Faculté des Beaux-Arts, Concordia.
-- Baccalauréat complété en Musique et Psychologie, Université McGill.
-- En combinant une dizaine d'années de formation musicale avec de l'expérience clinique, j’aspire à combler cet écart en examinant l’activité physiologique et neuronale en rapport avec la musicothérapie. Je me concentre particulièrement sur l’intersection entre la promotion de santé et de la musique. 
-- [Courriel](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
+* GrDip Music Therapy Student, Department of Fine Arts, Concordia 
+* Joint B.A. in Psychology and Music, McGill 
+* Combining a decade of musical training with clinical experience in a therapeutic context,  I strive to bridge the gap by examining neural and physiological correlates of music therapy with a special focus on the intersection of music and health promotion. 
+* [Email](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
 
 -------------------------
 
@@ -252,7 +248,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/anaissm.png){fig-alt="Photo of Anais" width="200"}
 :::
 
-* Étudiante au Baccalauréat en Psychologie, Université McGill.
+* Étudiante au Baccalauréat en Psychologie, Université McGill
 * À court terme, je souhaite maîtriser les logiciels, les technologies et les techniques utilisés dans la recherche et les traitements en psychologie, avec un accent particulier sur Python et R. À long terme, je souhaite développer des stratégies pour améliorer les soins aux personnes vivant avec des psychopathologies et des douleurs chroniques, avec un accent particulier sur le TPB.
 * [Courriel](mailto:%20anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
 
@@ -263,7 +259,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Lilia Fernane
 
 * U3 Étudiante au Baccalauréat en Neuroscience, Université McGill
-* [Courriel](mailto:lilia.fernane@mail.mcgill.ca)
+
 ------------------------------------------------------------------------
 
 <a name="yavuz"></a>
@@ -271,7 +267,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Yavuz Shahzad
 
 * U1 Étudiante au Baccalauréat en Psychologie et Mathématiques, Université McGill
-* [Courriel](mailto:yavuz.shahzad@mail.mcgill.ca)
+
 ------------------------------------------------------------------------
 
 
@@ -318,7 +314,7 @@ tm_shape(World)+
   tm_shape(ogeocode2)+
   tm_dots(size = 1, col = "orange")+
   tm_layout()+
-     tm_credits("Réalisée avec tmap",
+     tm_credits("Made using tmap",
              position = c("RIGHT", "BOTTOM"))
 ```
 
@@ -337,8 +333,8 @@ tm_shape(World)+
 
 ::: {#photos layout-ncol="2"}
 
-![De la bonne bouffe, du fun](images/p2.png){fig-alt="lab1"}
+![Le Food, Le Fun](images/p2.png){fig-alt="lab1"}
 
-![et du cricket Français, ici au Québec](images/p1.png){fig-alt="lab2"}
+![& Le French Cricket au Québec](images/p1.png){fig-alt="lab2"}
 
 :::

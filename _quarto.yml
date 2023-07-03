@@ -9,7 +9,7 @@ website:
   
   page-footer: 
     left: "Cette page a été créée avec ❤️ et [Quarto](https://quarto.org/), utilisant un thème trouvé chez [vetiver](https://github.com/rstudio/vetiver.rstudio.com) via [NASA Openscapes](https://nasa-openscapes.github.io/). 
-    \nTraduction française par Amanda, Anais, Noa et Yohaï-Eliel"
+    \nTraduction française par Amanda, Anais, Noa, Bradley et Yohaï-Eliel"
  
   navbar:
     logo: images/m2b3_white.png

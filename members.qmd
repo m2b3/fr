@@ -80,7 +80,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 -   A passé du temps à l'Université Columbia, au CNRS (Lyon), au Centre Allemand de Primates (Goettingen), à l'Institut Max-Planck de Développement Humain (Berlin), avant de venir à McGill (janvier 2020).
 
--   [Courriel](mailto:suresh.krishna@mcgill.ca);[Google Scholar](https://tinyurl.com/48dfzjuk)
+-   [Courriel](mailto:suresh.krishna@mcgill.ca); [Google Scholar](https://tinyurl.com/48dfzjuk)
 
 ------------------------------------------------------------------------
 
@@ -222,8 +222,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/youzhism.png){fig-alt="Photo of Youzhi" width="200"}
 :::
 
-- Étudiant au Baccalauréat en Psychologie, Université McGill.
-- Je suis intéressé par l’aspect cognitif car il permet d’expliquer certains comportements, l’esprit humain, informer des interventions et notamment avancer nos connaissances en processus cognitifs.
+- Étudiante au Baccalauréat en Psychologie, Université McGill.
+- Je suis intéressée par l’aspect cognitif car il permet d’expliquer certains comportements, l’esprit humain, informer des interventions et notamment avancer nos connaissances en processus cognitifs.
 - [Courriel](mailto:youzhi.huang@mail.mcgill.ca)
 
 ---------------------------------------------------------

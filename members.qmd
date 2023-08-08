@@ -18,7 +18,7 @@ knitr:
     results: false
 ---
 
-### Membres Actuels du Laboratoire
+### Membres actuels du laboratoire
 <!-- ff -->
 ::: column-margin
 L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).

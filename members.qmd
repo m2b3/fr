@@ -18,7 +18,7 @@ knitr:
     results: false
 ---
 
-### Membres Actuels du Laboratoire
+### Membres actuels du laboratoire
 <!-- ff -->
 ::: column-margin
 L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
@@ -50,6 +50,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Alexandru Tecu](images/marty2.png){fig-alt="Photo of Alexandru"}](#alexandru)
 
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
+
+[![Divi Maheshwari](images/divism.jpg){fig-alt="Photo of Divi"}](#divi)
 
 :::
 
@@ -257,6 +259,22 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 * [Courriel](mailto:%20anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
 
 ------------------------------------------------------------------------
+
+<a name="divi"></a>
+
+#### Divi Maheshwari
+
+::: column-margin
+![](images/divism.jpg){fig-alt="Photo of Divi" width="200"}
+:::
+
+* B.A. en Psychologie et Histoire, McGill.
+* Je travaille actuellement à apprendre une interface d'oculométrie ainsi que la programmation MATLAB, avant d'entamer un projet indépendant avec le laboratoire.
+* [Email](mailto:divi.maheshwari@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/divimaheshwari/)
+
+---------------------------------------------------------
+
+
 
 <a name="lilia"></a>
 

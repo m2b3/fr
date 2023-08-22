@@ -12,7 +12,7 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
-**Août 2023** -  La première série de prépublications du laboratoire est disponible ! Félicitations, Kasia et Buxin.
+**Août 2023** -  La première série de [prépublications](output.qmd) du laboratoire est disponible ! Félicitations, Kasia et Buxin.
 
 **Août 2023** - Oren a remporté la bourse commémorative Jenny Panitch Beckow (20 000 CAD) pour son projet concernant l'absorption musicale. Félicitations Oren.
 

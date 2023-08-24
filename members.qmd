@@ -57,10 +57,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 :::
 
-[//]: # (### Étudiants de 1er Cycle Observateurs Actuels) 
-[//]: # (::: {#observers layout-ncol="5"})
-[//]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
-[//]: # (:::)
+[comm1]: # (### Étudiants de 1er Cycle Observateurs Actuels) 
+[comm2]: # (::: {#observers layout-ncol="5"})
+[comm3]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
+[comm4]: # (:::)
 
 ------------------------------------------------------------------------
 

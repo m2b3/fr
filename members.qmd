@@ -53,6 +53,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Divi Maheshwari](images/divism.jpg){fig-alt="Photo of Divi"}](#divi)
 
+[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
+
 :::
 
 ### Étudiants de 1er Cycle Observateurs Actuels
@@ -61,8 +63,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 
 [![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz)
-
-[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
 
 :::
 

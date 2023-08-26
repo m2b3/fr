@@ -61,6 +61,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 [comm2]: # (::: {#observers layout-ncol="5"})
 [comm3]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
 [comm4]: # (:::)
+### Stagiares - Google Summer of Code
+
+* Jyothi Swaroop Reddy Bommareddy
+* Soham Mulye
 
 ------------------------------------------------------------------------
 
@@ -352,6 +356,7 @@ tm_shape(World)+
 -	PSYC 395 Anais Rubsamen 
 -   Bourse de Recherche Mackey-Glass -- Tim Yang
 -   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad
+-   Stagiares - Google Summer of Code - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma.
 
 --------------------------------------------------
 

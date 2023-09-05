@@ -27,17 +27,17 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Mai 2023** - Kasia reçoit un prix de présentation scientifique et de formation de la part du RRSV. 🏆
 
-**Mars 2023** - L'équipe composée d'Anais, d'Amanda, de Yohai et d'Ula a reçu une bourse d'études du CIRMMT pour travailler sur leur projet de performance musicale.
+**Mars 2023** - L'équipe composée d'Anais, d'Amanda, de Yohai et d'Ula a reçu une bourse d'études du CIRMMT pour travailler sur leur projet de performance musicale. 🏆
 
 **Janv 2023** - Si vous avez des compétences en programmation, êtes intéressé.e par un stage d'été rémunéré (juin-juillet-août) et êtes relativement nouveau dans le monde du logiciel libre, contactez-nous - nous pourrions avoir 2 projets ou plus disponibles dans le cadre du programme [Google Summer of Code](projects.qmd){#google-summer-of-code-2023}.
 
-**Janv 2023** - Yohaï-Eliel et Oren reçoivent chacun une bourse de recrutement RRSV. Félicitations à tous les deux !
+**Janv 2023** - Yohaï-Eliel et Oren reçoivent chacun une bourse de recrutement RRSV. Félicitations à tous les deux ! 🏆
 
-**Janv 2023** - Kasia a reçu une bourse d'excellence postdoctorale UNIQUE !
+**Janv 2023** - Kasia a reçu une bourse d'excellence postdoctorale UNIQUE ! 🏆
 
-**Janv 2023** - Yohai et Oren rejoignent le laboratoire en tant que nouveaux étudiants en MSc ; Anais commence son cours de recherche de premier cycle au laboratoire. Bienvenue !
+**Janv 2023** - Yohai et Oren rejoignent le laboratoire en tant que nouveaux étudiants en MSc ; Anais commence son cours de recherche de premier cycle au laboratoire. Bienvenue ! :wave:
 
-**Nov 2022** - Amanda et Kasia présentent le premier poster du laboratoire lors de la réunion RRSV à Montréal.
+**Nov 2022** - Amanda et Kasia présentent le premier poster du laboratoire lors de la réunion RRSV à Montréal. 🏆
 
 ![](images/emc3_grey){fig-alt="Logo du laboratoire"}
 

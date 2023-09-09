@@ -9,6 +9,8 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 [![](images/lp2.png){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)
 
+[Plus de photos](https://m2b3.github.io/members.html#us)
+
 <!-- to make a contact sheet, set boundaries in irfanview thumbnails -->
 
 **Actualités**

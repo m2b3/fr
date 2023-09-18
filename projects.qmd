@@ -44,6 +44,8 @@ Voici quelques-uns de nos projets actuels :
 
 Responsable : Amanda Pruss (co-supervisée par [Chris Pack](https://www.mcgill.ca/neurology-neurosurgery/christopher-pack-phd)) - Nous poursuivons le travail de l'article de Yao et al. [eLife](https://elifesciences.org/articles/18009) et étudierons le transfert d'informations entre des mouvements oculaires.
 
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+
 ### Neuro-AI
 
 Responsable : Yohaï-Eliel Berreby - Nous examinons des questions fondamentales et appliquées liées au fonctionnement des réseaux neuronaux artificiels et biologiques.

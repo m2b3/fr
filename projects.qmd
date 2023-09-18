@@ -64,6 +64,10 @@ Responsables : Katarzyna Jurewicz - Katarzyna poursuit son travail, financé par
 
 Responsable : Haoxiang Liu - Nous travaillons sur un projet exploratoire visant à harmoniser ensembles de données et algorithmes ouverts portant sur l'épilepsie.
 
+### Perception audiovisuelle
+
+Chercheuse principale: Noa Kemp (co-supervisée par [Catherine Guastavino](https://www.mcgill.ca/sis/people/faculty/guastavino)) - nous travaillons sur plusieurs projets impliquant la localisation auditive et visuelle, le mouvement et l’intégration de l’objet.
+
 ### Flow
 
 Responsable : Oren Gurevitch (co-supervisé par [Simone Dalla Bella](https://brams.org/members/simone-dalla-bella/)) - Nous commençons un projet passionnant et hautement exploratoire sur la caractérisation des corrélats physiologiques et phénoménologiques des états d'expérience optimale (ou "flow").

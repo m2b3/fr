@@ -48,9 +48,17 @@ Responsable : Amanda Pruss (co-supervisée par [Chris Pack](https://www.mcgill.c
 
 Responsable : Yohaï-Eliel Berreby - Nous examinons des questions fondamentales et appliquées liées au fonctionnement des réseaux neuronaux artificiels et biologiques.
 
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+   
+* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
+
 ### Vision active
 
 Responsables : Katarzyna Jurewicz - Katarzyna poursuit son travail, financé par IVADO, sur les aspects computationnels, psychophysiques et physiologiques de la vision active. Et Buxin travaille sur la modélisation de la vision active.
+
+* Information integration across saccades plays a prominent role during goal-directed viewing of everyday scenes. [PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
+
+* Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
 
 ### Epilepsie
 

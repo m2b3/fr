@@ -43,6 +43,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa"}](#noa)
 
+[![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
+
 [![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
 
 [![Youzhi Huang](images/youzhism.png){fig-alt="Photo of Youzhi"}](#youzhi)
@@ -152,7 +154,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/haoxiangsm.png){fig-alt="Photo of Haoxiang" width="200"}
 :::
 
--   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
 -   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
 -   B. Ing. en Génie des Réseaux, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
 -   [Courriel](mailto:haoxiang.liu@mail.mcgill.ca), [GitHub](https://github.com/hxliu4mcgill)
@@ -182,7 +184,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/buxinsm.png){fig-alt="Photo of Buxin" width="200"}
 :::
 
--   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
 -   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
 -   B. Ing. en Génie Biomédical, Université du Sud-Est, Nanjing, Chine.
 -   [Courriel](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
@@ -197,7 +199,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
 :::
 
--   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
 -   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
 -   B. Ing. en Génie Environnementale, Université du Sud-Est, Nanjing, Chine.
 -   Je m'intéresse au développement de la technologie EEG et à la recherche sur les méthodes BCI.
@@ -219,6 +221,20 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   J'ai vécu toute mon enfance en Belgique, mais la moitié de ma famille est en Israël et j’y ai passé la plupart de mes étés. Aujourd’hui, là où je me sens le plus chez-moi est clairement Montréal.
 -   [Courriel](mailto:noa.kemp@mail.mcgill.ca)
 
+------------------------------------------------------------------
+
+<a name="xinning"></a>
+
+#### Xinning Le
+
+::: column-margin
+![](images/xinning.png){fig-alt="Photo of Xinning" width="200"}
+:::
+
+* Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
+* Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+* B. Ing. en Sécurité de l'information, Université des postes et télécommunications de Xi'an, Xian, Chine.
+* [Courriel](mailto:xinning.le@mail.mcgill.ca)
 
 ------------------------------------------------------------------
 

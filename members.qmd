@@ -25,45 +25,47 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 :::
 
 ::: {#members layout-ncol="6"}
-[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh"}](#suresh)
+[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo de Suresh"}](#suresh)
 
-[![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo of Kasia"}](#kasia)
+[![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo de Kasia"}](#kasia)
 
-[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai"}](#yohai)
+[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo de Yohai"}](#yohai)
 
-[![Amanda Pruss](images/marty.png){fig-alt="Photo of Amanda"}](#amanda)
+[![Amanda Pruss](images/marty.png){fig-alt="Photo de Amanda"}](#amanda)
 
-[![Haoxiang Liu](images/haoxiangsm.png){fig-alt="Photo of Haoxiang"}](#haoxiang)
+[![Haoxiang Liu](images/haoxiangsm.png){fig-alt="Photo de Haoxiang"}](#haoxiang)
 
-[![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren"}](#oren)
+[![Oren Gurevitch](images/orensm.png){fig-alt="Photo de Oren"}](#oren)
 
-[![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin"}](#buxin)
+[![Buxin Liao](images/buxinsm.png){fig-alt="Photo de Buxin"}](#buxin)
 
-[![Chen Liu](images/chensm.png){fig-alt="Photo of Chen"}](#chen)
+[![Chen Liu](images/chensm.png){fig-alt="Photo de Chen"}](#chen)
 
-[![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa"}](#noa)
+[![Noa Kemp](images/noasm.png){fig-alt="Photo de Noa"}](#noa)
 
-[![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
+[![Xinning Le](images/xinning.png){fig-alt="Photo de Xinning"}](#xinning)
 
-[![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
+[![Sizhuo Wang](images/sizhuo.png){fig-alt="Photo de Sizhuo"}](#sizhuo)
 
-[![Youzhi Huang](images/youzhism.png){fig-alt="Photo of Youzhi"}](#youzhi)
+[![Anais Rubsamen](images/anaissm.png){fig-alt="Photo de Anais"}](#anais)
 
-[![Alexandru Tecu](images/marty2.png){fig-alt="Photo of Alexandru"}](#alexandru)
+[![Youzhi Huang](images/youzhism.png){fig-alt="Photo de Youzhi"}](#youzhi)
 
-[![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
+[![Alexandru Tecu](images/marty2.png){fig-alt="Photo de Alexandru"}](#alexandru)
 
-[![Divi Maheshwari](images/divism.jpg){fig-alt="Photo of Divi"}](#divi)
+[![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo de Bradley"}](#bradley)
 
-[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
+[![Divi Maheshwari](images/divism.jpg){fig-alt="Photo de Divi"}](#divi)
 
-[![Romina Niksirat](images/rominasm.png){fig-alt="Photo of Romina"}](#romina)
+[![Lilia Fernane](images/marty2.png){fig-alt="Photo de Marty"}](#lilia)
+
+[![Romina Niksirat](images/rominasm.png){fig-alt="Photo de Romina"}](#romina)
 
 :::
 
 [comm1]: # (### Étudiants de 1er Cycle Observateurs Actuels) 
 [comm2]: # (::: {#observers layout-ncol="5"})
-[comm3]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
+[comm3]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo de Yavuz"}](#yavuz))
 [comm4]: # (:::)
 ### Stagiares - Google Summer of Code
 
@@ -92,7 +94,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Suresh Krishna
 
 ::: column-margin
-![](images/sureshsm.png){fig-alt="Photo of Suresh" width="200"}
+![](images/sureshsm.png){fig-alt="Photo de Suresh" width="200"}
 :::
 
 -   Professeur agrégé, Départment de Physiologie, McGill.
@@ -110,7 +112,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Katarzyna (Kasia) Jurewicz
 
 ::: column-margin
-![](images/kasia.png){fig-alt="Photo of Kasia" width="200"}
+![](images/kasia.png){fig-alt="Photo de Kasia" width="200"}
 :::
 
 -   Boursière Post-Doctorale, Département de Physiologie, McGill.
@@ -125,7 +127,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Yohaï-Eliel Berreby
 
 ::: column-margin
-![](images/yohaism2.png){fig-alt="Photo of Yohai" width="200"}
+![](images/yohaism2.png){fig-alt="Photo de Yohai" width="200"}
 :::
 
 -   Étudiant à la Maîtrise, Département de Physiologie, McGill
@@ -151,7 +153,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Haoxiang Liu
 
 ::: column-margin
-![](images/haoxiangsm.png){fig-alt="Photo of Haoxiang" width="200"}
+![](images/haoxiangsm.png){fig-alt="Photo de Haoxiang" width="200"}
 :::
 
 -   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
@@ -166,7 +168,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Oren Gurevitch
 
 ::: column-margin
-![](images/orensm.png){fig-alt="Photo of Oren" width="200"}
+![](images/orensm.png){fig-alt="Photo de Oren" width="200"}
 :::
 
 -   Étudiant à la Maîtrise, Département de Physiologie, McGill.
@@ -181,7 +183,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Buxin Liao
 
 ::: column-margin
-![](images/buxinsm.png){fig-alt="Photo of Buxin" width="200"}
+![](images/buxinsm.png){fig-alt="Photo de Buxin" width="200"}
 :::
 
 -   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
@@ -196,7 +198,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Chen Liu
 
 ::: column-margin
-![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
+![](images/chensm.png){fig-alt="Photo de Chen" width="200"}
 :::
 
 -   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
@@ -212,7 +214,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Noa Kemp
 
 ::: column-margin
-![](images/noasm.png){fig-alt="Photo of Noa" width="200"}
+![](images/noasm.png){fig-alt="Photo de Noa" width="200"}
 :::
 
 -   Étudiante à la Maîtrise, Département de Physiologie, McGill.
@@ -228,13 +230,29 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Xinning Le
 
 ::: column-margin
-![](images/xinning.png){fig-alt="Photo of Xinning" width="200"}
+![](images/xinning.png){fig-alt="Photo de Xinning" width="200"}
 :::
 
 * Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
 * Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
 * B. Ing. en Sécurité de l'information, Université des postes et télécommunications de Xi'an, Xian, Chine.
 * [Courriel](mailto:xinning.le@mail.mcgill.ca)
+
+------------------------------------------------------------------
+
+<a name="sizhuo"></a>
+
+#### Sizhou Wang
+
+::: column-margin
+![](images/sizhuo.png){fig-alt="Photo de Sizhuo" width="200"}
+:::
+
+* Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
+* Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+* B.Eng. en Ingénierie, Génie Biomédical, Université des Technologies de Taiyuan, Taiyuan, Chine.
+* Mes recherches portent sur le développement de modèles algorithmiques d'encodage et de décodage pour explorer les mécanismes complexes du cerveau, en particulier dans le domaine de la perception visuelle.
+* [Email](mailto:sizhuo.wang@std.uestc.edu.cn)
 
 ------------------------------------------------------------------
 
@@ -253,7 +271,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Romina Niksirat
 
 ::: column-margin
-![](images/rominasm.png){fig-alt="Photo of Alexandru" width="200"}
+![](images/rominasm.png){fig-alt="Photo de Alexandru" width="200"}
 :::
 
 * Étudiant en sciences cognitives, Université McGill
@@ -268,7 +286,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Youzhi Huang
 
 ::: column-margin
-![](images/youzhism.png){fig-alt="Photo of Youzhi" width="200"}
+![](images/youzhism.png){fig-alt="Photo de Youzhi" width="200"}
 :::
 
 - Étudiante au Baccalauréat en Psychologie, Université McGill.
@@ -282,7 +300,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Bradley Austin-Keiller
 
 ::: column-margin
-![](images/bradleysm.png){fig-alt="Photo of Bradley" width="200"}
+![](images/bradleysm.png){fig-alt="Photo de Bradley" width="200"}
 :::
 
 
@@ -298,7 +316,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Anais Rubsamen
 
 ::: column-margin
-![](images/anaissm.png){fig-alt="Photo of Anais" width="200"}
+![](images/anaissm.png){fig-alt="Photo de Anais" width="200"}
 :::
 
 * Étudiante au Baccalauréat en Psychologie, Université McGill.
@@ -312,7 +330,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Divi Maheshwari
 
 ::: column-margin
-![](images/divism.jpg){fig-alt="Photo of Divi" width="200"}
+![](images/divism.jpg){fig-alt="Photo de Divi" width="200"}
 :::
 
 * B.A. en Psychologie et Histoire, McGill.

@@ -7,7 +7,11 @@ Nous travaillons à l'interface entre la cognition, le cerveau, les machines et 
 
 Plus de détails sur la page [Projets](projects.qmd).
 
-[![](images/lp2.png){fig-alt="Membres du laboratoire" fig-align=left}](members.qmd)
+::: {layout="[[1], [1,1]]"}
+[![](images/lp2.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
+[![](images/pres1.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
+[![](images/pres2.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
+:::
 
 [Plus de photos](https://m2b3.github.io/members.html#us)
 

@@ -62,10 +62,6 @@ Responsables : Katarzyna Jurewicz - Katarzyna poursuit son travail, financé par
 
 * Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
 
-### Epilepsie
-
-Responsable : Haoxiang Liu - Nous travaillons sur un projet exploratoire visant à harmoniser ensembles de données et algorithmes ouverts portant sur l'épilepsie.
-
 ### Perception audiovisuelle
 
 Chercheuse principale: Noa Kemp (co-supervisée par [Catherine Guastavino](https://www.mcgill.ca/sis/people/faculty/guastavino)) - nous travaillons sur plusieurs projets impliquant la localisation auditive et visuelle, le mouvement et l’intégration de l’objet.
@@ -80,7 +76,7 @@ Responsable : Suresh Krishna - Nous commençons une série de projets sur la per
 
 ### Musique
 
-Responsable : Suresh Krishna (avec Injy Fouda et Anais Rubsamen) - En collaboration avec [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), nous travaillons sur le suivi oculaire et les changements attentionnels lors de la performance musicale, dans le but de créer un modèle cognitif complet de la performance musicale.
+Responsable : Suresh Krishna (avec Bradley Austin-Keiller et Anais Rubsamen) - En collaboration avec [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), nous travaillons sur le suivi oculaire et les changements attentionnels lors de la performance musicale, dans le but de créer un modèle cognitif complet de la performance musicale.
 
 ### Google Summer of Code 2023
 

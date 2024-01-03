@@ -39,8 +39,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo de Buxin"}](#buxin)
 
-[![Chen Liu](images/chensm.png){fig-alt="Photo de Chen"}](#chen)
-
 [![Noa Kemp](images/noasm.png){fig-alt="Photo de Noa"}](#noa)
 
 [![Xinning Le](images/xinning.png){fig-alt="Photo de Xinning"}](#xinning)
@@ -190,22 +188,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   [Courriel](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
 
 ------------------------------------------------------
-
-<a name="chen"></a>
-
-#### Chen Liu
-
-::: column-margin
-![](images/chensm.png){fig-alt="Photo de Chen" width="200"}
-:::
-
--   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
--   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
--   B. Ing. en Génie Environnementale, Université du Sud-Est, Nanjing, Chine.
--   Je m'intéresse au développement de la technologie EEG et à la recherche sur les méthodes BCI.
--   [Courriel](mailto:chen.liu6@mail.mcgill.ca)
-
------------------------------------------------------------
 
 <a name="noa"></a>
 

@@ -29,6 +29,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo de Kasia"}](#kasia)
 
+[![Jerome Carriot](images/Jerome2.png){fig-alt="Photo de Jerome"}](#jerome)
+
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo de Yohai"}](#yohai)
 
 [![Amanda Pruss](images/marty.png){fig-alt="Photo de Amanda"}](#amanda)
@@ -116,6 +118,21 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   [Courriel](mailto:katarzyna.jurewicz@mcgill.ca);[Google Scholar](http://www.tinyurl.com/kjurewicz-scholar)
 
 ------------------------------------------------------------------------
+
+<a name="jerome"></a>
+
+#### Jerome Carriot
+
+::: column-margin
+![](images/Jerome2.png){fig-alt="Photo of Jerome" width="200"}
+:::
+
+-   Chercheur Associé, Département de Physiologie, McGill.
+-   Doctorat, Université Joseph Fourier, Grenoble, France.
+-   Dans les 20 dernières années, j'ai travaillé sur le système vestibulaire. J'ai occupé des postes de postdoctorant et de chercheur associé dans plusieurs universités, notamment à l'Université Brandeis à Boston, à l'Université de Western Ontario à London, et à l'Université McGill. Je m'intéresse plus spéciquement à l'encodage de son propre déplacement par les neurones dans toute la voie vestibulaire.
+-   [Email](mailto:Jerome.carriot@mcgill.ca); [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rEzMXEUAAAAJ); [ResearchGate](https://www.researchgate.net/profile/Jerome-Carriot)
+
+--------------------------------------------------------------------------
 
 <a name="yohai"></a>
 

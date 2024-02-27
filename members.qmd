@@ -73,7 +73,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ### Collaborateurs
 
-::: {#collaborators  layout-ncol="7"}
+::: {#collaborators  layout-ncol="4"}
 [![Prof. Chris Pack, McGill](images/pack_christopher.png){fig-alt="Photo de Chris"}](https://www.mcgill.ca/neuro/christopher-pack-phd)
 
 [![Dr. Ifedayo-Emmanuel Adeyefa-Olasupo, Janelia Farms](images/EL3_1.png){fig-alt="Photo de Emmanuel"}](https://www.janelia.org/people/ifedayo-emmanuel-adeyefa-olasupo)

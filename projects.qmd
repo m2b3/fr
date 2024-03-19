@@ -78,11 +78,15 @@ Responsable : Suresh Krishna - Nous commençons une série de projets sur la per
 
 Responsable : Suresh Krishna (avec Bradley Austin-Keiller et Anais Rubsamen) - En collaboration avec [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), nous travaillons sur le suivi oculaire et les changements attentionnels lors de la performance musicale, dans le but de créer un modèle cognitif complet de la performance musicale.
 
-### Google Summer of Code 2023
+### Google Summer of Code 2024
 
-1. [INCF: Un outil fondé sur les réseaux d'interactions sociales facilitant l'évaluation et les commentaires sur les rapports de recherche](https://neurostars.org/t/gsoc-2023-project-idea-13-1-a-social-web-tool-to-facilitate-rating-and-commenting-on-research-reports-350-h/24589). Stagiaire - Jyothi Swaroop Reddy
+#### Projets potentiels
 
-2. [INCF: Mesure efficace des fonctions visuelles des nourrissons et des jeunes enfants à l'aide d'une application](https://neurostars.org/t/gsoc-2023-project-idea-8-1-efficient-app-based-measurement-of-visual-functions-in-in-infants-and-young-children-350-h/24583). Stagiaire - Soham Mulye
+1. [INCF: Un outil fondé sur les réseaux d'interactions sociales](https://tinyurl.com/5fbr2fa5)
+
+2. [INCF: Mesure efficace des fonctions visuelles des nourrissons et des jeunes enfants à l'aide d'une application](https://tinyurl.com/mrxda9vs).
+
+3. [INCF: Utilisation de la capture de mouvement sans marqueurs pour créer de la musique et élaborer des théories neuroscientifiques/psychologiques sur la créativité musicale et l'interaction entre musique, mouvement et danse](https://tinyurl.com/48ymnzwn).
 
 Un projet exemple visant à construire un logiciel libre de suivi oculaire sur téléphone en utilisant PyTorch est disponible [ici](https://dssr2.github.io/gaze-track/).
 

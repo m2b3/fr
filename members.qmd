@@ -356,6 +356,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 #### Louis Martinez
 
+::: column-margin
+![](images/LouisSmall.jpg){fig-alt="Photo de Louis" width="200"}
+:::
+
 * Etudiant en Ingénierie, Télécom Paris, Palaiseau, France
 * CPGE MPSI/PSI (Maths / Physique / Sciences de l'ingénieur), Lycée Fénelon Sainte-Marie, Paris, France
 * Passioné par l'IA et curieux du fonctionnement du cerveau, je m'intéresse à l'intersection entre ces deux domaines.

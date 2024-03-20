@@ -61,6 +61,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Lilie Jeanneaux](images/marty2.png){fig-alt="Photo de Lilie"}](#lilie)
 
+[![Louis Martinez](images/LouisSmall.jpg){fig-alt="Photo de Louis"}](#Louis)
+
 :::
 
 [comm1]: # (### Étudiants de 1er Cycle Observateurs Actuels) 
@@ -350,6 +352,17 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="Louis"></a>
+
+#### Louis Martinez
+
+* Etudiant en Ingénierie, Télécom Paris, Palaiseau, France
+* CPGE MPSI/PSI (Maths / Physique / Sciences de l'ingénieur), Lycée Fénelon Sainte-Marie, Paris, France
+* Passioné par l'IA et curieux du fonctionnement du cerveau, je m'intéresse à l'intersection entre ces deux domaines.
+* Quand je ne travaille pas, je passe le plus clair de mon temps à voyager où à faire du sport (les pentes du Mont Royal sont ma deuxième passion)
+* [Courriel](mailto:louis.martinez@telecom-paris.fr), [Github](https://github.com/lmartinez2001/),[LinkedIn](https://www.linkedin.com/in/louis-martinez-5586b71b7/)
+
+------------------------------------------------------------------------
 
 ### D’où Venons-Nous?
 

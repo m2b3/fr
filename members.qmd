@@ -86,6 +86,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Prof. Simone Dalla Bella, co-Directeur, BRAMS, UdeM](images/SDB.png){fig-alt="Photo de Simone"}](https://brams.org/members/simone-dalla-bella/)
 
+[![Prof. Hongmei Yan, UESTC](images/yhm.png){fig-alt="Photo de Hongmei"}](https://www.neuro.uestc.edu.cn/vccl/yhm.html)
+
 [![Joshua Rosner, McGill](images/joshuasm.png){fig-alt="Photo de Joshua"}](https://www.linkedin.com/in/joshua-rosner-98b15b166/?originalSubdomain=ca)
 
 [![Pauline Patie](images/paulinesm.png){fig-alt="Photo de Pauline"}](https://www.pauline-patie.com/)

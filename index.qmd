@@ -18,6 +18,8 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
+**Mars 2024** - Yohai a été admis et prendra part à l'école d'été du CIFAR dédiée à l'apprentissage profond et à l'apprentissage par renforcement (DLRL). Félicitations Yohai ! 🏆
+
 **Mars 2024** - Accueil de Louis au laboratoire en tant que stagiaire en vision par ordinateur et neuro-AI de Telecom Paris (jusqu'en août 2024). :tada:
 
 **Février 2024** - Bienvenue à Lilie, Joshua et Pauline, nos nouveaux membres/collaborateurs musicaux. :tada:

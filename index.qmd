@@ -18,6 +18,8 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
+**Avril 2024** - Buxin et Haoxiang complètent leur soutenance de master avec brio. Alexandru, Youzhi, Lilia et Romina terminent leurs cours de recherche d'un an. L'équipe de Yohai remporte le troisième prix du hackathon Mistral AI à Paris lors du sommet R.AI.SE.
+
 **Mars 2024** - Les équipes respectives d'Oren et Noa reçoivent chacune un CIRMMT Student Award (du montant maximal). Félicitations, Oren et Noa ! 🏆
 
 **Mars 2024** - Yohai a été admis et prendra part à l'école d'été du CIFAR dédiée à l'apprentissage profond et à l'apprentissage par renforcement (DLRL). Félicitations Yohai ! 🏆

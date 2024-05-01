@@ -277,7 +277,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/LouisSmall.jpg){fig-alt="Photo de Louis" width="200"}
 :::
 
-* Etudiant en Ingénierie, Télécom Paris, Palaiseau, France
+* Etudiant en Ingénierie, Télécom Paris, Palaiseau, France; stagiaire dans le cadre du GSoC 2024.
 * CPGE MPSI/PSI (Maths / Physique / Sciences de l'ingénieur), Lycée Fénelon Sainte-Marie, Paris, France
 * Passioné par l'IA et curieux du fonctionnement du cerveau, je m'intéresse à l'intersection entre ces deux domaines.
 * Quand je ne travaille pas, je passe le plus clair de mon temps à voyager où à faire du sport (les pentes du Mont Royal sont ma deuxième passion)

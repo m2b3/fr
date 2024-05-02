@@ -293,6 +293,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 #### Jacky Chen
 
+::: column-margin
+![](images/jackysm.png){fig-alt="Photo de Jacky" width="200"}
+:::
+
 * Étudiante en Baccalauréat de psychologie avec une double mineure en sciences comportementales et en sciences des arts, à l'Université McGill.
 * Je suis passionnée de piano et je m'intéresse aux interactions entre les processus cognitifs, l'expression musicale et les variations de l'attention. Mes recherches explorent les liens entre la psychologie, la musique et les sciences cognitives.
 * Originaire de Shanghai, en Chine, j'y ai vécu jusqu'à l'âge de 18 ans avant de déménager à Montréal pour mes études à l'Université McGill. J'apprécie particulièrement les étés montréalais !
@@ -302,6 +306,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 <a name="yagya"></a>
 
 #### Yagya Joshi
+
+::: column-margin
+![](images/yagyasm.png){fig-alt="Photo de Yagya" width="200"}
+:::
 
 * Étudiante en Baccalauréat de psychologie avec une double mineure en neurosciences comportementales et en sociologie,, à l'Université McGill.
 * Originaire du nord de l'Inde, j'ai immigré à Montréal en 2014, où je réside depuis. J'admire profondément la riche diversité culturelle et le dynamisme de cette ville.
@@ -313,6 +321,11 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 <a name="alexparent"></a>
 
 #### Alex Parent
+
+::: column-margin
+![](images/alexparentsm.png){fig-alt="Photo de Alex" width="200"}
+:::
+
 
 * Étudiante en Baccalauréat de psychologie avec une double mineure en neurosciences comportementales et en sociologie,, à l'Université McGill.
 * Jouant de sept instruments et passionné de neurosciences, je suis fasciné par les interactions entre la musique et le cerveau.

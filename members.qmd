@@ -53,6 +53,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky"}](#jacky)
 
+[![Yagya Joshi](images/yagyasm.png){fig-alt="Photo de Yagya"}](#yagya)
+
+[![Alex Parent](images/alexparentsm.png){fig-alt="Photo de Yagya"}](#yagya)
+
 :::
 
 [comm1]: # (### Étudiants de 1er Cycle Observateurs Actuels) 
@@ -295,6 +299,26 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 * [Email](mailto:yijun.chen@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
+<a name="yagya"></a>
+
+#### Yagya Joshi
+
+* Étudiante en Baccalauréat de psychologie avec une double mineure en neurosciences comportementales et en sociologie,, à l'Université McGill.
+* Originaire du nord de l'Inde, j'ai immigré à Montréal en 2014, où je réside depuis. J'admire profondément la riche diversité culturelle et le dynamisme de cette ville.
+* Ayant récemment obtenu mon diplôme de premier cycle, je suis désireuse d'appliquer mes connaissances théoriques en psychologie et physiologie dans un cadre de laboratoire. Mon objectif est de mieux comprendre les interactions entre l'esprit et le comportement, particulièrement en ce qui concerne la musique et l'attention.
+* [Email](mailto:yagya.joshi@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="alexparent"></a>
+
+#### Alex Parent
+
+* Étudiante en Baccalauréat de psychologie avec une double mineure en neurosciences comportementales et en sociologie,, à l'Université McGill.
+* Jouant de sept instruments et passionné de neurosciences, je suis fasciné par les interactions entre la musique et le cerveau.
+* [Email](mailto:alexandra.parent@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/alex-parent-82b456261)
+
+------------------------------------------------------------------------
 
 ### D’où Venons-Nous?
 
@@ -307,15 +331,13 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444,41.084148,37,45.45778,45.56583,50.848383801134766,45.5019,33.885340,32.3274,14.6584,32.4279,37.8706,50.6,45.25,48.84674234948124,31.2304)
-lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567,35.511500,50.8650,100.3947,53.6880,112.5486,3,5.75,2.3724100000000004,121.4737)
+latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444,41.084148,37,45.45778,45.56583,50.848383801134766,45.5019,33.885340,32.3274,14.6584,32.4279,37.8706,50.6,45.25,48.84674234948124,31.2304,41.9001,31.311206)
+lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567,35.511500,50.8650,100.3947,53.6880,112.5486,3,5.75,2.3724100000000004,121.4737,-71.0898,75.584556)
 
-namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky')
+namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya')
 
-
-
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis','Jacky'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Haoxiang','Anais'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

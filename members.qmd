@@ -43,11 +43,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Xinning Le](images/xinning.png){fig-alt="Photo de Xinning"}](#xinning)
 
-[![Sizhuo Wang](images/sizhuo.png){fig-alt="Photo de Sizhuo"}](#sizhuo)
-
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo de Bradley"}](#bradley)
-
-[![Lilie Jeanneaux](images/marty2.png){fig-alt="Photo de Lilie"}](#lilie)
 
 [![Louis Martinez](images/LouisSmall.jpg){fig-alt="Photo de Louis"}](#Louis)
 
@@ -227,22 +223,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 * B. Ing. en Sécurité de l'information, Université des postes et télécommunications de Xi'an, Xian, Chine.
 * [Courriel](mailto:xinning.le@mail.mcgill.ca)
 
-------------------------------------------------------------------
-
-<a name="sizhuo"></a>
-
-#### Sizhou Wang
-
-::: column-margin
-![](images/sizhuo.png){fig-alt="Photo de Sizhuo" width="200"}
-:::
-
-* Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
-* Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
-* B.Eng. en Ingénierie, Génie Biomédical, Université des Technologies de Taiyuan, Taiyuan, Chine.
-* Mes recherches portent sur le développement de modèles algorithmiques d'encodage et de décodage pour explorer les mécanismes complexes du cerveau, en particulier dans le domaine de la perception visuelle.
-* [Email](mailto:sizhuo.wang@std.uestc.edu.cn)
-
 ---------------------------------------------------------
 
 <a name="bradley"></a>
@@ -258,18 +238,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 - Baccalauréat complété en Musique et Psychologie, Université McGill.
 - En combinant une dizaine d'années de formation musicale avec de l'expérience clinique, j’aspire à combler cet écart en examinant l’activité physiologique et neuronale en rapport avec la musicothérapie. Je me concentre particulièrement sur l’intersection entre la promotion de santé et de la musique. 
 - [Courriel](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
-
----------------------------------------------------------
-
-
-<a name="lilie"></a>
-
-#### Lilie Jeanneaux
-
-* Étudiante au Baccalauréat en Génie Civil, Université McGill
-* CPGE PCSI (Classe Préparatoire aux Grandes Écoles en physique et chimie), Lycée Louis-le-Grand, Paris, France
-* Mon objectif est de poursuivre mes études dans le génie environnemental. Dans mon temps libre, je suis également passionnée par la musique.
-* [Courriel](mailto:lilie.jeanneaux@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -349,8 +317,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya')
 
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Louis','Jacky','AlexParent','Yagya'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -397,7 +365,7 @@ tm_shape(World)+
 *   PSYC 494 - Youzhi Huang
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane 
 *   Bourse de Recherche Mackey-Glass -- Tim Yang
-*   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari
+*   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux
 *   Stagiares - Google Summer of Code - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
 
 --------------------------------------------------

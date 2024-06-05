@@ -8,7 +8,7 @@ Nous travaillons à l'interface entre la cognition, le cerveau, les machines et 
 Plus de détails sur la page [Projets](projects.qmd).
 
 ::: {layout-nrow="2"}
-[![](images/lp2.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
+[![](images/lp2b.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
 [![](images/pres1234.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
 :::
 

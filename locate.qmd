@@ -15,7 +15,7 @@ output:
 Financement:
 
 ::: {#funding}
-::: {layout-ncol="2"}
+::: {layout-ncol="1"}
 ![](images/nsercLogo.png){fig-alt="NSERC logo"}
 
 ![](images/mcgill.png){fig-alt="McGill logo"}

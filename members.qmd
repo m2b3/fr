@@ -326,7 +326,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Alex Zhao
 
 ::: column-margin
-![](images/alexsm.png){fig-alt="Photo de AlexZhao" width="200"}
+![](images/alexsm.jpg){fig-alt="Photo de AlexZhao" width="200"}
 :::
 
 * Étudiant en Baccalauréat de neurosciences.

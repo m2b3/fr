@@ -55,7 +55,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Lian Mouwes](images/liansm.png){fig-alt="Photo de Lian"}](#lian)
 
-[![Alex Zhao](images/alexsm.png){fig-alt="Photo of Alex"}](#azhao)
+[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex"}](#azhao)
 
 :::
 

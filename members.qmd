@@ -318,7 +318,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 * Je me suis familiarisé avec les systèmes de suivi de la vision grâce à une  précédente expérience au sein de l'université de Tel Aviv .
 * Je suis passionné par les connections et relations qui peuvent être trouvées et analysées entre le cerveau et les ordinateurs. Dans mon temps libre, je prends beaucoup de plaisir à pratiquer le yoga.
 * Je suis  Finlandaise/ Israélienne, je suis cependant né à Bruxelles. J'ai grandi entre l'Israel et la Belgique et par la suite déménagé à Montréal afin de poursuivre mes études.
-* [Email:](mailto:lian.mouwes@icloud.com), [LinkedIn:](http://linkedin.com/in/lian-m-46939229b)
+* [Email](mailto:lian.mouwes@icloud.com), [LinkedIn](http://linkedin.com/in/lian-m-46939229b)
 --------------------------------------------------------------------
 
 <a name="azhao"></a>
@@ -332,7 +332,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 * Étudiant en Baccalauréat de neurosciences.
 * Mes études et ma recherche se concentrent sur les neurosciences computationnelles, une branche d'études qui met l'emphase sur la découverte de procès neuronaux avec l'aide de système informatiques. 
 * Dans mon temps libre, je m'occupe avec la lecture en plus du voyage.
-* [Email:](mailto:alex.zhao@mail.mcgill.ca)
+* [Email](mailto:alex.zhao@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 

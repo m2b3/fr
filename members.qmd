@@ -43,8 +43,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Xinning Le](images/xinning.png){fig-alt="Photo de Xinning"}](#xinning)
 
-[![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo de Bradley"}](#bradley)
-
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky"}](#jacky)
 
 [![Alex Parent](images/alexparentsm.png){fig-alt="Photo de Yagya"}](#yagya)
@@ -223,22 +221,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 * B. Ing. en Sécurité de l'information, Université des postes et télécommunications de Xi'an, Xian, Chine.
 * [Courriel](mailto:xinning.le@mail.mcgill.ca)
 
----------------------------------------------------------
-
-<a name="bradley"></a>
-
-#### Bradley Austin-Keiller
-
-::: column-margin
-![](images/bradleysm.png){fig-alt="Photo de Bradley" width="200"}
-:::
-
-
-- Étudiant en dip. 2e c en Musicothérapie , Faculté des Beaux-Arts, Concordia.
-- Baccalauréat complété en Musique et Psychologie, Université McGill.
-- En combinant une dizaine d'années de formation musicale avec de l'expérience clinique, j’aspire à combler cet écart en examinant l’activité physiologique et neuronale en rapport avec la musicothérapie. Je me concentre particulièrement sur l’intersection entre la promotion de santé et de la musique. 
-- [Courriel](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
-
 ------------------------------------------------------------------------
 
 <a name="jacky"></a>
@@ -318,8 +300,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya','Lian','Alex')
 
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Jacky','AlexParent','Lian','Alex'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie','Yagya','Louis'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Jerome','Jacky','AlexParent','Lian','Alex'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie','Yagya','Louis','Bradley'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -369,7 +351,7 @@ tm_shape(World)+
 *   Bourse de Recherche Mackey-Glass -- Tim Yang
 *   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi
 *   Stagiares - Google Summer of Code - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
-*   Stagiares - Louis Martinez
+*   Stagiares - Louis Martinez, Bradley Austin-Keiller
 --------------------------------------------------
 
 ### Nous

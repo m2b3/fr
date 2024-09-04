@@ -48,8 +48,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Parent](images/alexparentsm.png){fig-alt="Photo de Alex Parent"}](#alexparent)
 
-[![Lian Mouwes](images/liansm.png){fig-alt="Photo de Lian Mouwes"}](#lian)
-
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo de Alex Zhao"}](#azhao)
 
 
@@ -280,26 +278,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="lian"></a>
-
-#### Lian Mouwes
-
-::: column-margin
-![](images/liansm.png){fig-alt="Photo de Lian Mouwes" width="200"}
-:::
-
--   B.A.SC. étudiante au sein du programme de sciences cognitives à l'université de McGill. Je complète aussi un diplôme en développement international en parallèle de mon diplôme principal.
-
--   Je me suis familiarisé avec les systèmes de suivi de la vision grâce à une  précédente expérience au sein de l'université de Tel Aviv .
-
--   Je suis passionné par les connections et relations qui peuvent être trouvées et analysées entre le cerveau et les ordinateurs. Dans mon temps libre, je prends beaucoup de plaisir à pratiquer le yoga.
-
--   Je suis  Finlandaise/ Israélienne, je suis cependant né à Bruxelles. J'ai grandi entre l'Israel et la Belgique et par la suite déménagé à Montréal afin de poursuivre mes études.
-
--   [Email](mailto:lian.mouwes@icloud.com); [LinkedIn]( http://linkedin.com/in/lian-m-46939229b)
-
-------------------------------------------------------------------------
-
 <a name="azhao"></a>
 
 #### Alex Zhao
@@ -337,8 +315,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jerome", "jacky", "alexparent", "lian", "azhao", "buxin", "xinning"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "Louis", "Yagya"))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jerome", "jacky", "alexparent", "azhao", "buxin", "xinning"))
+oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "Louis", "Yagya", "lian"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

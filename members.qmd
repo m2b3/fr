@@ -30,8 +30,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo de Katarzyna (Kasia) Jurewicz"}](#kasia)
 
-[![Jerome Carriot](images/Jerome2.jpg){fig-alt="Photo de Jerome Carriot"}](#jerome)
-
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo de Yohai-Eliel Berreby"}](#yohai)
 
 [![Amanda Pruss](images/marty2.png){fig-alt="Photo de Amanda Pruss"}](#amanda)
@@ -117,24 +115,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   Auparavant, j'étais post-doc dans le laboratoire du Dr Becket Ebitz (Laboratoire de recherche sur le bruit) à l'Université de Montréal. Précédemment, j'ai mené des recherches dans le groupe cortico-thalamique du Dr Ewa Kublik à l'Institut Nencki de biologie expérimentale. Mon travail de doctorat a été supervisé par le professeur Andrzej Wróbel au Laboratoire du Système Visuel de Nencki.
 
 -   [Email](mailto:katarzyna.jurewicz@mail.mcgill.ca); [Google Scholar]( http://www.tinyurl.com/kjurewicz-scholar)
-
-------------------------------------------------------------------------
-
-<a name="jerome"></a>
-
-#### Jerome Carriot
-
-::: column-margin
-![](images/Jerome2.jpg){fig-alt="Photo de Jerome Carriot" width="200"}
-:::
-
--   Chercheur Associé, Département de Physiologie, McGill.
-
--   Doctorat, Université Joseph Fourier, Grenoble, France.
-
--   Dans les 20 dernières années, j'ai travaillé sur le système vestibulaire. J'ai occupé des postes de postdoctorant et de chercheur associé dans plusieurs universités, notamment à l'Université Brandeis à Boston, à l'Université de Western Ontario à London, et à l'Université McGill. Je m'intéresse plus spéciquement à l'encodage de son propre déplacement par les neurones dans toute la voie vestibulaire.
-
--   [Email](mailto:Jerome.Carriot@mcgill.ca); [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rEzMXEUAAAAJ); [ResearchGate]( https://www.researchgate.net/profile/Jerome-Carriot)
 
 ------------------------------------------------------------------------
 
@@ -353,8 +333,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning", "evan", "isidore")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jerome", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan", "isidore"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "Louis", "Yagya", "lian"))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan", "isidore"))
+oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "Yagya", "lian"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

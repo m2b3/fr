@@ -324,13 +324,13 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/maya.jpeg){fig-alt="Photo de Maya Aderka" width="200"}
 :::
 
--   Étudiante à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiante en Maîtrise, Département de Physiologie, McGill.
 
--   Baccalauréat complété à l'Université de Tel Aviv, Tel Aviv, Israël, en Psychologie et Informatique avec une spécialisation en Neurosciences.
+-   Baccalauréat en Psychologie et Informatique avec une spécialisation en Neurosciences, Université de Tel Aviv, Tel Aviv, Israël
 
--   Pendant mon baccalauréat, j'ai travaillé comme assistante de recherche dans le laboratoire du Prof. Nitzan Censor, qui étudie la mémoire et l'apprentissage. J'ai aidé à conduire des études comportementales, ainsi que des études impliquant l'EEG, l'IRMf et la TMS.
+-   Pendant mon baccalauréat, j’ai travaillé comme assistante de recherche dans le laboratoire de Prof. Nitzan Censor, qui étudie la mémoire et l’apprentissage. J’ai conduit des études sur les sciences comportementales, ainsi que sur l’EEG, l’IRMf et la TMS.
 
--   Dans la dernière année de mon baccalauréat, j'ai rejoint le laboratoire de sommeil du Prof. Yuval Nir pour aider à l'initiative de créer SleepEEGpy, une plateforme pour pré-traiter et analyser les données EEG du sommeil.
+-   Dans ma dernière année de baccalauréat, j’ai rejoint le laboratoire de sommeil du Prof. Yuval Nir pour collaborer sur la création de SleepEEGpy, une plateforme pour pré-traiter et analyser les données de l'EEG du sommeil.
 
 -   [Email](mailto:maya.aderka@mail.mcgill.ca); [GitHub]( https://github.com/maya-a); [LinkedIn]( https://www.linkedin.com/in/maya-aderka-703b08229/)
 

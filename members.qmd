@@ -52,7 +52,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo de Isidore Victorri"}](#isidore)
 
-[![Maya Aderka](images/maya.jpg){fig-alt="Photo de Maya Aderka"}](#maya)
+[![Maya Aderka](images/maya.jpeg){fig-alt="Photo de Maya Aderka"}](#maya)
 
 
 :::
@@ -321,7 +321,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Maya Aderka
 
 ::: column-margin
-![](images/maya.jpg){fig-alt="Photo de Maya Aderka" width="200"}
+![](images/maya.jpeg){fig-alt="Photo de Maya Aderka" width="200"}
 :::
 
 -   Étudiante à la Maîtrise, Département de Physiologie, McGill.

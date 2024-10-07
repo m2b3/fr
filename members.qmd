@@ -50,6 +50,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Evan Jiang](images/ejiang.jpg){fig-alt="Photo de Evan Jiang"}](#evan)
 
+[![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo de Isidore Victorri"}](#isidore)
+
 [![Maya Aderka](images/maya.jpg){fig-alt="Photo de Maya Aderka"}](#maya)
 
 
@@ -296,6 +298,24 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="isidore"></a>
+
+#### Isidore Victorri
+
+::: column-margin
+![](images/Isidore.jpg){fig-alt="Photo de Isidore Victorri" width="200"}
+:::
+
+-   Étudiant en baccalauréat scientifique, majeure en physiologie et physique, McGill.
+
+-   Avec un baccalauréat orienté vers la recherche, je suis enthousiaste à l'idée de me plonger dans le domaine de l’attention auditive.
+
+-   Né et grandi à Saint-Pierre-et-Miquelon, un petit archipel français d’outre-mer, je découvre maintenant la vie dans une grande ville pour la première fois, en poursuivant mes études à Montréal.
+
+-   [Email](mailto:isidore.victorri@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 <a name="maya"></a>
 
 #### Maya Aderka
@@ -335,8 +355,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning", "evan", "isidore", "maya")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan", "maya"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "Yagya", "lian", "isidore"))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan", "isidore", "maya"))
+oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "Yagya", "lian"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

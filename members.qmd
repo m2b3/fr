@@ -44,8 +44,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky Chen"}](#jacky)
 
-[![Alex Parent](images/alexparentsm.png){fig-alt="Photo de Alex Parent"}](#alexparent)
-
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo de Alex Zhao"}](#azhao)
 
 [![Evan Jiang](images/ejiang.jpg){fig-alt="Photo de Evan Jiang"}](#evan)
@@ -250,22 +248,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="alexparent"></a>
-
-#### Alex Parent
-
-::: column-margin
-![](images/alexparentsm.png){fig-alt="Photo de Alex Parent" width="200"}
-:::
-
--   Étudiante en Baccalauréat de psychologie, à l'Université McGill.
-
--   Jouant de sept instruments et passionné de neurosciences, je suis fasciné par les interactions entre la musique et le cerveau.
-
--   [Email](mailto:alexandra.parent@mail.mcgill.ca); [LinkedIn]( https://www.linkedin.com/in/alex-parent-82b456261)
-
-------------------------------------------------------------------------
-
 <a name="azhao"></a>
 
 #### Alex Zhao
@@ -375,8 +357,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning", "evan", "isidore", "maya", "sabrina")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan", "isidore", "maya", "sabrina"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "Yagya", "lian"))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "xinning", "evan", "isidore", "maya", "sabrina"))
+oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

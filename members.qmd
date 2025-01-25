@@ -56,7 +56,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Taimaa Bachi](images/taimaa.jpeg){fig-alt="Photo de Taimaa Bachi"}](#taimaa)
 
-[![Anna Rose Hunt-Isaak](images/annasmall.jpeg){fig-alt="Photo de Anna Rose Hunt-Isaak"}](#annarose)
+[![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak"}](#annarose)
 
 
 :::
@@ -361,7 +361,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Anna Rose Hunt-Isaak
 
 ::: column-margin
-![](images/annasmall.jpeg){fig-alt="Photo de Anna Rose Hunt-Isaak" width="200"}
+![](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak" width="200"}
 :::
 
 -   Je m'intéresse aux points communs entre les neurosciences et l'informatique, en particulier à la manière dont nous pouvons modéliser informatiquement le traitement cognitif et développer une meilleure compréhension de la façon dont l'activité neuronale influence les comportements observables.

@@ -54,8 +54,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina Du"}](#sabrina)
 
-[![Taimaa Bachi](images/taimaa.jpeg){fig-alt="Photo de Taimaa Bachi"}](#taimaa)
-
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak"}](#annarose)
 
 
@@ -342,20 +340,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="taimaa"></a>
-
-#### Taimaa Bachi
-
-::: column-margin
-![](images/taimaa.jpeg){fig-alt="Photo de Taimaa Bachi" width="200"}
-:::
-
--   Je me suis d’abord spécialisée en biochimie, puis je suis passée à la psychologie, puis à l’informatique, avant de finalement m’orienter vers le génie logiciel. Ma passion pour le cerveau m’a conduit à choisir une mineure en neurosciences, dans le but d’explorer les possibilités du NeuroAI.
-
--   [Email](mailto:taimaa.orabikassabbachi@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="annarose"></a>
 
 #### Anna Rose Hunt-Isaak
@@ -393,8 +377,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "taimaa", "annarose")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "taimaa", "annarose"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu"))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "annarose"))
+oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "taimaa"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

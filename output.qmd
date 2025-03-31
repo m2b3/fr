@@ -10,6 +10,8 @@ output:
 ---
 
 ### Prépublications
+
+* On variability in local field potentials. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1) Mohsen Parto-Dezfouli, Elizabeth L. Johnson, Eleni Psarou, Conrado Arturo Bosman, B. Suresh Krishna, Pascal Fries (2025)
  
 * How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Berreby YE, Krishna BS (2023).
  

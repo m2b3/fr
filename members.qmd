@@ -32,15 +32,11 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo de Yohai-Eliel Berreby"}](#yohai)
 
-[![Amanda Pruss](images/marty2.png){fig-alt="Photo de Amanda Pruss"}](#amanda)
-
 [![Oren Gurevitch](images/orensm.png){fig-alt="Photo de Oren Gurevitch"}](#oren)
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo de Buxin Liao"}](#buxin)
 
 [![Noa Kemp](images/noasm.png){fig-alt="Photo de Noa Kemp"}](#noa)
-
-[![Xinning Le](images/xinning.png){fig-alt="Photo de Xinning Le"}](#xinning)
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky Chen"}](#jacky)
 
@@ -55,6 +51,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina Du"}](#sabrina)
 
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak"}](#annarose)
+
+[![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo de Yiqing Zhu"}](#Yiqing)
 
 
 :::
@@ -140,24 +138,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="amanda"></a>
-
-#### Amanda Pruss
-
-::: column-margin
-![](images/marty2.png){fig-alt="Photo de Amanda Pruss" width="200"}
-:::
-
--   Étudiante à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
-
--   B.A. en Psychologie, McGill.
-
--   J'aimerais aussi appliquer mes connaissances en neurosciences dans un cadre clinique, afin d'aider les personnes souffrant de troubles de la vision, de l'attention ou d'épilepsie.
-
--   [Email](mailto:amanda.pruss@mail.mcgill.ca); [GitHub]( https://github.com/amandapruss); [LinkedIn]( https://www.linkedin.com/in/amanda-pruss-a78813261/)
-
-------------------------------------------------------------------------
-
 <a name="oren"></a>
 
 #### Oren Gurevitch
@@ -211,24 +191,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   J'ai vécu toute mon enfance en Belgique, mais la moitié de ma famille est en Israël et j’y ai passé la plupart de mes étés. Aujourd’hui, là où je me sens le plus chez-moi est clairement Montréal.
 
 -   [Email](mailto:noa.kemp@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="xinning"></a>
-
-#### Xinning Le
-
-::: column-margin
-![](images/xinning.png){fig-alt="Photo de Xinning Le" width="200"}
-:::
-
--   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
-
--   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
-
--   B. Ing. en Sécurité de l'information, Université des postes et télécommunications de Xi'an, Xian, Chine.
-
--   [Email](mailto:xinning.le@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -356,6 +318,20 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="Yiqing"></a>
+
+#### Yiqing Zhu
+
+::: column-margin
+![](images/YiqingZhu.jpg){fig-alt="Photo de Yiqing Zhu" width="200"}
+:::
+
+-   J'ai obtenu mon baccalauréat en sciences (B.Sc.) spécialisé en informatique avec une mineure en statistique à l'Université McGill. Pendant mes études de premier cycle, j'ai mené des recherches interdisciplinaires à l'intersection de la biologie, des neurosciences et de l'informatique. Je poursuis actuellement des études supérieures en me concentrant sur l'apprentissage automatique, l'intelligence artificielle et la contribution des grands modèles de langage à la recherche sur les données.
+
+-   [Email](mailto:yiqing.zhu2@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### D’où Venons-Nous?
 
@@ -369,16 +345,16 @@ library(sf)
 data("World")
 
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 30.605053, 31.9796, 46.8852, 32.119023, 45.5019, 33.5138, 40.022709)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 30.605053, 31.9796, 46.8852, 32.119023, 45.5019, 33.5138, 40.022709, 45.5103643)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 104.074123, 120.8937, -56.3159, 34.819675, -73.5674, 36.2765, -75.320869)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 104.074123, 120.8937, -56.3159, 34.819675, -73.5674, 36.2765, -75.320869, -73.5746522)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "taimaa", "annarose")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "taimaa", "annarose", "Yiqing")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "annarose"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "taimaa"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "evan", "isidore", "maya", "sabrina", "annarose", "Yiqing"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "taimaa"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -404,7 +380,11 @@ usesize<-1 #0.5
 tm_shape(World)+
   tm_fill(col='darkslategray2')+
   tm_borders(col="black")+
-  tm_layout(scale=0.5, bg.color="dodgerblue4",inner.margin=0.0005)+
+  tm_layout(
+    scale = 0.5,
+    bg.color = "dodgerblue4",
+    inner.margins = c(0.0005, 0.0005, 0.0005, 0.0005)  # bottom, left, top, right
+  )+
   tm_shape(ogeocode2)+
   tm_dots(size = usesize, col = "orange")+
   tm_shape(geocode2)+
@@ -417,6 +397,8 @@ tm_shape(World)+
 ### Anciens Membres
 
 * Maîtrise 
+    + Amanda Pruss (2025), IPN
+    + Xinning Le (2025), IPN
 	+ Haoxiang Liu (2024), IPN
 	+ Buxin Liao (2024), IPN
 *   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili

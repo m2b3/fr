@@ -1,0 +1,340 @@
+---
+title: "Membres"
+description: |
+lang: fr  
+
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+
+execute:
+  echo: false
+  freeze: auto
+knitr:
+  opts_chunk: 
+    collapse: true
+    results: false
+---
+
+### Membres Actuels du Laboratoire
+<!-- ff -->
+::: column-margin
+L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
+:::
+
+::: {#members layout-ncol="5"}
+[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh"}](#suresh)
+
+[![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo of Kasia"}](#kasia)
+
+[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai"}](#yohai)
+
+[![Amanda Pruss](images/marty.png){fig-alt="Photo of Amanda"}](#amanda)
+
+[![Haoxiang Liu](images/haoxiangsm.png){fig-alt="Photo of Haoxiang"}](#haoxiang)
+
+[![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren"}](#oren)
+
+[![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin"}](#buxin)
+
+[![Chen Liu](images/chensm.png){fig-alt="Photo of Chen"}](#chen)
+
+[![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa"}](#noa)
+
+[![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
+
+[![Youzhi Huang](images/youzhism.png){fig-alt="Photo of Youzhi"}](#youzhi)
+
+[![Alexandru Tecu](images/marty2.png){fig-alt="Photo of Alexandru"}](#alexandru)
+
+[![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
+
+:::
+
+### Étudiants de 1er Cycle Observateurs Actuels
+
+::: {#observers layout-ncol="5"}
+
+
+[![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz)
+
+[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
+
+:::
+
+------------------------------------------------------------------------
+
+<a name="suresh"></a>
+
+#### Suresh Krishna
+
+::: column-margin
+![](images/sureshsm.png){fig-alt="Photo of Suresh" width="200"}
+:::
+
+-   Professeur agrégé, Départment de Physiologie, McGill.
+
+-   MBBS (École de Médecine), AIIMS, New Delhi; Doctorat, NYU, New York.
+
+-   A passé du temps à l'Université Columbia, au CNRS (Lyon), au Centre Allemand de Primates (Goettingen), à l'Institut Max-Planck de Développement Humain (Berlin), avant de venir à McGill (janvier 2020).
+
+-   [Courriel](mailto:suresh.krishna@mcgill.ca); Page Web Personnelle: TBA; [Google Scholar](https://tinyurl.com/48dfzjuk)
+
+------------------------------------------------------------------------
+
+<a name="kasia"></a>
+
+#### Katarzyna (Kasia) Jurewicz
+
+::: column-margin
+![](images/kasia.png){fig-alt="Photo of Kasia" width="200"}
+:::
+
+-   Boursière Post-Doctorale, Département de Physiologie, McGill.
+-   Maîtrise en Psychologie, Université de Varsovie ; Doctorat en Neurobiologie, Institut Nencki de Biologie Expérimentale, Académie Polonaise des Sciences, Varsovie.
+-   Auparavant, j'étais post-doc dans le laboratoire du Dr Becket Ebitz (Laboratoire de recherche sur le bruit) à l'Université de Montréal. Précédemment, j'ai mené des recherches dans le groupe cortico-thalamique du Dr Ewa Kublik à l'Institut Nencki de biologie expérimentale. Mon travail de doctorat a été supervisé par le professeur Andrzej Wróbel au Laboratoire du Système Visuel de Nencki.
+-   [Courriel](mailto:katarzyna.jurewicz@mcgill.ca); Page Web Personnelle: TBA; [Google Scholar](http://www.tinyurl.com/kjurewicz-scholar)
+
+------------------------------------------------------------------------
+
+<a name="yohai"></a>
+
+#### Yohaï-Eliel Berreby
+
+::: column-margin
+![](images/yohaism2.png){fig-alt="Photo of Yohai" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill
+-   *Diplôme d'Ingénieur* (B. Sc. et M. Sc. combinés en ingénierie), Télécom Paris, Palaiseau, France
+-   MPSI/MP CPGE (Math/Physique [*Classes Préparatoires aux Grandes Écoles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), Lycée Hoche, Versailles, France
+-   [Courriel](mailto:yohai-eliel.berreby@mail.mcgill.ca), [GitHub](https://github.com/yberreby/), [LinkedIn](https://linkedin.com/in/yberreby)
+
+------------------------------------------------------------------------
+
+<a name="amanda"></a>
+
+#### Amanda Pruss
+
+* Étudiante à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
+* B.A. en Psychologie, McGill.
+* J'aimerais aussi appliquer mes connaissances en neurosciences dans un cadre clinique, afin d'aider les personnes souffrant de troubles de la vision, de l'attention ou d'épilepsie.
+* [Courriel](mailto: amanda.pruss@mail.mcgill.ca), [GitHub](https://github.com/amandapruss), [LinkedIn](https://www.linkedin.com/in/amanda-pruss-a78813261/)
+
+------------------------------------------------------------------------
+
+<a name="haoxiang"></a>
+
+#### Haoxiang Liu
+
+::: column-margin
+![](images/haoxiangsm.png){fig-alt="Photo of Haoxiang" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+-   B. Ing. en Génie des Réseaux, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+-   [Courriel](mailto:haoxiang.liu@mail.mcgill.ca), [GitHub](https://github.com/hxliu4mcgill)
+
+------------------------------------------------------------------------
+
+<a name="oren"></a>
+
+#### Oren Gurevitch
+
+::: column-margin
+![](images/orensm.png){fig-alt="Photo of Oren" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   B. Sc. en Neuroscience, Université Bar-Ilan, Ramat Gan, Israel.
+-   Précédemment, j'étais assistant de recherche sur le traitement sensoriel chez les rats, à l'Université Bar-Ilan, sous la direction du professeur Adam Zaidel. Avant cela, en tant qu'assistant de laboratoire à l'Institut Weizmann des Sciences, j'ai travaillé sur la recherche sur la sclérose en plaques avec le professeur Idit Shachar.
+-   [Courriel](mailto:oren.gurevitch@mail.mcgill.ca), [GitHub](https://github.com/OrenGurevitch), [LinkedIn](https://www.linkedin.com/in/oren-gurevitch/)
+
+------------------------------------------------------------------------
+
+<a name="buxin"></a>
+
+#### Buxin Liao
+
+::: column-margin
+![](images/buxinsm.png){fig-alt="Photo of Buxin" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+-   B. Ing. en Génie Biomédical, Université du Sud-Est, Nanjing, Chine.
+-   [Courriel](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
+
+------------------------------------------------------
+
+<a name="chen"></a>
+
+#### Chen Liu
+
+::: column-margin
+![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+-   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+-   B. Ing. en Génie Environnementale, Université du Sud-Est, Nanjing, Chine.
+-   Je m'intéresse au développement de la technologie EEG et à la recherche sur les méthodes BCI.
+-   [Courriel](mailto:chen.liu6@mail.mcgill.ca)
+
+-----------------------------------------------------------
+
+<a name="noa"></a>
+
+#### Noa Kemp
+
+::: column-margin
+![](images/noasm.png){fig-alt="Photo of Noa" width="200"}
+:::
+
+* M.Sc. Student, Department of Physiology, McGill.
+* B.Sc. in Biology and Computer Science, McGill.
+* Between musical theater, computer science and the brain - I wasn’t able to chose so I will focus on one of their intersections: the physiology of spatial hearing.
+* I was born and raised in Belgium. However half of my family lives in Israel and I have spent most of my summers there. Today, the place I truly call home is definitely Montreal.
+
+------------------------------------------------------------------
+
+<a name="alexandru"></a>
+
+#### Alexandru Tecu
+
+* B.A. Sc Neuroscience student, McGill University.
+* Currently completing my degree under the Neurophysiology/Neural Computational stream
+* [Email](mailto:alexandru.tecu.0@gmail.com)
+
+-----------------------------------------------------------
+
+<a name="youzhi"></a>
+
+#### Youzhi Huang
+
+::: column-margin
+![](images/youzhism.png){fig-alt="Photo of Youzhi" width="200"}
+:::
+
+* B.Sc. Student, Department of Psychology, McGill. 
+* I am interested in the cognition aspect, it provides valuable insights into the workings of the human mind, explaining behavior, informing interventions, and advancing our understanding of various cognitive processes. 
+* [Email](mailto:youzhi.huang@mail.mcgill.ca)
+
+---------------------------------------------------------
+
+<a name="bradley"></a>
+
+#### Bradley Austin-Keiller
+
+::: column-margin
+![](images/bradleysm.png){fig-alt="Photo of Bradley" width="200"}
+:::
+
+* GrDip Music Therapy Student, Department of Fine Arts, Concordia 
+* Joint B.A. in Psychology and Music, McGill 
+* Combining a decade of musical training with clinical experience in a therapeutic context,  I strive to bridge the gap by examining neural and physiological correlates of music therapy with a special focus on the intersection of music and health promotion. 
+* [Email](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
+
+-------------------------
+
+<a name="anais"></a>
+
+#### Anais Rubsamen
+
+::: column-margin
+![](images/anaissm.png){fig-alt="Photo of Anais" width="200"}
+:::
+
+* Étudiante au Baccalauréat en Psychologie, Université McGill
+* À court terme, je souhaite maîtriser les logiciels, les technologies et les techniques utilisés dans la recherche et les traitements en psychologie, avec un accent particulier sur Python et R. À long terme, je souhaite développer des stratégies pour améliorer les soins aux personnes vivant avec des psychopathologies et des douleurs chroniques, avec un accent particulier sur le TPB.
+* [Courriel](mailto:%20anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
+
+------------------------------------------------------------------------
+
+<a name="lilia"></a>
+
+#### Lilia Fernane
+
+* U3 Étudiante au Baccalauréat en Neuroscience, Université McGill
+
+------------------------------------------------------------------------
+
+<a name="yavuz"></a>
+
+#### Yavuz Shahzad
+
+* U1 Étudiante au Baccalauréat en Psychologie et Mathématiques, Université McGill
+
+------------------------------------------------------------------------
+
+
+### D’où Venons-Nous?
+
+<span style="color:firebrick1;">Current</span> /  <span style="color:orange;">Past</span>
+
+```{r,message=FALSE,warning=FALSE}
+#| warning: false
+library(tmap)
+library(sf)
+
+data("World")
+
+latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444,41.084148,37,45.45778,45.56583,50.848383801134766,45.5019)
+lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567)
+namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley')
+
+lat<-latlist[is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley'))]
+lon<-lonlist[is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley'))]
+
+latold<-latlist[is.element(namezlist,c('Injy'))]
+lonold<-lonlist[is.element(namezlist,c('Injy'))]
+
+
+geocode <- data.frame(lon,lat)
+geocode2 <- st_as_sf(geocode, coords = c("lon", "lat"), crs = 4326)
+
+ogeocode <- data.frame(lonold,latold)
+ogeocode2 <- st_as_sf(ogeocode, coords = c("lonold", "latold"), crs = 4326)
+
+# tm_shape(World) +
+#     tm_fill("lightblue",alpha=1,minimize=TRUE) +
+#   tm_layout(bg.color = "black") +
+# tm_shape(geocode2) +      # dots shape
+#   tm_dots(col = "red", size = .2)
+
+tm_shape(World)+
+  tm_fill(col='darkslategray2')+
+  tm_borders(col="black")+
+  tm_layout(scale=0.5, bg.color="dodgerblue4",inner.margin=0.0005)+
+  tm_shape(geocode2)+
+  tm_dots(size = 1, col = "firebrick1")+
+  tm_shape(ogeocode2)+
+  tm_dots(size = 1, col = "orange")+
+  tm_layout()+
+     tm_credits("Made using tmap",
+             position = c("RIGHT", "BOTTOM"))
+```
+
+### Anciens Étudiants
+
+-   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
+-   COMP 401 - Nevine Nzabonimpa
+- 	COGS 444 Injy Fouda
+-	PSYC 395 Anais Rubsamen 
+-   Bourse de Recherche Mackey-Glass -- Tim Yang
+-   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin
+
+--------------------------------------------------
+
+### Nous
+
+::: {#photos layout-ncol="2"}
+
+![Le Food, Le Fun](images/p2.png){fig-alt="lab1"}
+
+![& Le French Cricket au Québec](images/p1.png){fig-alt="lab2"}
+
+:::

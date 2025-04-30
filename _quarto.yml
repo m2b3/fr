@@ -1,0 +1,83 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "m2b3.Lab@McGill"
+  site-url: https://m2b3.github.io/fr
+  favicon: images/m2b3sq_favicon.png
+  
+  page-footer: 
+    left: "Cette page a été créée avec ❤️ et [Quarto](https://quarto.org/), utilisant un thème trouvé chez [vetiver](https://github.com/rstudio/vetiver.rstudio.com) via [NASA Openscapes](https://nasa-openscapes.github.io/). 
+    \nTraduction française par Amanda, Anais, Noa, Bradley et Yohaï-Eliel"
+ 
+  navbar:
+    logo: images/m2b3_white.png
+    logo-alt: "Lab logo"
+    href: https://m2b3.github.io/fr
+    right:
+    - text: "Accueil"
+      href: index.html
+    - text: "Membres"
+      href: members.qmd
+    - text: "Projets"
+      href: projects.qmd
+    - text: "Travaux"
+      href: output.qmd
+    - text: "Rejoindre"
+      href: join.qmd
+    - text: "À propos"
+      href: locate.qmd
+    - text: "English site"
+      href: https://m2b3.github.io
+#    - icon: github
+#      href: https://github.com/NASA-Openscapes
+#    - icon: twitter
+#      href: https://twitter.com/openscapes
+
+figures:
+  fig-align: left
+
+format:
+  html:
+    theme: [sandstone, custom.scss]
+    css: styles.css
+    toc: true
+    toc-title: Contents
+    toc-location: left
+    page-layout: article
+    email-obfuscation: javascript
+
+
+
+
+# old _site.yml content below for comparison while converting to Quarto
+#
+# name: "."
+# title: "NASA-Openscapes"
+# description: |
+#   NASA-Openscapes
+# favicon: images/openscapes_hex.png  
+# output_dir: "docs"
+# navbar:
+#   logo: images/openscapes_hex.png
+#   href: https://openscapes.org
+#   right:
+#     - text: "Home"
+#       href: index.html
+#     - text: "About"
+#       href: about.html
+#     - text: "Mentors"
+#       href: mentors.html
+#     - text: "Champions"
+#       href: champions.html 
+#     - text: "Tutorials"
+#       href: tutorials.html 
+#     - text: "Events"
+#       href: events.html
+#     - icon: fab fa-twitter
+#       href: https://twitter.com/openscapes
+#     - icon: fab fa-github
+#       href: https://github.com/nasa-openscapes
+# output: distill::distill_article
+# theme: theme.css

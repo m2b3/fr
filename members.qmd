@@ -26,33 +26,33 @@ knitr:
 <!-- ::: -->
 
 ::: {#members layout-ncol="6"}
+[![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo de Isidore Victorri"}](#isidore)
+
+[![Noa Kemp](images/noasm.png){fig-alt="Photo de Noa Kemp"}](#noa)
+
+[![Buxin Liao](images/buxinsm.png){fig-alt="Photo de Buxin Liao"}](#buxin)
+
+[![Oren Gurevitch](images/orensm.png){fig-alt="Photo de Oren Gurevitch"}](#oren)
+
+[![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky Chen"}](#jacky)
+
 [![Suresh Krishna](images/sureshsm.png){fig-alt="Photo de Suresh Krishna"}](#suresh)
 
 [![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo de Katarzyna (Kasia) Jurewicz"}](#kasia)
 
-[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo de Yohai-Eliel Berreby"}](#yohai)
-
-[![Oren Gurevitch](images/orensm.png){fig-alt="Photo de Oren Gurevitch"}](#oren)
-
-[![Buxin Liao](images/buxinsm.png){fig-alt="Photo de Buxin Liao"}](#buxin)
-
-[![Noa Kemp](images/noasm.png){fig-alt="Photo de Noa Kemp"}](#noa)
-
-[![Maya Aderka](images/maya.jpeg){fig-alt="Photo de Maya Aderka"}](#maya)
-
-[![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky Chen"}](#jacky)
-
-[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo de Alex Zhao"}](#azhao)
-
-[![Evan Jiang](images/ejiang.jpg){fig-alt="Photo de Evan Jiang"}](#evan)
-
-[![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo de Isidore Victorri"}](#isidore)
-
-[![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina Du"}](#sabrina)
-
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak"}](#annarose)
 
 [![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo de Yiqing Zhu"}](#Yiqing)
+
+[![Evan Jiang](images/ejiang.jpg){fig-alt="Photo de Evan Jiang"}](#evan)
+
+[![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina Du"}](#sabrina)
+
+[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo de Yohai-Eliel Berreby"}](#yohai)
+
+[![Maya Aderka](images/maya.jpeg){fig-alt="Photo de Maya Aderka"}](#maya)
+
+[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo de Alex Zhao"}](#azhao)
 
 
 :::
@@ -81,6 +81,98 @@ knitr:
 [![Joshua Rosner, McGill](images/joshuasm.png){fig-alt="Photo de Joshua"}](https://www.linkedin.com/in/joshua-rosner-98b15b166/?originalSubdomain=ca)
 
 ::: 
+
+------------------------------------------------------------------------
+
+<a name="isidore"></a>
+
+#### Isidore Victorri
+
+::: column-margin
+![](images/Isidore.jpg){fig-alt="Photo de Isidore Victorri" width="200"}
+:::
+
+-   Étudiant en baccalauréat scientifique, majeure en physiologie et physique, McGill.
+
+-   Avec un baccalauréat orienté vers la recherche, je suis enthousiaste à l'idée de me plonger dans le domaine de l’attention auditive.
+
+-   Né et grandi à Saint-Pierre-et-Miquelon, un petit archipel français d’outre-mer, je découvre maintenant la vie dans une grande ville pour la première fois, en poursuivant mes études à Montréal.
+
+-   [Email](mailto:isidore.victorri@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="noa"></a>
+
+#### Noa Kemp
+
+::: column-margin
+![](images/noasm.png){fig-alt="Photo de Noa Kemp" width="200"}
+:::
+
+-   Étudiante à la Maîtrise, Département de Physiologie, McGill.
+
+-   Baccalauréat complété à McGill en Biologie et Informatique.
+
+-   Entre la comédie musicale, l’informatique et le cerveau - je suis incapable de choisir, alors je compte étudier une de leur intersection: l'espace audiovisuel et la perception d'objets.
+
+-   J'ai vécu toute mon enfance en Belgique, mais la moitié de ma famille est en Israël et j’y ai passé la plupart de mes étés. Aujourd’hui, là où je me sens le plus chez-moi est clairement Montréal.
+
+-   [Email](mailto:noa.kemp@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="buxin"></a>
+
+#### Buxin Liao
+
+::: column-margin
+![](images/buxinsm.png){fig-alt="Photo de Buxin Liao" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
+
+-   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
+
+-   B. Ing. en Génie Biomédical, Université du Sud-Est, Nanjing, Chine.
+
+-   [Email](mailto:buxin.liao@mail.mcgill.ca); [GitHub]( https://github.com/D-Fonauton)
+
+------------------------------------------------------------------------
+
+<a name="oren"></a>
+
+#### Oren Gurevitch
+
+::: column-margin
+![](images/orensm.png){fig-alt="Photo de Oren Gurevitch" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill.
+
+-   B. Sc. en Neuroscience, Université Bar-Ilan, Ramat Gan, Israel.
+
+-   Précédemment, j'étais assistant de recherche sur le traitement sensoriel chez les rats, à l'Université Bar-Ilan, sous la direction du professeur Adam Zaidel. Avant cela, en tant qu'assistant de laboratoire à l'Institut Weizmann des Sciences, j'ai travaillé sur la recherche sur la sclérose en plaques avec le professeur Idit Shachar.
+
+-   [Email](mailto:oren.gurevitch@mail.mcgill.ca); [GitHub]( https://github.com/OrenGurevitch); [LinkedIn]( https://www.linkedin.com/in/oren-gurevitch/)
+
+------------------------------------------------------------------------
+
+<a name="jacky"></a>
+
+#### Jacky Chen
+
+::: column-margin
+![](images/jackysm.png){fig-alt="Photo de Jacky Chen" width="200"}
+:::
+
+-   Étudiant en Baccalauréat de psychologie avec une double mineure en sciences comportementales et en sciences des arts, à l'Université McGill.
+
+-   Je suis passionné de piano et je m'intéresse aux interactions entre les processus cognitifs, l'expression musicale et les variations de l'attention. Mes recherches explorent les liens entre la psychologie, la musique et les sciences cognitives.
+
+-   Originaire de Shanghai, en Chine, j'y ai vécu jusqu'à l'âge de 18 ans avant de déménager à Montréal pour mes études à l'Université McGill. J'apprécie particulièrement les étés montréalais !
+
+-   [Email](mailto:yijun.chen@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -120,188 +212,6 @@ knitr:
 
 ------------------------------------------------------------------------
 
-<a name="yohai"></a>
-
-#### Yohai-Eliel Berreby
-
-::: column-margin
-![](images/yohaism2.png){fig-alt="Photo de Yohai-Eliel Berreby" width="200"}
-:::
-
--   Étudiant à la Maîtrise, Département de Physiologie, McGill
-
--   Diplôme d'Ingénieur (B. Sc. et M. Sc. combinés en ingénierie), Télécom Paris, Palaiseau, France
-
--   MPSI/MP CPGE (Math/Physique [*Classes Préparatoires aux Grandes Écoles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), Lycée Hoche, Versailles, France
-
--   [Email](mailto:yohai-eliel.berreby@mail.mcgill.ca); [GitHub]( https://github.com/yberreby/); [LinkedIn]( https://linkedin.com/in/yberreby)
-
-------------------------------------------------------------------------
-
-<a name="oren"></a>
-
-#### Oren Gurevitch
-
-::: column-margin
-![](images/orensm.png){fig-alt="Photo de Oren Gurevitch" width="200"}
-:::
-
--   Étudiant à la Maîtrise, Département de Physiologie, McGill.
-
--   B. Sc. en Neuroscience, Université Bar-Ilan, Ramat Gan, Israel.
-
--   Précédemment, j'étais assistant de recherche sur le traitement sensoriel chez les rats, à l'Université Bar-Ilan, sous la direction du professeur Adam Zaidel. Avant cela, en tant qu'assistant de laboratoire à l'Institut Weizmann des Sciences, j'ai travaillé sur la recherche sur la sclérose en plaques avec le professeur Idit Shachar.
-
--   [Email](mailto:oren.gurevitch@mail.mcgill.ca); [GitHub]( https://github.com/OrenGurevitch); [LinkedIn]( https://www.linkedin.com/in/oren-gurevitch/)
-
-------------------------------------------------------------------------
-
-<a name="buxin"></a>
-
-#### Buxin Liao
-
-::: column-margin
-![](images/buxinsm.png){fig-alt="Photo de Buxin Liao" width="200"}
-:::
-
--   Étudiant à la Maîtrise, Programme Intégré en Neurosciences (PIN), McGill.
-
--   Étudiant à la Maîtrise en Ingénierie, Génie Biomédical, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
-
--   B. Ing. en Génie Biomédical, Université du Sud-Est, Nanjing, Chine.
-
--   [Email](mailto:buxin.liao@mail.mcgill.ca); [GitHub]( https://github.com/D-Fonauton)
-
-------------------------------------------------------------------------
-
-<a name="noa"></a>
-
-#### Noa Kemp
-
-::: column-margin
-![](images/noasm.png){fig-alt="Photo de Noa Kemp" width="200"}
-:::
-
--   Étudiante à la Maîtrise, Département de Physiologie, McGill.
-
--   Baccalauréat complété à McGill en Biologie et Informatique.
-
--   Entre la comédie musicale, l’informatique et le cerveau - je suis incapable de choisir, alors je compte étudier une de leur intersection: l'espace audiovisuel et la perception d'objets.
-
--   J'ai vécu toute mon enfance en Belgique, mais la moitié de ma famille est en Israël et j’y ai passé la plupart de mes étés. Aujourd’hui, là où je me sens le plus chez-moi est clairement Montréal.
-
--   [Email](mailto:noa.kemp@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="maya"></a>
-
-#### Maya Aderka
-
-::: column-margin
-![](images/maya.jpeg){fig-alt="Photo de Maya Aderka" width="200"}
-:::
-
--   Étudiante en Maîtrise, Département de Physiologie, McGill.
-
--   Baccalauréat en Psychologie et Informatique avec une spécialisation en Neurosciences, Université de Tel Aviv, Tel Aviv, Israël
-
--   Pendant mon baccalauréat, j’ai travaillé comme assistante de recherche dans le laboratoire de Prof. Nitzan Censor, qui étudie la mémoire et l’apprentissage. J’ai conduit des études sur les sciences comportementales, ainsi que sur l’EEG, l’IRMf et la TMS.
-
--   Dans ma dernière année de baccalauréat, j’ai rejoint le laboratoire de sommeil du Prof. Yuval Nir pour collaborer sur la création de SleepEEGpy, une plateforme pour pré-traiter et analyser les données de l'EEG du sommeil.
-
--   [Email](mailto:maya.aderka@mail.mcgill.ca); [GitHub]( https://github.com/maya-a); [LinkedIn]( https://www.linkedin.com/in/maya-aderka-703b08229/)
-
-------------------------------------------------------------------------
-
-<a name="jacky"></a>
-
-#### Jacky Chen
-
-::: column-margin
-![](images/jackysm.png){fig-alt="Photo de Jacky Chen" width="200"}
-:::
-
--   Étudiant en Baccalauréat de psychologie avec une double mineure en sciences comportementales et en sciences des arts, à l'Université McGill.
-
--   Je suis passionné de piano et je m'intéresse aux interactions entre les processus cognitifs, l'expression musicale et les variations de l'attention. Mes recherches explorent les liens entre la psychologie, la musique et les sciences cognitives.
-
--   Originaire de Shanghai, en Chine, j'y ai vécu jusqu'à l'âge de 18 ans avant de déménager à Montréal pour mes études à l'Université McGill. J'apprécie particulièrement les étés montréalais !
-
--   [Email](mailto:yijun.chen@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="azhao"></a>
-
-#### Alex Zhao
-
-::: column-margin
-![](images/alexsm.jpg){fig-alt="Photo de Alex Zhao" width="200"}
-:::
-
--   Étudiant en Baccalauréat de neurosciences.
-
--   Mes études et ma recherche se concentrent sur les neurosciences computationnelles, une branche d'études qui met l'emphase sur la découverte de procès neuronaux avec l'aide de système informatiques.
-
--   Dans mon temps libre, je m'occupe avec la lecture en plus du voyage.
-
--   [Email](mailto:alex.zhao@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="evan"></a>
-
-#### Evan Jiang
-
-::: column-margin
-![](images/ejiang.jpg){fig-alt="Photo de Evan Jiang" width="200"}
-:::
-
--   Étudiant au baccalauréat en sciences, majeure en informatique et en biologie, McGill
-
--   J’ai initialement étudié dans le programme des sciences de la vie, mais j’ai développé un intérêt fort pour la programmation. J’ai donc décide de combiner ces intérêts en optant pour une majeure en informatique et en biologie. Ma recherche se porte désormais sur la biologie computationnelle avec une inclinaison vers la neurologie.
-
--   [Email](mailto:duoduo.jiang@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="isidore"></a>
-
-#### Isidore Victorri
-
-::: column-margin
-![](images/Isidore.jpg){fig-alt="Photo de Isidore Victorri" width="200"}
-:::
-
--   Étudiant en baccalauréat scientifique, majeure en physiologie et physique, McGill.
-
--   Avec un baccalauréat orienté vers la recherche, je suis enthousiaste à l'idée de me plonger dans le domaine de l’attention auditive.
-
--   Né et grandi à Saint-Pierre-et-Miquelon, un petit archipel français d’outre-mer, je découvre maintenant la vie dans une grande ville pour la première fois, en poursuivant mes études à Montréal.
-
--   [Email](mailto:isidore.victorri@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="sabrina"></a>
-
-#### Sabrina Du
-
-::: column-margin
-![](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina Du" width="200"}
-:::
-
--   Née à Montréal, j'ai grandi en même temps que l’essor de l’IA au Québec. Ainsi, j'ai vite développé un intérêt pour la façon dont l’intelligence humaine pourrait inspirer l’intelligence artificielle.
-
--   Comment la mémoire perceptive à court terme guide-t-elle nos décisions ? Pouvons-nous reproduire ces systèmes de mémoire dans des réseaux artificiels ? Ces questions (et bien d'autres) sont celles que j'ai hâte d'explorer.
-
--   Pendant mon temps libre, vous pouvez me trouver en train d'écouter un podcast, de faire de la randonnée ou d'essayer de coudre.
-
--   [Email](mailto:sabrina.du@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="annarose"></a>
 
 #### Anna Rose Hunt-Isaak
@@ -332,6 +242,96 @@ knitr:
 
 ------------------------------------------------------------------------
 
+<a name="evan"></a>
+
+#### Evan Jiang
+
+::: column-margin
+![](images/ejiang.jpg){fig-alt="Photo de Evan Jiang" width="200"}
+:::
+
+-   Étudiant au baccalauréat en sciences, majeure en informatique et en biologie, McGill
+
+-   J’ai initialement étudié dans le programme des sciences de la vie, mais j’ai développé un intérêt fort pour la programmation. J’ai donc décide de combiner ces intérêts en optant pour une majeure en informatique et en biologie. Ma recherche se porte désormais sur la biologie computationnelle avec une inclinaison vers la neurologie.
+
+-   [Email](mailto:duoduo.jiang@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="sabrina"></a>
+
+#### Sabrina Du
+
+::: column-margin
+![](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina Du" width="200"}
+:::
+
+-   Née à Montréal, j'ai grandi en même temps que l’essor de l’IA au Québec. Ainsi, j'ai vite développé un intérêt pour la façon dont l’intelligence humaine pourrait inspirer l’intelligence artificielle.
+
+-   Comment la mémoire perceptive à court terme guide-t-elle nos décisions ? Pouvons-nous reproduire ces systèmes de mémoire dans des réseaux artificiels ? Ces questions (et bien d'autres) sont celles que j'ai hâte d'explorer.
+
+-   Pendant mon temps libre, vous pouvez me trouver en train d'écouter un podcast, de faire de la randonnée ou d'essayer de coudre.
+
+-   [Email](mailto:sabrina.du@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="yohai"></a>
+
+#### Yohai-Eliel Berreby
+
+::: column-margin
+![](images/yohaism2.png){fig-alt="Photo de Yohai-Eliel Berreby" width="200"}
+:::
+
+-   Étudiant à la Maîtrise, Département de Physiologie, McGill
+
+-   Diplôme d'Ingénieur (B. Sc. et M. Sc. combinés en ingénierie), Télécom Paris, Palaiseau, France
+
+-   MPSI/MP CPGE (Math/Physique [*Classes Préparatoires aux Grandes Écoles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), Lycée Hoche, Versailles, France
+
+-   [Email](mailto:yohai-eliel.berreby@mail.mcgill.ca); [GitHub]( https://github.com/yberreby/); [LinkedIn]( https://linkedin.com/in/yberreby)
+
+------------------------------------------------------------------------
+
+<a name="maya"></a>
+
+#### Maya Aderka
+
+::: column-margin
+![](images/maya.jpeg){fig-alt="Photo de Maya Aderka" width="200"}
+:::
+
+-   Étudiante en Maîtrise, Département de Physiologie, McGill.
+
+-   Baccalauréat en Psychologie et Informatique avec une spécialisation en Neurosciences, Université de Tel Aviv, Tel Aviv, Israël
+
+-   Pendant mon baccalauréat, j’ai travaillé comme assistante de recherche dans le laboratoire de Prof. Nitzan Censor, qui étudie la mémoire et l’apprentissage. J’ai conduit des études sur les sciences comportementales, ainsi que sur l’EEG, l’IRMf et la TMS.
+
+-   Dans ma dernière année de baccalauréat, j’ai rejoint le laboratoire de sommeil du Prof. Yuval Nir pour collaborer sur la création de SleepEEGpy, une plateforme pour pré-traiter et analyser les données de l'EEG du sommeil.
+
+-   [Email](mailto:maya.aderka@mail.mcgill.ca); [GitHub]( https://github.com/maya-a); [LinkedIn]( https://www.linkedin.com/in/maya-aderka-703b08229/)
+
+------------------------------------------------------------------------
+
+<a name="azhao"></a>
+
+#### Alex Zhao
+
+::: column-margin
+![](images/alexsm.jpg){fig-alt="Photo de Alex Zhao" width="200"}
+:::
+
+-   Étudiant en Baccalauréat de neurosciences.
+
+-   Mes études et ma recherche se concentrent sur les neurosciences computationnelles, une branche d'études qui met l'emphase sur la découverte de procès neuronaux avec l'aide de système informatiques.
+
+-   Dans mon temps libre, je m'occupe avec la lecture en plus du voyage.
+
+-   [Email](mailto:alex.zhao@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### D’où Venons-Nous?
 
@@ -345,16 +345,16 @@ library(sf)
 data("World")
 
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 30.605053, 31.9796, 46.8852, 45.5019, 33.5138, 40.022709, 45.5103643)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 46.8852, 30.605053, 40.022709, 45.5103643, 31.9796, 45.5019, 32.119023)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 104.074123, 120.8937, -56.3159, -73.5674, 36.2765, -75.320869, -73.5746522)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, -56.3159, 104.074123, -75.320869, -73.5746522, 120.8937, -73.5674, 34.819675)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "isidore", "buxin", "annarose", "Yiqing", "evan", "sabrina", "maya")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "taimaa"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "isidore", "buxin", "annarose", "Yiqing", "evan", "sabrina", "maya"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

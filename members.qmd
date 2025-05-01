@@ -335,7 +335,7 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ### D’où Venons-Nous?
 
-<span style="color:firebrick1;">Current</span> /  <span style="color:orange;">Past</span>
+<span style="color:#FF3030;">Current</span> /  <span style="color:orange;">Past</span>
 
 ```{r,message=FALSE,warning=FALSE}
 

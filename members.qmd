@@ -74,7 +74,7 @@ knitr:
 
 [![Prof. Dang Nguyen, Neurologie, CHUM](images/dang.png){fig-alt="Photo de Dang Nguyen"}](https://neurosciences.umontreal.ca/recherche/les-chercheurs/dang-khoa-nguyen/)
 
-[![Prof. Marcelo Wanderley](images/marcelo.png){fig-alt="Photo de Marcelo"}](https://www.mcgill.ca/music/marcelo-m-wanderley)
+[![Prof. Marcelo Wanderley](images/marcelo.jpg){fig-alt="Photo de Marcelo"}](https://www.mcgill.ca/music/marcelo-m-wanderley)
 
 [![Prof. Marie-Hélène Boudrias, McGill](images/mh.jpg){fig-alt="Photo de MH"}](https://www.mcgill.ca/spot/marie-helene-boudrias)
 

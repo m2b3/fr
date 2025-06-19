@@ -78,15 +78,17 @@ Responsable : Suresh Krishna - Nous commençons une série de projets sur la per
 
 Responsable : Suresh Krishna (avec Bradley Austin-Keiller et Anais Rubsamen) - En collaboration avec [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), nous travaillons sur le suivi oculaire et les changements attentionnels lors de la performance musicale, dans le but de créer un modèle cognitif complet de la performance musicale.
 
-### Google Summer of Code 2024
+### Google Summer of Code 2025
 
-#### Projets potentiels
+1. [INCF - ActiveVision : a data and model portal for the study of goal-directed vision](https://neurostars.org/t/gsoc-2025-project-25-activevision-a-data-and-model-portal-for-the-study-of-goal-directed-vision-350h/32063)
 
-1. [INCF: Un outil fondé sur les réseaux d'interactions sociales](https://tinyurl.com/5fbr2fa5)
+2. [INCF - BrainHeart : an integrated open-source software tool for studying heart-brain interactions](https://neurostars.org/t/gsoc-2025-project-27-brainheart-an-integrated-open-source-software-tool-for-studying-heart-brain-interactions-350h/32061)
 
-2. [INCF: Mesure efficace des fonctions visuelles des nourrissons et des jeunes enfants à l'aide d'une application](https://tinyurl.com/mrxda9vs).
+3. [INCF - BreathState : an open-source Android/iOS and PC app for breathing and heart-rate synchronization (350h)](https://neurostars.org/t/gsoc-2025-project-26-breathstate-an-open-source-android-ios-and-pc-app-for-breathing-and-heart-rate-synchronization-350h/32062)
 
-3. [INCF: Utilisation de la capture de mouvement sans marqueurs pour créer de la musique et élaborer des théories neuroscientifiques/psychologiques sur la créativité musicale et l'interaction entre musique, mouvement et danse](https://tinyurl.com/48ymnzwn).
+4. [INCF - GestureCap : Markerless gesture-recognition and motion-capture Ml/AI-based tool to drive music and speech generation, and develop neuroscientific/psychological theories of music creativity and music-movement-dance interactions ](https://neurostars.org/t/gsoc-2025-project-24-gesturecap-markerless-gesture-recognition-and-motion-capture-ml-ai-for-music-speech-generation-develop-neuroscientific-psychological-theories-music-creativity-music-movement-dance-interactions-350h/32120)
+
+5. [INCF - SciCommons : a social-web tool for scientific discussion, interaction, rating, and peer-review](https://neurostars.org/t/gsoc-2025-project-23-scicommons-a-social-web-tool-for-scientific-discussion-interaction-rating-and-peer-review-350h/32040)
 
 Un projet exemple visant à construire un logiciel libre de suivi oculaire sur téléphone en utilisant PyTorch est disponible [ici](https://dssr2.github.io/gaze-track/).
 

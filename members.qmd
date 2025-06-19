@@ -21,10 +21,9 @@ knitr:
 
 ### Membres actuels du laboratoire
 
-::: column-margin
-L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
-:::
-
+<!-- ::: column-margin -->
+<!-- L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae). -->
+<!-- ::: -->
 
 ::: {#members layout-ncol="6"}
 [![Suresh Krishna](images/sureshsm.png){fig-alt="Photo de Suresh Krishna"}](#suresh)
@@ -539,12 +538,14 @@ tm_shape(World)+
     + Xinning Le (2025), IPN
 	+ Haoxiang Liu (2024), IPN
 	+ Buxin Liao (2024), IPN
-*   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
-*   COMP 401 - Nevine Nzabonimpa
+*   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili, Jacky Chen
+*   PHGY 461 - Isidore Victorri
+*   COMP 401 - Nevine Nzabonimpa, Evan Jiang
+*   COMP 396 - Evan Jiang
 * 	COGS 401/444 - Injy Fouda, Romina Niksirat
 *	PSYC 385/395 - Anais Rubsamen, Alex Parent
-*   PSYC 494 - Youzhi Huang
-*   NSCI 410 - Alexandru Tecu, Lilia Fernane 
+*   PSYC 494 - Youzhi Huang, Jacky Chen
+*   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
 *   Bourse de Recherche Mackey-Glass -- Tim Yang
 *   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Stagiares (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi

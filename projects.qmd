@@ -74,10 +74,6 @@ Responsable : Oren Gurevitch (co-supervisé par [Simone Dalla Bella](https://bra
 
 Responsable : Suresh Krishna - Nous commençons une série de projets sur la perception visuelle et les possibilités d'interventions simples chez les personnes atteintes d'exotropie intermittente.
 
-### Musique
-
-Responsable : Suresh Krishna (avec Bradley Austin-Keiller et Anais Rubsamen) - En collaboration avec [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), nous travaillons sur le suivi oculaire et les changements attentionnels lors de la performance musicale, dans le but de créer un modèle cognitif complet de la performance musicale.
-
 ### Google Summer of Code 2025
 
 1. [INCF - ActiveVision : a data and model portal for the study of goal-directed vision](https://neurostars.org/t/gsoc-2025-project-25-activevision-a-data-and-model-portal-for-the-study-of-goal-directed-vision-350h/32063)

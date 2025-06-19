@@ -62,6 +62,14 @@ knitr:
 
 [![Lihong Chen](images/LC.jpg){fig-alt="Photo de Lihong Chen"}](#Lihong)
 
+[![Linjing Wang](images/linjing.jpg){fig-alt="Photo de Linjing Wang"}](#Linjing)
+
+[![Jonathan Morris](images/DSC_5520.JPG){fig-alt="Photo de Jonathan Morris"}](#Jonathan)
+
+[![Rashed Alhosani](images/marty2.png){fig-alt="Photo de Rashed Alhosani"}](#Rashed)
+
+[![Deepansh Goel](images/9nyvij-min.jpg){fig-alt="Photo de Deepansh Goel"}](#Deepansh)
+
 
 :::
 
@@ -398,6 +406,70 @@ knitr:
 
 ------------------------------------------------------------------------
 
+<a name="Linjing"></a>
+
+#### Linjing Wang
+
+::: column-margin
+![](images/linjing.jpg){fig-alt="Photo de Linjing Wang" width="200"}
+:::
+
+-   B.Sc. en mathématiques, Université de Hong Kong.
+
+-   Je suis également spécialisée en neurosciences, et je m'intéresse à la neuroscience computationnelle, au deep learning et à leurs interactions. En entraînant des modèles à résoudre des tâches biologiques, je cherche à comprendre ce qui rend les systèmes neuronaux si robustes et efficaces.
+
+-   [Email](mailto:linjing.wang@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="Jonathan"></a>
+
+#### Jonathan Morris
+
+::: column-margin
+![](images/DSC_5520.JPG){fig-alt="Photo de Jonathan Morris" width="200"}
+:::
+
+-   B.Sc. en statistiques, B.Sc. en psychologie, Université du Wisconsin–Madison
+
+-   Je suis intéressé par l’analyse mathématique des signaux et des réseaux en neurosciences, ainsi que par leurs applications en sciences de la santé.
+
+-   [Email](mailto:jonathan.morris@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="Rashed"></a>
+
+#### Rashed Alhosani
+
+::: column-margin
+![](images/marty2.png){fig-alt="Photo de Rashed Alhosani" width="200"}
+:::
+
+-   B.Sc. en systèmes computationnels, Université Zayed
+
+-   Je m'intéresse à l'exploration de la manière dont les modèles computationnels peuvent être utilisés pour comprendre les tâches biologiques à partir de données riches.
+
+-   [Email](mailto:rashed.alhosani@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="Deepansh"></a>
+
+#### Deepansh Goel
+
+::: column-margin
+![](images/9nyvij-min.jpg){fig-alt="Photo de Deepansh Goel" width="200"}
+:::
+
+-   B.Tech en informatique et ingénierie, spécialisation en IA et apprentissage automatique, Maharaja Agrasen Institute of Technology, Delhi, Inde
+
+-   Je m'intéresse à la vision par ordinateur, à l’intelligence artificielle, à la musique et à la robotique.
+
+-   [Email](mailto:deepansh.goel@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### D’où Venons-Nous?
 
@@ -411,15 +483,15 @@ library(sf)
 data("World")
 
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 31.9796, 46.8852, 45.5019, 40.022709, 45.5103643, 39.9042, 45.51, 31.8775, 31.8206)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 31.9796, 46.8852, 45.5019, 40.022709, 45.5103643, 39.9042, 45.51, 31.8775, 31.8206, 36.0671, 43.0722, 24.4539, 28.7041)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 120.8937, -56.3159, -73.5674, -75.320869, -73.5746522, -116.4074, -73.58, 120.5511, 117.2272)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 120.8937, -56.3159, -73.5674, -75.320869, -73.5746522, -116.4074, -73.58, 120.5511, 117.2272, 120.3826, -89.40123, 54.3773, 77.1025)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Linjing", "Jonathan", "Rashed", "Deepansh")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Linjing", "Jonathan", "Rashed", "Deepansh"))
 oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu"))
 
 lat<-latlist[nowies]

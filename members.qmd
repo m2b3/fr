@@ -17,6 +17,7 @@ knitr:
   opts_chunk: 
     collapse: true
     results: false
+	warnings:false
 ---
 
 ### Membres actuels du laboratoire

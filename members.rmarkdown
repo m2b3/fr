@@ -1,4 +1,3 @@
-
 ---
 title: "Membres"
 description: |
@@ -18,6 +17,7 @@ knitr:
     collapse: true
     results: false
 ---
+
 
 ### Membres actuels du laboratoire
 
@@ -455,6 +455,7 @@ knitr:
 
 <span style="color:#FF3030;">Current</span> /  <span style="color:orange;">Past</span>
 
+
 ```{r,message=FALSE,warning=FALSE}
 
 library(tmap)
@@ -511,6 +512,7 @@ tm_shape(World)+
              position = c("RIGHT", "BOTTOM"))
 ```
 
+
 ### Anciens Membres
 
 * Maîtrise 
@@ -549,3 +551,4 @@ tm_shape(World)+
 ![Harry Potter](images/lp2sm.png){fig-alt="labgath"}
 
 :::
+

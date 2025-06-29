@@ -461,9 +461,9 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/Alison.jpg){fig-alt="Photo de Alison Jiaxi Wang" width="200"}
 :::
 
--   Étudiante en Ingénierie Électronique MEng, Université de Durham, Royaume-Uni (programme de maîtrise intégré avec une année à l'étranger à l'Université Notre Dame, États-Unis).
+-   Étudiante en ingénierie électronique MEng, Université de Durham, Royaume-Uni (programme de maîtrise intégré avec une année à l’étranger à l’Université de Notre Dame, États-Unis).
 
--   A travaillé sur le projet Durham Heart développant un prototype de cœur artificiel. Née à Taizhou, Chine et élevée à Johor Bahru, Malaisie.
+-   A travaillé sur le projet Durham Heart, développant un prototype de cœur artificiel. Née à Taizhou, Chine, et élevée à Johor Bahru, Malaisie.
 
 -   [Email](mailto:jiaxi.a.wang@mail.mcgill.ca)
 

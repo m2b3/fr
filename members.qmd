@@ -22,9 +22,11 @@ knitr:
 
 ### Membres actuels du laboratoire
 
+<!--
 ::: column-margin
 L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 :::
+-->
 
 ::: {#members layout-ncol="6"}
 [![Suresh Krishna](images/sureshsm.png){fig-alt="Photo de Suresh Krishna"}](#suresh)

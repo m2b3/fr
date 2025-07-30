@@ -496,7 +496,7 @@ ogeocode2 <- st_as_sf(ogeocode, coords = c("lonold", "latold"), crs = 4326)
 # tm_shape(geocode2) +      # dots shape
 #   tm_dots(col = "red", size = .2)
 
-usesize<-1.5 #0.5
+usesize<-1.25 #0.5
 
 tm_shape(World)+
   tm_fill(col='darkslategray2')+
@@ -530,6 +530,7 @@ tm_shape(World)+
 *   PSYC 494 - Youzhi Huang, Jacky Chen
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
 *   Bourse de Recherche Mackey-Glass -- Tim Yang
+*   Stage d'été McGill-EAU - Rashed Alhosani
 *   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Stagiares (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi
 

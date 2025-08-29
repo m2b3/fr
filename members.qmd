@@ -59,8 +59,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Youyou Yang](images/youyou.jpg){fig-alt="Photo de Youyou Yang"}](#Claire)
 
-[![Lihong Chen](images/LC.jpg){fig-alt="Photo de Lihong Chen"}](#Lihong)
-
 [![Jonathan Morris](images/DSC_5520.JPG){fig-alt="Photo de Jonathan Morris"}](#Jonathan)
 
 [![Deepansh Goel](images/9nyvij-min.jpg){fig-alt="Photo de Deepansh Goel"}](#Deepansh)
@@ -355,20 +353,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Lihong"></a>
-
-#### Lihong Chen
-
-::: column-margin
-![](images/LC.jpg){fig-alt="Photo de Lihong Chen" width="200"}
-:::
-
--   Maîtrise en intelligence artificielle, Université Western. Licence en génie logiciel, Université normale de la Chine de l'Est, Shanghai, Chine. Actuellement, je m'intéresse à l'attention visuelle et à la manière dont les informations sémantiques guident la perception et le comportement. J'ai auparavant travaillé sur la perception visuelle et le raisonnement multimodal dans des systèmes autonomes. Mes intérêts portent plus largement sur l'interaction entre les informations visuelles et linguistiques dans les comportements orientés vers un but, ainsi que sur la manière dont les modèles computationnels peuvent nous aider à comprendre et reproduire ces processus.
-
--   [Email](mailto:lchen893@uwo.ca)
-
-------------------------------------------------------------------------
-
 <a name="Jonathan"></a>
 
 #### Jonathan Morris
@@ -438,8 +422,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Jonathan", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "taimaa", "Rashed", "Linjing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Deepansh", "Jonathan", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "taimaa", "Lihong", "Rashed", "Linjing"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -498,7 +482,7 @@ tm_shape(World)+
 *   Stagiaires MITACS Globalink - Linjing Wang
 *   Stagiaires d’été – Evan Jiang, Yagya Joshi
 *   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
-*   Stagiares (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi
+*   Stagiares (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen
 
 --------------------------------------------------
 

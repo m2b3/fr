@@ -51,8 +51,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo de Yiqing Zhu"}](#Yiqing)
 
-[![Kevin (Yuze) Liu](images/Kevin.jpg){fig-alt="Photo de Kevin (Yuze) Liu"}](#Kevin)
-
 [![Edward Tong](images/edtong.jpg){fig-alt="Photo de Edward Tong"}](#Edward)
 
 [![Youyou Yang](images/youyou.jpg){fig-alt="Photo de Youyou Yang"}](#Claire)
@@ -289,20 +287,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Kevin"></a>
-
-#### Kevin (Yuze) Liu
-
-::: column-margin
-![](images/Kevin.jpg){fig-alt="Photo de Kevin (Yuze) Liu" width="200"}
-:::
-
--   Je suis récemment diplômé de l’Université McGill avec une maîtrise en études de l’information (science des données) et un baccalauréat en statistique avec une mineure en informatique. Mon expérience en recherche couvre l’apprentissage automatique, le traitement du langage naturel et l’intelligence artificielle éthique. Je m’intéresse actuellement à la manière dont les grands modèles de langage (LLM) peuvent être appliqués aux défis concrets des données du monde réel, notamment dans des contextes multilingues, dynamiques ou multimodaux. Mon objectif est de rapprocher les avancées théoriques des LLMs de leurs applications à fort impact pratique.
-
--   [Email](mailto:yuze.liu@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Edward"></a>
 
 #### Edward Tong
@@ -402,8 +386,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Deepansh", "Jonathan", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Lihong", "Rashed", "Linjing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire", "Deepansh", "Jonathan", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Rashed", "Linjing"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -461,7 +445,7 @@ tm_shape(World)+
 *   Stage d'été McGill-EAU - Rashed Alhosani
 *   Stagiaires MITACS Globalink - Linjing Wang
 *   NSERC SURA - Sabrina Du
-*   Stagiaires d’été – Evan Jiang, Yagya Joshi
+*   Stagiaires d’été – Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
 *   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Stagiares (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen
 

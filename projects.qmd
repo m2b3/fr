@@ -72,7 +72,7 @@ L’exotropie intermittente est le plus souvent un trouble neural d’origine in
 
 Nous aimons aussi travailler sur des projets appliqués, généralement grâce au soutien du programme MITACS Globalink et du Google Summer of Code. Voici quelques exemples en cours :
 
-Scicommons — un projet qui sera bientôt lancé en mode « club de lecture » privé, mais qui vise à devenir une plateforme où l’on pourra publier, commenter et évaluer des articles scientifiques. Projet en cours avec beaucoup de collaborateur·rice·s, avec Armaan Alam comme responsable technique.
+[Scicommons](https://www.scicommons.org) — un projet qui sera bientôt lancé en mode « club de lecture » privé, mais qui vise à devenir une plateforme où l’on pourra publier, commenter et évaluer des articles scientifiques. Projet en cours avec beaucoup de collaborateur·rice·s, avec Armaan Alam comme responsable technique.
 
 GestureCap — nous développons un outil de reconnaissance gestuelle et de capture de mouvement sans marqueurs, basé sur l’IA/ML. Il permet de générer de la musique et de la parole, et d’explorer des théories neuroscientifiques/psychologiques de la créativité musicale et des liens musique-mouvement-danse. Pour l’instant, nous avons réussi à atteindre une latence médiane de 13 ms entre le geste et le son, sur un simple ordinateur portable. Un rapport technique est à venir. Projet mené avec Deepansh Goel et Alison Wang.
 

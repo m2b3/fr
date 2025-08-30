@@ -36,55 +36,46 @@ Financement:
 :::
 :::
 
-Nous sommes fonctionnons enfin à plein régime après la longue pause imposée par la pandémie.
+Ce sont quelques-uns de nos projets en cours (août 2025) :
 
-Voici quelques-uns de nos projets actuels :
+### Vision orientée par les buts, attention et mouvements des yeux
 
-### Dynamique d'attention visuelle et mouvements oculaires
+C’est le sujet principal du labo. Nous avons toujours un grand nombre d’idées de projets, dont plusieurs sont en cours en même temps (au lieu de : qui tournent en même temps).
 
-Responsable : Amanda Pruss (co-supervisée par [Chris Pack](https://www.mcgill.ca/neurology-neurosurgery/christopher-pack-phd)) - Nous poursuivons le travail de l'article de Yao et al. [eLife](https://elifesciences.org/articles/18009) et étudierons le transfert d'informations entre des mouvements oculaires.
+Nous nous intéressons beaucoup à la vision active orientée par les buts (quand les yeux bougent librement). Nous combinons modélisation (avec différentes approches), analyse de données, expériences de psychophysique et analyse de jeux de données neurophysiologiques provenant d’humains et de singes. Nous travaillons aussi sur la vision prédictive en général, avec une solide expérience en attention visuelle et en comportement visuomoteur. Les projets étudiants de recherche se trouvent souvent dans ce domaine, et combinent psychophysique et analyse/modélisation de données. Buxin Liao est le responsable technique.
 
-* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+Nos efforts en « Neuro-IA » portent aussi surtout sur ce thème. Nous développons et testons des modèles de vision orientée par les buts qui intègrent différents composants d’IA moderne (réseaux de neurones convolutifs profonds, transformeurs, etc.). Une grande partie de ce travail est menée par Yohai-Eliel Berreby.
 
-### Neuro-AI
+### Audition et son
 
-Responsable : Yohaï-Eliel Berreby - Nous examinons des questions fondamentales et appliquées liées au fonctionnement des réseaux neuronaux artificiels et biologiques.
+Nous travaillons sur plusieurs projets qui portent sur la localisation visuelle et auditive, le mouvement et la perception des objets. Plus précisément, nous nous intéressons à l’enveloppe et au mouvement du son, en combinant analyse comportementale et physiologique avec modélisation informatique.
 
-* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
-   
-* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
+### États vécus et interactions cerveau-cœur-respiration
 
-### Vision active
+Nous nous intéressons de plus en plus aux corrélats comportementaux, physiologiques et neuronaux des états mentaux subjectifs rapportés par les participants. Nous avons récemment recueilli un grand ensemble de données sur l’absorption musicale, et nos premiers résultats montrent des ressemblances avec certaines formes de méditation (mais pas toutes). C’est un champ encore exploratoire pour nous, mais sur lequel nous travaillons activement. Ce projet était mené par Oren Gurevitch jusqu’à ce qu’il obtienne sa maîtrise (au lieu de : finisse sa maîtrise) au labo et commence son doctorat à côté.
 
-Responsables : Katarzyna Jurewicz - Katarzyna poursuit son travail, financé par IVADO, sur les aspects computationnels, psychophysiques et physiologiques de la vision active. Et Buxin travaille sur la modélisation de la vision active.
+### Vieillissement
 
-* Information integration across saccades plays a prominent role during goal-directed viewing of everyday scenes. [PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
+Avec Alex Zhao comme responsable technique, nous avons lancé une nouvelle recherche sur l’impact du vieillissement sur différentes mesures cérébrales et comportementales, et leurs liens avec les systèmes respiratoire et cardiovasculaire. Nous collaborons aussi avec Jonathan Morris, qui a fait un stage d’été Fulbright Canada – MITACS avec nous et avec le projet MIDUS à l’Université du Wisconsin-Madison.
 
-* Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
+### Épilepsie
 
-### Perception audiovisuelle
+Avec Maya Aderka comme responsable technique, et en collaboration avec l’unité d’épilepsie du CHUM, nous développons des outils pour surveiller et analyser l’EEG intracrânien dans la gestion de l’épilepsie. Nous faisons aussi de la recherche fondamentale, en profitant de l’occasion unique de collecter des données neuronales chez des patient·e·s pendant la surveillance pré-chirurgicale.
 
-Chercheuse principale: Noa Kemp (co-supervisée par [Catherine Guastavino](https://www.mcgill.ca/sis/people/faculty/guastavino)) - nous travaillons sur plusieurs projets impliquant la localisation auditive et visuelle, le mouvement et l’intégration de l’objet.
-
-### Flow
-
-Responsable : Oren Gurevitch (co-supervisé par [Simone Dalla Bella](https://brams.org/members/simone-dalla-bella/)) - Nous commençons un projet passionnant et hautement exploratoire sur la caractérisation des corrélats physiologiques et phénoménologiques des états d'expérience optimale (ou "flow").
+En parallèle, avec des néonatologistes, nous mettons en place un système de surveillance (semi-)automatisé (au lieu de : nous préparons également la mise en place d’un système (semi-)automatisé) pour l’encéphalopathie néonatale et les crises, surtout à l’unité de soins intensifs néonatals (NICU).
 
 ### Strabisme
 
-Responsable : Suresh Krishna - Nous commençons une série de projets sur la perception visuelle et les possibilités d'interventions simples chez les personnes atteintes d'exotropie intermittente.
+L’exotropie intermittente est le plus souvent un trouble neural d’origine inconnue. C’est l’une des formes les plus fréquentes de strabisme, et les interventions (souvent chirurgicales) échouent souvent car elles ne s’attaquent pas au problème de fond. Nous étudions actuellement la perception visuelle et explorons de nouvelles pistes d’intervention simples pour les personnes atteintes d’exotropie intermittente.
 
-### Google Summer of Code 2025
+### Dispositifs et travaux appliqués
 
-1. [INCF - ActiveVision : a data and model portal for the study of goal-directed vision](https://neurostars.org/t/gsoc-2025-project-25-activevision-a-data-and-model-portal-for-the-study-of-goal-directed-vision-350h/32063)
+Nous aimons aussi travailler sur des projets appliqués, généralement grâce au soutien du programme MITACS Globalink et du Google Summer of Code. Voici quelques exemples en cours :
 
-2. [INCF - BrainHeart : an integrated open-source software tool for studying heart-brain interactions](https://neurostars.org/t/gsoc-2025-project-27-brainheart-an-integrated-open-source-software-tool-for-studying-heart-brain-interactions-350h/32061)
+Scicommons — un projet qui sera bientôt lancé en mode « club de lecture » privé, mais qui vise à devenir une plateforme où l’on pourra publier, commenter et évaluer des articles scientifiques. Projet en cours avec beaucoup de collaborateur·rice·s, avec Armaan Alam comme responsable technique.
 
-3. [INCF - BreathState : an open-source Android/iOS and PC app for breathing and heart-rate synchronization (350h)](https://neurostars.org/t/gsoc-2025-project-26-breathstate-an-open-source-android-ios-and-pc-app-for-breathing-and-heart-rate-synchronization-350h/32062)
+GestureCap — nous développons un outil de reconnaissance gestuelle et de capture de mouvement sans marqueurs, basé sur l’IA/ML. Il permet de générer de la musique et de la parole (au lieu de : Il permet de générer musique et parole), et d’explorer des théories neuroscientifiques/psychologiques de la créativité musicale et des liens musique-mouvement-danse. Pour l’instant, nous avons réussi à atteindre une latence médiane de 13 ms entre le geste et le son, sur un simple ordinateur portable. Un rapport technique est à venir. Projet mené avec Deepansh Goel et Alison Wang.
 
-4. [INCF - GestureCap : Markerless gesture-recognition and motion-capture Ml/AI-based tool to drive music and speech generation, and develop neuroscientific/psychological theories of music creativity and music-movement-dance interactions ](https://neurostars.org/t/gsoc-2025-project-24-gesturecap-markerless-gesture-recognition-and-motion-capture-ml-ai-for-music-speech-generation-develop-neuroscientific-psychological-theories-music-creativity-music-movement-dance-interactions-350h/32120)
+Nous travaillons aussi à la création de traceurs oculaires open-source pour téléphone — projet toujours en cours.
 
-5. [INCF - SciCommons : a social-web tool for scientific discussion, interaction, rating, and peer-review](https://neurostars.org/t/gsoc-2025-project-23-scicommons-a-social-web-tool-for-scientific-discussion-interaction-rating-and-peer-review-350h/32040)
-
-Un projet exemple visant à construire un logiciel libre de suivi oculaire sur téléphone en utilisant PyTorch est disponible [ici](https://dssr2.github.io/gaze-track/).
-
+Nous allons bientôt publier la première version d’une appli mobile multiplateforme qui enregistre la respiration via le micro et l’ECG via une ceinture Polar H10. Elle permettra de réaliser facilement des protocoles de respiration guidée par rétroaction, de les enregistrer et de les tester. Projet mené avec Michael Lewis.

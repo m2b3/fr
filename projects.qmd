@@ -40,7 +40,7 @@ Ce sont quelques-uns de nos projets en cours (août 2025) :
 
 ### Vision orientée par les buts, attention et mouvements des yeux
 
-C’est le sujet principal du labo. Nous avons toujours un grand nombre d’idées de projets, dont plusieurs sont en cours en même temps (au lieu de : qui tournent en même temps).
+C’est le sujet principal du labo. Nous avons toujours un grand nombre d’idées de projets, dont plusieurs sont en cours en même temps.
 
 Nous nous intéressons beaucoup à la vision active orientée par les buts (quand les yeux bougent librement). Nous combinons modélisation (avec différentes approches), analyse de données, expériences de psychophysique et analyse de jeux de données neurophysiologiques provenant d’humains et de singes. Nous travaillons aussi sur la vision prédictive en général, avec une solide expérience en attention visuelle et en comportement visuomoteur. Les projets étudiants de recherche se trouvent souvent dans ce domaine, et combinent psychophysique et analyse/modélisation de données. Buxin Liao est le responsable technique.
 
@@ -52,7 +52,7 @@ Nous travaillons sur plusieurs projets qui portent sur la localisation visuelle 
 
 ### États vécus et interactions cerveau-cœur-respiration
 
-Nous nous intéressons de plus en plus aux corrélats comportementaux, physiologiques et neuronaux des états mentaux subjectifs rapportés par les participants. Nous avons récemment recueilli un grand ensemble de données sur l’absorption musicale, et nos premiers résultats montrent des ressemblances avec certaines formes de méditation (mais pas toutes). C’est un champ encore exploratoire pour nous, mais sur lequel nous travaillons activement. Ce projet était mené par Oren Gurevitch jusqu’à ce qu’il obtienne sa maîtrise (au lieu de : finisse sa maîtrise) au labo et commence son doctorat à côté.
+Nous nous intéressons de plus en plus aux corrélats comportementaux, physiologiques et neuronaux des états mentaux subjectifs rapportés par les participants. Nous avons récemment recueilli un grand ensemble de données sur l’absorption musicale, et nos premiers résultats montrent des ressemblances avec certaines formes de méditation (mais pas toutes). C’est un champ encore exploratoire pour nous, mais sur lequel nous travaillons activement. Ce projet était mené par Oren Gurevitch jusqu’à ce qu’il obtienne sa maîtrise au labo et commence son doctorat à côté.
 
 ### Vieillissement
 
@@ -62,7 +62,7 @@ Avec Alex Zhao comme responsable technique, nous avons lancé une nouvelle reche
 
 Avec Maya Aderka comme responsable technique, et en collaboration avec l’unité d’épilepsie du CHUM, nous développons des outils pour surveiller et analyser l’EEG intracrânien dans la gestion de l’épilepsie. Nous faisons aussi de la recherche fondamentale, en profitant de l’occasion unique de collecter des données neuronales chez des patient·e·s pendant la surveillance pré-chirurgicale.
 
-En parallèle, avec des néonatologistes, nous mettons en place un système de surveillance (semi-)automatisé (au lieu de : nous préparons également la mise en place d’un système (semi-)automatisé) pour l’encéphalopathie néonatale et les crises, surtout à l’unité de soins intensifs néonatals (NICU).
+En parallèle, avec des néonatologistes, nous mettons en place un système de surveillance (semi-)automatisé pour l’encéphalopathie néonatale et les crises, surtout à l’unité de soins intensifs néonatals (NICU).
 
 ### Strabisme
 
@@ -74,7 +74,7 @@ Nous aimons aussi travailler sur des projets appliqués, généralement grâce a
 
 Scicommons — un projet qui sera bientôt lancé en mode « club de lecture » privé, mais qui vise à devenir une plateforme où l’on pourra publier, commenter et évaluer des articles scientifiques. Projet en cours avec beaucoup de collaborateur·rice·s, avec Armaan Alam comme responsable technique.
 
-GestureCap — nous développons un outil de reconnaissance gestuelle et de capture de mouvement sans marqueurs, basé sur l’IA/ML. Il permet de générer de la musique et de la parole (au lieu de : Il permet de générer musique et parole), et d’explorer des théories neuroscientifiques/psychologiques de la créativité musicale et des liens musique-mouvement-danse. Pour l’instant, nous avons réussi à atteindre une latence médiane de 13 ms entre le geste et le son, sur un simple ordinateur portable. Un rapport technique est à venir. Projet mené avec Deepansh Goel et Alison Wang.
+GestureCap — nous développons un outil de reconnaissance gestuelle et de capture de mouvement sans marqueurs, basé sur l’IA/ML. Il permet de générer de la musique et de la parole, et d’explorer des théories neuroscientifiques/psychologiques de la créativité musicale et des liens musique-mouvement-danse. Pour l’instant, nous avons réussi à atteindre une latence médiane de 13 ms entre le geste et le son, sur un simple ordinateur portable. Un rapport technique est à venir. Projet mené avec Deepansh Goel et Alison Wang.
 
 Nous travaillons aussi à la création de traceurs oculaires open-source pour téléphone — projet toujours en cours.
 

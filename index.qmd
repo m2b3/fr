@@ -18,7 +18,7 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
-**Octobre 2025** – Nouveau preprint publié sur arXiv !! https://arxiv.org/abs/2510.25119 📄
+**Octobre 2025** – Nouveau preprint publié sur [arXiv](https://arxiv.org/abs/2510.25119) !! 📄
 
 **Septembre 2025** – Beaucoup de mouvement et de nouveaux départs ! Oren et Noa terminent leurs études et passent à de nouveaux projets, Kasia prend un nouveau poste à Cracovie, les étudiants MITACS et GSoC reprennent leurs programmes réguliers, Alex rejoint le laboratoire comme nouveau étudiant à la maîtrise. Félicitations à tous !! 🎉
 

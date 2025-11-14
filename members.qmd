@@ -43,8 +43,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak"}](#annarose)
 
-[![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo de Yiqing Zhu"}](#Yiqing)
-
 [![Edward Tong](images/edtong.jpg){fig-alt="Photo de Edward Tong"}](#Edward)
 
 [![Youyou Yang](images/youyou.jpg){fig-alt="Photo de Youyou Yang"}](#Claire)
@@ -222,20 +220,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Yiqing"></a>
-
-#### Yiqing Zhu
-
-::: column-margin
-![](images/YiqingZhu.jpg){fig-alt="Photo de Yiqing Zhu" width="200"}
-:::
-
--   J'ai obtenu mon baccalauréat en sciences (B.Sc.) spécialisé en informatique avec une mineure en statistique à l'Université McGill. Pendant mes études de premier cycle, j'ai mené des recherches interdisciplinaires à l'intersection de la biologie, des neurosciences et de l'informatique. Je poursuis actuellement des études supérieures en me concentrant sur l'apprentissage automatique, l'intelligence artificielle et la contribution des grands modèles de langage à la recherche sur les données.
-
--   [Email](mailto:yiqing.zhu2@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Edward"></a>
 
 #### Edward Tong
@@ -337,8 +321,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire", "Eliot", "Sammy", "Tanya"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Edward", "Claire", "Eliot", "Sammy", "Tanya"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Yiqing", "Yiqing", "Kevin", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -396,6 +380,7 @@ tm_shape(World)+
 *   PSYC 494 - Youzhi Huang, Jacky Chen
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
 *   Bourse de Recherche Mackey-Glass -- Tim Yang
+*   Fellow de recherche d’été du CDSI – Yiqing Zhu
 *   Stage d'été McGill-EAU - Rashed Alhosani
 *   Stagiaires MITACS Globalink - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du

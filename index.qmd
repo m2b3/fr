@@ -18,6 +18,8 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
+**Décembre 2025** — La première étape de notre progression lente mais régulière vers un portail ouvert de publication et d’évaluation est désormais disponible sous la forme d’un [portail de club de lecture scientifique](https://alphatest.scicommons.org). Excellent travail d’Armaan et de Faisal, s’appuyant sur les travaux antérieurs de Jyothi Swaroop et Dinakar. Les testeurs intrépides sont invités à y créer leurs groupes de discussion.
+
 **December 2025** - Le préprint de Jonathan est maintenant sur [biorXiv](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1) !! 📄
 
 **Novembre 2025** -  Alex reçoit une bourse de recrutement VSRN ! 🎉

@@ -41,8 +41,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky Chen"}](#jacky)
 
-[![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak"}](#annarose)
-
 [![Edward Tong](images/edtong.jpg){fig-alt="Photo de Edward Tong"}](#Edward)
 
 [![Eliot Mudry Danisch](images/eliot.jpg){fig-alt="Photo de Eliot Mudry Danisch"}](#Eliot)
@@ -200,22 +198,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="annarose"></a>
-
-#### Anna Rose Hunt-Isaak
-
-::: column-margin
-![](images/annasmall.jpg){fig-alt="Photo de Anna Rose Hunt-Isaak" width="200"}
-:::
-
--   Je m'intéresse aux points communs entre les neurosciences et l'informatique, en particulier à la manière dont nous pouvons modéliser informatiquement le traitement cognitif et développer une meilleure compréhension de la façon dont l'activité neuronale influence les comportements observables.
-
--   Mes loisirs incluent la pâtisserie, la lecture des œuvres de George Saunders, et ne pas m'habiller assez chaudement pour aller courir en hiver.
-
--   [Email](mailto:anna.hunt-isaak@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Edward"></a>
 
 #### Edward Tong
@@ -283,8 +265,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Edward", "Eliot", "Sammy"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Yiqing", "Yiqing", "Kevin", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Tanya"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Edward", "Eliot", "Sammy"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Tanya"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

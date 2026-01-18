@@ -1,0 +1,835 @@
+Quarto version: 1.8.27
+Render: Using current directory (C:\Users\Suresh\Desktop\quarto\fr) as implicit input
+projectContext: Found Quarto project in C:\Users\Suresh\Desktop\quarto\fr
+[1/6] index.qmd
+Loaded deno-dom-native
+Creating SassCache at C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass
+Returning SassCache at C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=ed0f60bd91c5fcdeeea03efce0858aec, inputHash=497a9f631a444cb5f5536e8587b2e365, force=undefined)
+  cache miss
+  cache miss, setting
+SassCache.setFromHash(ed0f60bd91c5fcdeeea03efce0858aec, 497a9f631a444cb5f5536e8587b2e365), ...
+[execProcess] C:\Program Files\Quarto\bin\tools\x86_64\dart-sass\sass.bat C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\ff43cc57d53ffe63.scss C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass\ed0f60bd91c5fcdeeea03efce0858aec.css --style compressed --quiet --load-path=C:\Users\Suresh\Desktop\quarto\fr --load-path=C:\Program Files\Quarto\share\formats\html\bootstrap\dist\scss --load-path=C:\Program Files\Quarto\share\formats\html\bslib\bslib-scss
+[execProcess] Success: true, code: 0
+Creating SassCache at C:\Users\Suresh\AppData\Local\quarto\sass
+Returning SassCache at C:\Users\Suresh\AppData\Local\quarto\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=0920dd6d7437995b8cdf7429764427b1, inputHash=bf48c57be4e9d04eb9c2b8cd2e16fa17, force=undefined)
+  cache hit
+  cache hit
+Windows: Using code page 1252
+[NotebookContext]: Writing all notebooks to C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\14e3d04f6b265bb9.json
+-- Searching for R binary --
+Looking for 'Rscript' in QUARTO_R: C:\PROGRA~1\R\R-45~1.1\bin\R.exe
+Found in C:\PROGRA~1\R\R-45~1.1\bin
+[execProcess] C:\Program Files\Quarto\bin\tools\pandoc +RTS -K512m -RTS --defaults C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-defaultsed79cd530dcc2483.yml C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-input882383f828aebee6.md --metadata-file C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-metadataa0eb8317379539cb.yml --verbose --trace --data-dir C:\Program Files\Quarto\share\pandoc\datadir
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\template.patched from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\template.patched
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\styles.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\styles.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\toc.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\2e4aa463693e6b6e\toc.html
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "fr"]] at line 1
+[trace] Parsed [Plain [Str "article"]] at line 1
+[trace] Parsed [Plain [Str "m2b3.Lab@McGill"]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.8.27"]] at line 1
+[trace] Parsed [Plain [Str "sandstone"]] at line 1
+[trace] Parsed [Plain [Str "custom.scss"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "Contents"]] at line 1
+[trace] Parsed [] at line 3
+[trace] Parsed [Para [Str "Nous",Space,Str "travaillons",Space,Str "\224",S at line 5
+[trace] Parsed [Para [Str "Plus",Space,Str "de",Space,Str "d\233tails",Spac at line 7
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Lab Photo" at line 10
+[trace] Parsed [Div ("",[],[("layout-nrow","2")]) [Para [Link ("",[],[]) [I at line 12
+[trace] Parsed [Para [Link ("",[],[]) [Str "Plus",Space,Str "de",Space,Str  at line 14
+[trace] Parsed [RawBlock (Format "html") "<!-- to make a contact sheet, set at line 16
+[trace] Parsed [Para [Strong [Str "Actualit\233s"]]] at line 18
+[trace] Parsed [Para [Strong [Str "D\233cembre",Space,Str "2025"],Space,Str at line 20
+[trace] Parsed [Para [Strong [Str "D\233cembre",Space,Str "2025"],Space,Str at line 22
+[trace] Parsed [Para [Strong [Str "December",Space,Str "2025"],Space,Str "- at line 24
+[trace] Parsed [Para [Strong [Str "Novembre",Space,Str "2025"],Space,Str "- at line 26
+[trace] Parsed [Para [Strong [Str "Octobre",Space,Str "2025"],Space,Str "\8 at line 28
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2025"],Space,Str " at line 30
+[trace] Parsed [Para [Strong [Str "Ao\251t",Space,Str "2025"],Space,Str "\8 at line 32
+[trace] Parsed [Para [Strong [Str "Ao\251t",Space,Str "2025"],Space,Str "-" at line 34
+[trace] Parsed [Para [Strong [Str "Mai",Space,Str "2025"],Space,Str "\8211" at line 36
+[trace] Parsed [Para [Strong [Str "Avril",Space,Str "2025"],Space,Str "-",S at line 38
+[trace] Parsed [Para [Strong [Str "Avril",Space,Str "2025"],Space,Str "\821 at line 40
+[trace] Parsed [Para [Strong [Str "Avril",Space,Str "2025"],Space,Str "-",S at line 42
+[trace] Parsed [Para [Strong [Str "Mars",Space,Str "2025"],Space,Str "\8211 at line 44
+[trace] Parsed [Para [Strong [Str "Mars",Space,Str "2025"],Space,Str "-",Sp at line 46
+[trace] Parsed [Para [Strong [Str "Janvier/F\233vrier",Space,Str "2025"],Sp at line 48
+[trace] Parsed [Para [Strong [Str "Janvier",Space,Str "2025"],Space,Str "-" at line 50
+[trace] Parsed [Para [Strong [Str "Octobre",Space,Str "2024"],Space,Str "-" at line 52
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2024"],Space,Str " at line 54
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2024"],Space,Str " at line 56
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2024"],Space,Str " at line 58
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2024"],Space,Str " at line 60
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2024"],Space,Str " at line 62
+[trace] Parsed [Para [Strong [Str "May",Space,Str "2024"],Space,Str "-",Spa at line 65
+[trace] Parsed [Para [Strong [Str "Ao\251t",Space,Str "2024"],Space,Str "-" at line 67
+[trace] Parsed [Para [Strong [Str "Mai",Space,Str "2024"],Space,Str "-",Spa at line 69
+[trace] Parsed [Para [Strong [Str "Avril",Space,Str "2024"],Space,Str "-",S at line 71
+[trace] Parsed [Para [Strong [Str "Mars",Space,Str "2024"],Space,Str "-",Sp at line 73
+[trace] Parsed [Para [Strong [Str "Mars",Space,Str "2024"],Space,Str "-",Sp at line 75
+[trace] Parsed [Para [Strong [Str "Mars",Space,Str "2024"],Space,Str "-",Sp at line 77
+[trace] Parsed [Para [Strong [Str "F\233vrier",Space,Str "2024"],Space,Str  at line 79
+[trace] Parsed [Para [Strong [Str "F\233vrier",Space,Str "2024"],Space,Str  at line 81
+[trace] Parsed [Para [Strong [Str "F\233vrier",Space,Str "2024"],Space,Str  at line 83
+[trace] Parsed [Para [Strong [Str "Janvier",Space,Str "2024"],Space,Str "-" at line 85
+[trace] Parsed [Para [Strong [Str "Janvier",Space,Str "2024"],Space,Str "-" at line 87
+[trace] Parsed [Para [Strong [Str "Janvier",Space,Str "2024"],Space,Str "-" at line 89
+[trace] Parsed [Para [Strong [Str "D\233cembre",Space,Str "2023"],Space,Str at line 91
+[trace] Parsed [Para [Strong [Str "Octobre",Space,Str "2023"],Space,Str "-" at line 93
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2023"],Space,Str " at line 95
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2023"],Space,Str " at line 97
+[trace] Parsed [Para [Strong [Str "Septembre",Space,Str "2023"],Space,Str " at line 99
+[trace] Parsed [Para [Strong [Str "Ao\251t",Space,Str "2023"],Space,Str "-" at line 101
+[trace] Parsed [Para [Strong [Str "Ao\251t",Space,Str "2023"],Space,Str "-" at line 103
+[trace] Parsed [Para [Strong [Str "Juillet",Space,Str "2023"],Space,Str "-" at line 105
+[trace] Parsed [Para [Strong [Str "Juin",Space,Str "2023"],Space,Str "-",Sp at line 107
+[trace] Parsed [Para [Strong [Str "Mai",Space,Str "2023"],Space,Str "-",Spa at line 109
+[trace] Parsed [Para [Strong [Str "Mars",Space,Str "2023"],Space,Str "-",Sp at line 111
+[trace] Parsed [Para [Strong [Str "Janv",Space,Str "2023"],Space,Str "-",Sp at line 113
+[trace] Parsed [Para [Strong [Str "Janv",Space,Str "2023"],Space,Str "-",Sp at line 115
+[trace] Parsed [Para [Strong [Str "Janv",Space,Str "2023"],Space,Str "-",Sp at line 117
+[trace] Parsed [Para [Strong [Str "Janv",Space,Str "2023"],Space,Str "-",Sp at line 119
+[trace] Parsed [Para [Strong [Str "Nov",Space,Str "2022"],Space,Str "-",Spa at line 121
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Logo du laboratoire")]) []  at line 123
+[trace] Parsed [HorizontalRule] at line 129
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 147
+[trace] Parsed [Para [Str "Cette",Space,Str "page",Space,Str "a",Space,Str  at line 150
+[trace] Parsed [Div ("",["hidden","quarto-markdown-envelope-contents"],[("r at line 152
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 156
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 163
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 167
+[INFO] Running filter C:/Program Files/Quarto/share/filters/main.lua
+[INFO] Completed filter C:/Program Files/Quarto/share/filters/main.lua in 171 ms
+[execProcess] Success: true, code: 0
+[2/6] join.qmd
+Returning SassCache at C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=ed0f60bd91c5fcdeeea03efce0858aec, inputHash=497a9f631a444cb5f5536e8587b2e365, force=undefined)
+  cache hit
+  cache hit
+Returning SassCache at C:\Users\Suresh\AppData\Local\quarto\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=0920dd6d7437995b8cdf7429764427b1, inputHash=bf48c57be4e9d04eb9c2b8cd2e16fa17, force=undefined)
+  cache hit
+  cache hit
+Windows: Using code page 1252
+-- Searching for R binary --
+Looking for 'Rscript' in QUARTO_R: C:\PROGRA~1\R\R-45~1.1\bin\R.exe
+Found in C:\PROGRA~1\R\R-45~1.1\bin
+[execProcess] C:\Program Files\Quarto\bin\tools\pandoc +RTS -K512m -RTS --defaults C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-defaultsd1dc243e213d476d.yml C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-inputba141b81b42db9a8.md --metadata-file C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-metadata441c901cd1d6e52a.yml --verbose --trace --data-dir C:\Program Files\Quarto\share\pandoc\datadir
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\template.patched from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\template.patched
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\styles.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\styles.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\toc.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\eaac0e93cc7e7e88\toc.html
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "fr"]] at line 1
+[trace] Parsed [Plain [Str "article"]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.8.27"]] at line 1
+[trace] Parsed [Plain [Str "sandstone"]] at line 1
+[trace] Parsed [Plain [Str "custom.scss"]] at line 1
+[trace] Parsed [Plain [Str "Rejoindre",Space,Str "le",Space,Str "laboratoir at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "Contents"]] at line 1
+[trace] Parsed [] at line 2
+[trace] Parsed [RawBlock (Format "html") "<!-- ff -->"] at line 3
+[trace] Parsed [Para [Str "Nous",Space,Str "sommes",Space,Str "amicaux,",Sp at line 3
+[trace] Parsed [Para [Str "En",Space,Str "ce",Space,Str "moment,",Space,Str at line 3
+[trace] Parsed [Para [Str "Si",Space,Str "vous",Space,Str "\234tes",Space,S at line 3
+[trace] Parsed [BulletList [[Para [Str "Nous",Space,Str "sommes",Space,Str  at line 9
+[trace] Parsed [Header 3 ("etudiants-de-premier-cycle",[],[]) [Str "Etudian at line 11
+[trace] Parsed [Para [Str "Les",Space,Str "\233tudiants",Space,Str "de",Spa at line 3
+[trace] Parsed [Para [Str "Il",Space,Str "existe",Space,Str "plusieurs",Spa at line 3
+[trace] Parsed [BulletList [[Para [Str "Les",Space,Str "\233tudiants",Space at line 15
+[trace] Parsed [Header 3 ("ma\238trise-et-doctorat",[],[]) [Str "Ma\238tris at line 17
+[trace] Parsed [Para [Str "Les",Space,Str "\233tudiants",Space,Str "dipl\24 at line 3
+[trace] Parsed [Para [Str "Il",Space,Str "y",Space,Str "a",Space,Str "de",S at line 3
+[trace] Parsed [Para [Str "Les",Space,Str "\233tudiants",Space,Str "fran\23 at line 3
+[trace] Parsed [Para [Str "Il",Space,Str "existe",Space,Str "plusieurs",Spa at line 3
+[trace] Parsed [Para [Str "Les",Space,Str "\233tudiants",Space,Str "du",Spa at line 3
+[trace] Parsed [Para [Str "Si",Space,Str "vous",Space,Str "\234tes",Space,S at line 3
+[trace] Parsed [BulletList [[Para [Str "Les",Space,Str "\233tudiants",Space at line 29
+[trace] Parsed [Header 3 ("postdocs-et-associ\233s-de-recherche",[],[]) [St at line 31
+[trace] Parsed [Para [Str "Les",Space,Str "disponibilit\233s",Space,Str "po at line 5
+[trace] Parsed [BulletList [[Plain [Str "Les",Space,Str "disponibilit\233s" at line 35
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 53
+[trace] Parsed [Para [Str "Cette",Space,Str "page",Space,Str "a",Space,Str  at line 56
+[trace] Parsed [Div ("",["hidden","quarto-markdown-envelope-contents"],[("r at line 58
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 62
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 69
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 73
+[INFO] Running filter C:/Program Files/Quarto/share/filters/main.lua
+[INFO] Completed filter C:/Program Files/Quarto/share/filters/main.lua in 140 ms
+[execProcess] Success: true, code: 0
+[3/6] locate.qmd
+Returning SassCache at C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=ed0f60bd91c5fcdeeea03efce0858aec, inputHash=497a9f631a444cb5f5536e8587b2e365, force=undefined)
+  cache hit
+  cache hit
+Returning SassCache at C:\Users\Suresh\AppData\Local\quarto\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=0920dd6d7437995b8cdf7429764427b1, inputHash=bf48c57be4e9d04eb9c2b8cd2e16fa17, force=undefined)
+  cache hit
+  cache hit
+Windows: Using code page 1252
+-- Searching for R binary --
+Looking for 'Rscript' in QUARTO_R: C:\PROGRA~1\R\R-45~1.1\bin\R.exe
+Found in C:\PROGRA~1\R\R-45~1.1\bin
+[execProcess] C:\Program Files\Quarto\bin\tools\pandoc +RTS -K512m -RTS --defaults C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-defaults24263b8aaab91739.yml C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-input93fe769b7ef898d0.md --metadata-file C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-metadatab611ab7a53e6bc71.yml --verbose --trace --data-dir C:\Program Files\Quarto\share\pandoc\datadir
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\template.patched from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\template.patched
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\styles.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\styles.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\toc.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\35032a4cbf8e6dab\toc.html
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "fr"]] at line 1
+[trace] Parsed [Plain [Str "article"]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.8.27"]] at line 1
+[trace] Parsed [Plain [Str "sandstone"]] at line 1
+[trace] Parsed [Plain [Str "custom.scss"]] at line 1
+[trace] Parsed [Plain [Str "\192",Space,Str "propos",Space,Str "du",Space,S at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "Contents"]] at line 1
+[trace] Parsed [] at line 2
+[trace] Parsed [RawBlock (Format "html") "<!-- ff -->"] at line 4
+[trace] Parsed [Para [Str "Financement:"]] at line 7
+[trace] Parsed [Para [Image ("",[],[("fig-alt","NSERC logo")]) [] ("images/ at line 11
+[trace] Parsed [Para [Image ("",[],[("fig-alt","McGill logo")]) [] ("images at line 13
+[trace] Parsed [Para [Image ("",[],[("fig-alt","CIRMMT logo")]) [] ("images at line 15
+[trace] Parsed [Para [Image ("",[],[("fig-alt","VHRN logo")]) [] ("images/v at line 17
+[trace] Parsed [Para [Image ("",[],[("fig-alt","IVADO logo")]) [] ("images/ at line 19
+[trace] Parsed [Para [Image ("",[],[("fig-alt","UNIQUE logo")]) [] ("images at line 21
+[trace] Parsed [Para [Image ("",[],[("fig-alt","DRIO logo")]) [] ("images/d at line 22
+[trace] Parsed [Div ("",[],[("layout-ncol","1")]) [Para [Image ("",[],[("fi at line 23
+[trace] Parsed [Div ("funding",[],[]) [Div ("",[],[("layout-ncol","1")]) [P at line 25
+[trace] Parsed [Para [Str "Soutien:"]] at line 27
+[trace] Parsed [Para [Link ("",[],[("fig-alt","Zulip")]) [Image ("",[],[])  at line 30
+[trace] Parsed [Div ("",[],[("layout-ncol","2")]) [Para [Link ("",[],[("fig at line 31
+[trace] Parsed [Div ("support",[],[]) [Div ("",[],[("layout-ncol","2")]) [P at line 32
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Str "Financement:"],Di at line 34
+[trace] Parsed [Para [Str "Nous",Space,Str "sommes",Space,Str "joignables", at line 36
+[trace] Parsed [Para [Str "Localisation",Space,Str "du",Space,Str "laborato at line 38
+[trace] Parsed [Para [Str "Nous",Space,Str "sommes",Space,Str "situ\233s",S at line 40
+[trace] Parsed [Para [Str "Nous",Space,Str "faisons",Space,Str "aussi",Spac at line 45
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 63
+[trace] Parsed [Para [Str "Cette",Space,Str "page",Space,Str "a",Space,Str  at line 66
+[trace] Parsed [Div ("",["hidden","quarto-markdown-envelope-contents"],[("r at line 68
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 72
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 79
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 83
+[INFO] Running filter C:/Program Files/Quarto/share/filters/main.lua
+[INFO] Completed filter C:/Program Files/Quarto/share/filters/main.lua in 93 ms
+[execProcess] Success: true, code: 0
+[4/6] members.qmd
+-- Searching for R binary --
+Looking for 'Rscript' in QUARTO_R: C:\PROGRA~1\R\R-45~1.1\bin\R.exe
+Found in C:\PROGRA~1\R\R-45~1.1\bin
+[execProcess] C:\PROGRA~1\R\R-45~1.1\bin\Rscript C:\Program Files\Quarto\share\rmd\rmd.R
+
+
+processing file: members.qmd
+1/3                  
+2/3 [unnamed-chunk-1]
+3output file: members.knit.md
+
+/3                  
+[execProcess] Success: true, code: 0
+Returning SassCache at C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=ed0f60bd91c5fcdeeea03efce0858aec, inputHash=497a9f631a444cb5f5536e8587b2e365, force=undefined)
+  cache hit
+  cache hit
+Returning SassCache at C:\Users\Suresh\AppData\Local\quarto\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=0920dd6d7437995b8cdf7429764427b1, inputHash=bf48c57be4e9d04eb9c2b8cd2e16fa17, force=undefined)
+  cache hit
+  cache hit
+Windows: Using code page 1252
+-- Searching for R binary --
+Looking for 'Rscript' in QUARTO_R: C:\PROGRA~1\R\R-45~1.1\bin\R.exe
+Found in C:\PROGRA~1\R\R-45~1.1\bin
+[execProcess] C:\Program Files\Quarto\bin\tools\pandoc +RTS -K512m -RTS --defaults C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-defaultsa85b1837d855b8df.yml C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-inputb7b02dd5ce6ad078.md --metadata-file C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-metadatab99517853a84c74f.yml --verbose --trace --data-dir C:\Program Files\Quarto\share\pandoc\datadir
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\template.patched from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\template.patched
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\styles.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\styles.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\toc.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\e719436ff2086df8\toc.html
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "auto"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "fr"]] at line 1
+[trace] Parsed [Plain [Str "article"]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.8.27"]] at line 1
+[trace] Parsed [Plain [Str "sandstone"]] at line 1
+[trace] Parsed [Plain [Str "custom.scss"]] at line 1
+[trace] Parsed [Plain [Str "Membres"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "Contents"]] at line 1
+[trace] Parsed [] at line 3
+[trace] Parsed [Header 3 ("membres-actuels-du-laboratoire",[],[]) [Str "Mem at line 5
+[trace] Parsed [RawBlock (Format "html") "<!--\n::: column-margin\nL\8217im at line 11
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de S at line 14
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de Y at line 16
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de B at line 18
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de M at line 20
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de A at line 22
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de J at line 24
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de E at line 26
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de S at line 28
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de T at line 30
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de M at line 33
+[trace] Parsed [Div ("members",[],[("layout-ncol","6")]) [Para [Link ("",[] at line 35
+[trace] Parsed [Header 3 ("collaborateurs",[],[]) [Str "Collaborateurs"]] at line 37
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de C at line 40
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de E at line 42
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de C at line 44
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de F at line 46
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de S at line 48
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de A at line 50
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de D at line 52
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de M at line 54
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de M at line 56
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de J at line 58
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de J at line 60
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de D at line 63
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de A at line 65
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de O at line 67
+[trace] Parsed [Para [Link ("",[],[]) [Image ("",[],[("fig-alt","Photo de K at line 69
+[trace] Parsed [Div ("collaborators",[],[("layout-ncol","5")]) [Para [Link  at line 71
+[trace] Parsed [HorizontalRule] at line 73
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"suresh\">",RawIn at line 75
+[trace] Parsed [Header 4 ("suresh-krishna",[],[]) [Str "Suresh",Space,Str " at line 77
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Suresh Krishna"),( at line 79
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 81
+[trace] Parsed [Para [Str "Professeur",Space,Str "agr\233g\233,",Space,Str  at line 3
+[trace] Parsed [Para [Str "MBBS",Space,Str "(\201cole",Space,Str "de",Space at line 3
+[trace] Parsed [Para [Str "A",Space,Str "pass\233",Space,Str "du",Space,Str at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:suresh.krishna at line 3
+[trace] Parsed [BulletList [[Para [Str "Professeur",Space,Str "agr\233g\233 at line 89
+[trace] Parsed [HorizontalRule] at line 91
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"yohai\">",RawInl at line 93
+[trace] Parsed [Header 4 ("yohai-eliel-berreby",[],[]) [Str "Yohai-Eliel",S at line 95
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Yohai-Eliel Berreb at line 97
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 99
+[trace] Parsed [Para [Str "\201tudiant",Space,Str "\224",Space,Str "la",Spa at line 3
+[trace] Parsed [Para [Str "Dipl\244me",Space,Str "d\8217Ing\233nieur",Space at line 3
+[trace] Parsed [Para [Str "MPSI/MP",Space,Str "CPGE",Space,Str "(Math/Physi at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:yohai-eliel.be at line 3
+[trace] Parsed [BulletList [[Para [Str "\201tudiant",Space,Str "\224",Space at line 107
+[trace] Parsed [HorizontalRule] at line 109
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"buxin\">",RawInl at line 111
+[trace] Parsed [Header 4 ("buxin-liao",[],[]) [Str "Buxin",Space,Str "Liao" at line 113
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Buxin Liao"),("wid at line 115
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 117
+[trace] Parsed [Para [Str "\201tudiant",Space,Str "\224",Space,Str "la",Spa at line 3
+[trace] Parsed [Para [Str "\201tudiant",Space,Str "\224",Space,Str "la",Spa at line 3
+[trace] Parsed [Para [Str "B.",Space,Str "Ing.",Space,Str "en",Space,Str "G at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:buxin.liao@mai at line 3
+[trace] Parsed [BulletList [[Para [Str "\201tudiant",Space,Str "\224",Space at line 125
+[trace] Parsed [HorizontalRule] at line 127
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"maya\">",RawInli at line 129
+[trace] Parsed [Header 4 ("maya-aderka",[],[]) [Str "Maya",Space,Str "Aderk at line 131
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Maya Aderka"),("wi at line 133
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 135
+[trace] Parsed [Para [Str "\201tudiante",Space,Str "en",Space,Str "Ma\238tr at line 3
+[trace] Parsed [Para [Str "Baccalaur\233at",Space,Str "en",Space,Str "Psych at line 3
+[trace] Parsed [Para [Str "Pendant",Space,Str "mon",Space,Str "baccalaur\23 at line 3
+[trace] Parsed [Para [Str "Dans",Space,Str "ma",Space,Str "derni\232re",Spa at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:maya.aderka@ma at line 3
+[trace] Parsed [BulletList [[Para [Str "\201tudiante",Space,Str "en",Space, at line 145
+[trace] Parsed [HorizontalRule] at line 147
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"azhao\">",RawInl at line 149
+[trace] Parsed [Header 4 ("alex-zhao",[],[]) [Str "Alex",Space,Str "Zhao"]] at line 151
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Alex Zhao"),("widt at line 153
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 155
+[trace] Parsed [Para [Str "\201tudiant",Space,Str "en",Space,Str "Baccalaur at line 3
+[trace] Parsed [Para [Str "Mes",Space,Str "\233tudes",Space,Str "et",Space, at line 3
+[trace] Parsed [Para [Str "Dans",Space,Str "mon",Space,Str "temps",Space,St at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:alex.zhao@mail at line 3
+[trace] Parsed [BulletList [[Para [Str "\201tudiant",Space,Str "en",Space,S at line 163
+[trace] Parsed [HorizontalRule] at line 165
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"jacky\">",RawInl at line 167
+[trace] Parsed [Header 4 ("jacky-chen",[],[]) [Str "Jacky",Space,Str "Chen" at line 169
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Jacky Chen"),("wid at line 171
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 173
+[trace] Parsed [Para [Str "\201tudiant",Space,Str "en",Space,Str "Baccalaur at line 3
+[trace] Parsed [Para [Str "Je",Space,Str "suis",Space,Str "passionn\233",Sp at line 3
+[trace] Parsed [Para [Str "Originaire",Space,Str "de",Space,Str "Shanghai," at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:yijun.chen@mai at line 3
+[trace] Parsed [BulletList [[Para [Str "\201tudiant",Space,Str "en",Space,S at line 181
+[trace] Parsed [HorizontalRule] at line 183
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"Eliot\">",RawInl at line 185
+[trace] Parsed [Header 4 ("eliot-mudry-danisch",[],[]) [Str "Eliot",Space,S at line 187
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Eliot Mudry Danisc at line 189
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 191
+[trace] Parsed [Para [Str "\201tudiant",Space,Str "en",Space,Str "baccaleau at line 3
+[trace] Parsed [Para [Str "Je",Space,Str "m\8217int\233resse",Space,Str "\2 at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:eliot.mudrydan at line 3
+[trace] Parsed [BulletList [[Para [Str "\201tudiant",Space,Str "en",Space,S at line 197
+[trace] Parsed [HorizontalRule] at line 199
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"Sammy\">",RawInl at line 201
+[trace] Parsed [Header 4 ("samantha-rogers",[],[]) [Str "Samantha",Space,St at line 203
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Samantha Rogers"), at line 205
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 207
+[trace] Parsed [Para [Str "B.",Space,Str "Sc.",Space,Str "\201tudiant",Spac at line 3
+[trace] Parsed [Para [Str "Je",Space,Str "suis",Space,Str "originaire",Spac at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:samantha.roger at line 3
+[trace] Parsed [BulletList [[Para [Str "B.",Space,Str "Sc.",Space,Str "\201 at line 213
+[trace] Parsed [HorizontalRule] at line 215
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"Tanya\">",RawInl at line 217
+[trace] Parsed [Header 4 ("tanya-kumar",[],[]) [Str "Tanya",Space,Str "Kuma at line 219
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Tanya Kumar"),("wi at line 221
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 223
+[trace] Parsed [Para [Str "Ma\238trise",Space,Str "(sans",Space,Str "m\233m at line 3
+[trace] Parsed [Para [Str "Baccalaur\233at",Space,Str "en",Space,Str "techn at line 3
+[trace] Parsed [Para [Str "Je",Space,Str "m\8217int\233resse",Space,Str "\2 at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:tanya.kumar@ma at line 3
+[trace] Parsed [BulletList [[Para [Str "Ma\238trise",Space,Str "(sans",Spac at line 231
+[trace] Parsed [HorizontalRule] at line 233
+[trace] Parsed [Para [RawInline (Format "html") "<a name=\"Manuel\">",RawIn at line 235
+[trace] Parsed [Header 4 ("manuel-hanna",[],[]) [Str "Manuel",Space,Str "Ha at line 237
+[trace] Parsed [Para [Image ("",[],[("fig-alt","Photo de Manuel Hanna"),("w at line 239
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Image ("",[],[("fig-al at line 241
+[trace] Parsed [Para [Str "B.Eng.",Space,Str "G\233nie",Space,Str "Logiciel at line 3
+[trace] Parsed [Para [Str "En",Space,Str "tant",Space,Str "qu\8217\233tudia at line 3
+[trace] Parsed [Para [Str "J\8217aime",Space,Str "surtout",Space,Str "jouer at line 3
+[trace] Parsed [Para [Link ("",[],[]) [Str "Email"] ("mailto:manuel.hanna@m at line 3
+[trace] Parsed [BulletList [[Para [Str "B.Eng.",Space,Str "G\233nie",Space, at line 249
+[trace] Parsed [HorizontalRule] at line 252
+[trace] Parsed [Header 3 ("do\249-venons-nous",[],[]) [Str "D\8217o\249",Sp at line 254
+[trace] Parsed [Para [Span ("",[],[("style","color:#FF3030;")]) [Str "Curre at line 257
+[trace] Parsed [Para [Image ("",[],[("width","672")]) [] ("members_files/fi at line 260
+[trace] Parsed [Div ("",["cell-output-display"],[]) [Para [Image ("",[],[(" at line 261
+[trace] Parsed [Div ("",["cell"],[]) [Div ("",["cell-output-display"],[]) [ at line 264
+[trace] Parsed [Header 3 ("anciens-membres",[],[]) [Str "Anciens",Space,Str at line 266
+[trace] Parsed [Plain [Str "Chercheur",Space,Str "postdoctoral",Space,Str " at line 2
+[trace] Parsed [Plain [Str "Ma\238trise"]] at line 1
+[trace] Parsed [] at line 2
+[trace] Parsed [Plain [Str "Amanda",Space,Str "Pruss",Space,Str "(2025),",S at line 2
+[trace] Parsed [Plain [Str "Xinning",Space,Str "Le",Space,Str "(2025),",Spa at line 2
+[trace] Parsed [Plain [Str "Haoxiang",Space,Str "Liu",Space,Str "(2024),",S at line 2
+[trace] Parsed [Plain [Str "Buxin",Space,Str "Liao",Space,Str "(2024),",Spa at line 2
+[trace] Parsed [Plain [Str "Oren",Space,Str "Gurevitch",Space,Str "(2025)," at line 2
+[trace] Parsed [Plain [Str "Noa",Space,Str "Kemp",Space,Str "(2025),",Space at line 2
+[trace] Parsed [BulletList [[Plain [Str "Amanda",Space,Str "Pruss",Space,St at line 8
+[trace] Parsed [Plain [Str "PHGY",Space,Str "396",Space,Str "-",Space,Str " at line 2
+[trace] Parsed [Plain [Str "PHGY",Space,Str "461",Space,Str "-",Space,Str " at line 2
+[trace] Parsed [Plain [Str "COMP",Space,Str "401",Space,Str "-",Space,Str " at line 2
+[trace] Parsed [Plain [Str "COMP",Space,Str "396",Space,Str "-",Space,Str " at line 2
+[trace] Parsed [Plain [Str "COGS",Space,Str "401/444",Space,Str "-",Space,S at line 2
+[trace] Parsed [Plain [Str "PSYC",Space,Str "385/395",Space,Str "-",Space,S at line 2
+[trace] Parsed [Plain [Str "PSYC",Space,Str "494",Space,Str "-",Space,Str " at line 2
+[trace] Parsed [Plain [Str "NSCI",Space,Str "410",Space,Str "-",Space,Str " at line 2
+[trace] Parsed [Plain [Str "Bourse",Space,Str "de",Space,Str "Recherche",Sp at line 2
+[trace] Parsed [Plain [Str "Fellow",Space,Str "de",Space,Str "recherche",Sp at line 2
+[trace] Parsed [Plain [Str "Chercheur\183e",Space,Str "b\233n\233vole",Spac at line 2
+[trace] Parsed [Plain [Str "Stage",Space,Str "d\8217\233t\233",Space,Str "M at line 2
+[trace] Parsed [Plain [Str "Stagiaires",Space,Str "MITACS",Space,Str "Globa at line 2
+[trace] Parsed [Plain [Str "NSERC",Space,Str "SURA",Space,Str "-",Space,Str at line 2
+[trace] Parsed [Plain [Str "Stagiaires",Space,Str "d\8217\233t\233",Space,S at line 2
+[trace] Parsed [Plain [Str "\201tudiants",Space,Str "de",Space,Str "1er",Sp at line 2
+[trace] Parsed [Para [Str "Stagiares",Space,Str "(Google",Space,Str "Summer at line 3
+[trace] Parsed [BulletList [[Plain [Str "Chercheur",Space,Str "postdoctoral at line 292
+[trace] Parsed [HorizontalRule] at line 294
+[trace] Parsed [Header 3 ("nous",[],[]) [Str "Nous"]] at line 296
+[trace] Parsed [] at line 298
+[trace] Parsed [Figure ("",[],[]) (Caption Nothing [Plain [Str "De",Space,S at line 300
+[trace] Parsed [Figure ("",[],[]) (Caption Nothing [Plain [Str "et",Space,S at line 302
+[trace] Parsed [Figure ("",[],[]) (Caption Nothing [Plain [Str "Thompson",S at line 304
+[trace] Parsed [Figure ("",[],[]) (Caption Nothing [Plain [Str "La",Space,S at line 306
+[trace] Parsed [Figure ("",[],[]) (Caption Nothing [Plain [Quoted DoubleQuo at line 308
+[trace] Parsed [Figure ("",[],[]) (Caption Nothing [Plain [Str "Harry",Spac at line 310
+[trace] Parsed [Div ("photos",[],[("layout-ncol","2")]) [Figure ("",[],[])  at line 315
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 333
+[trace] Parsed [Para [Str "Cette",Space,Str "page",Space,Str "a",Space,Str  at line 336
+[trace] Parsed [Div ("",["hidden","quarto-markdown-envelope-contents"],[("r at line 338
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 342
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 349
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 353
+[INFO] Running filter C:/Program Files/Quarto/share/filters/main.lua
+[INFO] Completed filter C:/Program Files/Quarto/share/filters/main.lua in 328 ms
+[INFO] Running filter C:/Program Files/Quarto/share/filters/rmarkdown/pagebreak.lua
+[INFO] Completed filter C:/Program Files/Quarto/share/filters/rmarkdown/pagebreak.lua in 15 ms
+[execProcess] Success: true, code: 0
+[5/6] output.qmd
+Returning SassCache at C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=ed0f60bd91c5fcdeeea03efce0858aec, inputHash=497a9f631a444cb5f5536e8587b2e365, force=undefined)
+  cache hit
+  cache hit
+Returning SassCache at C:\Users\Suresh\AppData\Local\quarto\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=0920dd6d7437995b8cdf7429764427b1, inputHash=bf48c57be4e9d04eb9c2b8cd2e16fa17, force=undefined)
+  cache hit
+  cache hit
+Windows: Using code page 1252
+-- Searching for R binary --
+Looking for 'Rscript' in QUARTO_R: C:\PROGRA~1\R\R-45~1.1\bin\R.exe
+Found in C:\PROGRA~1\R\R-45~1.1\bin
+[execProcess] C:\Program Files\Quarto\bin\tools\pandoc +RTS -K512m -RTS --defaults C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-defaultsd2c204f5dae56c0d.yml C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-input12321f637c8e903c.md --metadata-file C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-metadata3512845dfd4de920.yml --verbose --trace --data-dir C:\Program Files\Quarto\share\pandoc\datadir
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\template.patched from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\template.patched
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\styles.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\styles.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\toc.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\4cd105b0ccc39224\toc.html
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "en"]] at line 1
+[trace] Parsed [Plain [Str "article"]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.8.27"]] at line 1
+[trace] Parsed [Plain [Str "sandstone"]] at line 1
+[trace] Parsed [Plain [Str "custom.scss"]] at line 1
+[trace] Parsed [Plain [Str "Travaux",Space,Str "du",Space,Str "m2b3"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "Contents"]] at line 1
+[trace] Parsed [] at line 3
+[trace] Parsed [Header 3 ("articles-scientifiques",[],[]) [Str "Articles",S at line 5
+[trace] Parsed [Para [Str "How",Space,Str "forward",Space,Str "remapping",S at line 3
+[trace] Parsed [Para [Str "Microelectrode",Space,Str "Implantation",Space,S at line 3
+[trace] Parsed [Para [Str "Single-neuron",Space,Str "spiking",Space,Str "va at line 3
+[trace] Parsed [BulletList [[Para [Str "How",Space,Str "forward",Space,Str  at line 11
+[trace] Parsed [Header 3 ("pr\233publications",[],[]) [Str "Pr\233publicati at line 13
+[trace] Parsed [Para [Str "Associations",Space,Str "Between",Space,Str "Age at line 3
+[trace] Parsed [Para [Str "Effect",Space,Str "of",Space,Str "an",Space,Str  at line 3
+[trace] Parsed [Para [Str "On",Space,Str "variability",Space,Str "in",Space at line 4
+[trace] Parsed [Para [Str "Correlations",Space,Str "between",Space,Str "dif at line 3
+[trace] Parsed [Para [Str "Fast",Space,Str "and",Space,Str "frequent",Space at line 3
+[trace] Parsed [Para [Str "Correction",Space,Str "of",Space,Str "saccadic", at line 3
+[trace] Parsed [BulletList [[Para [Str "Associations",Space,Str "Between",S at line 26
+[trace] Parsed [Header 3 ("autres",[],[]) [Str "Autres"]] at line 28
+[trace] Parsed [Header 4 ("travaux-ant\233rieurs-poursuivistermin\233s-au-s at line 30
+[trace] Parsed [Para [Str "Investigating",Space,Str "Efficient",Space,Str " at line 3
+[trace] Parsed [Para [Str "Jurewicz,",Space,Str "K.,",Space,Str "Sleezer,", at line 3
+[trace] Parsed [Para [Str "Wojciechowski,",Space,Str "J.,",Space,Str "Jurew at line 3
+[trace] Parsed [Para [Str "Pupil",Space,Str "size",Space,Str "predicts",Spa at line 3
+[trace] Parsed [Para [Str "ToFFi\8211Toolbox",Space,Str "for",Space,Str "fr at line 5
+[trace] Parsed [BulletList [[Para [Str "Investigating",Space,Str "Efficient at line 42
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 60
+[trace] Parsed [Para [Str "Cette",Space,Str "page",Space,Str "a",Space,Str  at line 63
+[trace] Parsed [Div ("",["hidden","quarto-markdown-envelope-contents"],[("r at line 65
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 69
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 76
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 80
+[INFO] Running filter C:/Program Files/Quarto/share/filters/main.lua
+[INFO] Completed filter C:/Program Files/Quarto/share/filters/main.lua in 125 ms
+[execProcess] Success: true, code: 0
+[6/6] projects.qmd
+Returning SassCache at C:\Users\Suresh\Desktop\quarto\fr\.quarto\quarto-session-tempb12ee4a548a60070\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=ed0f60bd91c5fcdeeea03efce0858aec, inputHash=497a9f631a444cb5f5536e8587b2e365, force=undefined)
+  cache hit
+  cache hit
+Returning SassCache at C:\Users\Suresh\AppData\Local\quarto\sass
+SassCache.getOrSet(...)
+SassCache.getFromHash(hash=0920dd6d7437995b8cdf7429764427b1, inputHash=bf48c57be4e9d04eb9c2b8cd2e16fa17, force=undefined)
+  cache hit
+  cache hit
+Windows: Using code page 1252
+-- Searching for R binary --
+Looking for 'Rscript' in QUARTO_R: C:\PROGRA~1\R\R-45~1.1\bin\R.exe
+Found in C:\PROGRA~1\R\R-45~1.1\bin
+[execProcess] C:\Program Files\Quarto\bin\tools\pandoc +RTS -K512m -RTS --defaults C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-defaultsd0d0503d873ac44c.yml C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-input746e96e5fd79aae4.md --metadata-file C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\quarto-metadata7eb836c91fe69b9c.yml --verbose --trace --data-dir C:\Program Files\Quarto\share\pandoc\datadir
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\template.patched from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\template.patched
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\styles.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\styles.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-block.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\title-metadata.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\_title-meta-author.html
+[INFO] Loaded C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\toc.html from C:\Users\Suresh\AppData\Local\Temp\quarto-session11cfd137f1e3318\b12b3f55cadfcb13\ff94cc9a09381039\toc.html
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "visual"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "fr"]] at line 1
+[trace] Parsed [Plain [Str "article"]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.8.27"]] at line 1
+[trace] Parsed [Plain [Str "sandstone"]] at line 1
+[trace] Parsed [Plain [Str "custom.scss"]] at line 1
+[trace] Parsed [Plain [Str "Projets"]] at line 1
+[trace] Parsed [Plain [Str "left"]] at line 1
+[trace] Parsed [Plain [Str "Contents"]] at line 1
+[trace] Parsed [] at line 3
+[trace] Parsed [Para [Str "Nous",Space,Str "travaillons",Space,Str "\224",S at line 5
+[trace] Parsed [Para [Str "Nous",Space,Str "pratiquons",Space,Str "la",Spac at line 7
+[trace] Parsed [Para [Str "Financement:"]] at line 10
+[trace] Parsed [Para [Image ("",[],[("fig-alt","logo NSERC")]) [] ("images/ at line 14
+[trace] Parsed [Para [Image ("",[],[("fig-alt","logo de McGill")]) [] ("ima at line 16
+[trace] Parsed [Para [Image ("",[],[("fig-alt","logo CIRMMT")]) [] ("images at line 18
+[trace] Parsed [Para [Image ("",[],[("fig-alt","logo VHRN")]) [] ("images/v at line 20
+[trace] Parsed [Para [Image ("",[],[("fig-alt","logo IVADO")]) [] ("images/ at line 22
+[trace] Parsed [Para [Image ("",[],[("fig-alt","logo UNIQUE")]) [] ("images at line 23
+[trace] Parsed [Div ("",[],[("layout-ncol","2")]) [Para [Image ("",[],[("fi at line 24
+[trace] Parsed [Div ("financement",[],[]) [Div ("",[],[("layout-ncol","2")] at line 25
+[trace] Parsed [Div ("",["column-margin"],[]) [Para [Str "Financement:"],Di at line 27
+[trace] Parsed [Para [Str "Ce",Space,Str "sont",Space,Str "quelques-uns",Sp at line 29
+[trace] Parsed [Header 3 ("vision-orient\233e-par-les-buts-attention-et-mou at line 31
+[trace] Parsed [Para [Str "C\8217est",Space,Str "le",Space,Str "sujet",Spac at line 33
+[trace] Parsed [Para [Str "Nous",Space,Str "nous",Space,Str "int\233ressons at line 35
+[trace] Parsed [Para [Str "Au",Space,Str "cours",Space,Str "des",Space,Str  at line 37
+[trace] Parsed [Para [Str "Nos",Space,Str "efforts",Space,Str "en",Space,St at line 39
+[trace] Parsed [Header 3 ("audition-et-son",[],[]) [Str "Audition",Space,St at line 41
+[trace] Parsed [Para [Str "Nous",Space,Str "travaillons",Space,Str "sur",Sp at line 43
+[trace] Parsed [Header 3 ("\233tats-v\233cus-et-interactions-cerveau-c\339u at line 45
+[trace] Parsed [Para [Str "Nous",Space,Str "nous",Space,Str "int\233ressons at line 47
+[trace] Parsed [Header 3 ("vieillissement",[],[]) [Str "Vieillissement"]] at line 49
+[trace] Parsed [Para [Str "Avec",Space,Str "Alex",Space,Str "Zhao",Space,St at line 51
+[trace] Parsed [Header 3 ("\233pilepsie",[],[]) [Str "\201pilepsie"]] at line 53
+[trace] Parsed [Para [Str "Avec",Space,Str "Maya",Space,Str "Aderka",Space, at line 55
+[trace] Parsed [Para [Str "En",Space,Str "parall\232le,",Space,Str "avec",S at line 57
+[trace] Parsed [Header 3 ("strabisme",[],[]) [Str "Strabisme"]] at line 59
+[trace] Parsed [Para [Str "L\8217exotropie",Space,Str "intermittente",Space at line 61
+[trace] Parsed [Header 3 ("dispositifs-et-travaux-appliqu\233s",[],[]) [Str at line 63
+[trace] Parsed [Para [Str "Nous",Space,Str "aimons",Space,Str "aussi",Space at line 65
+[trace] Parsed [Para [Link ("",[],[]) [Str "Scicommons"] ("https://www.scic at line 3
+[trace] Parsed [Para [Str "GestureCap",Space,Str "\8212",Space,Str "nous",S at line 3
+[trace] Parsed [Para [Str "Nous",Space,Str "travaillons",Space,Str "sur",Sp at line 3
+[trace] Parsed [Para [Str "Nous",Space,Str "allons",Space,Str "bient\244t", at line 5
+[trace] Parsed [BulletList [[Para [Link ("",[],[]) [Str "Scicommons"] ("htt at line 75
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 93
+[trace] Parsed [Para [Str "Cette",Space,Str "page",Space,Str "a",Space,Str  at line 96
+[trace] Parsed [Div ("",["hidden","quarto-markdown-envelope-contents"],[("r at line 98
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 102
+[trace] Parsed [Para [Span ("",["hidden","quarto-markdown-envelope-contents at line 109
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 113
+[INFO] Running filter C:/Program Files/Quarto/share/filters/main.lua
+[INFO] Completed filter C:/Program Files/Quarto/share/filters/main.lua in 156 ms
+[execProcess] Success: true, code: 0
+
+[listing] Completing staged feeds in C:\Users\Suresh\Desktop\quarto\fr
+[listing] Completing listing items in C:\Users\Suresh\Desktop\quarto\fr
+[listing] Completing listing items for 6 files
+[listing] Creating content reader
+[listing] Completing listing items C:\Users\Suresh\Desktop\quarto\fr\projects.qmd
+[listing] Completing listing items C:\Users\Suresh\Desktop\quarto\fr\members.qmd
+[listing] Completing listing items C:\Users\Suresh\Desktop\quarto\fr\join.qmd
+[listing] Completing listing items C:\Users\Suresh\Desktop\quarto\fr\index.qmd
+[listing] Completing listing items C:\Users\Suresh\Desktop\quarto\fr\locate.qmd
+[listing] Completing listing items C:\Users\Suresh\Desktop\quarto\fr\output.qmd
+[listing] Writing global listing index for C:\Users\Suresh\Desktop\quarto\fr
+[NotebookContext]: Starting Cleanup
+Output created: docs\index.html
+

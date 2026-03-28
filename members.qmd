@@ -90,6 +90,10 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Sabrina Du, McGill](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina"}](https://www.linkedin.com/in/dusabrina/)
 
+[![Ron Schondorf, McGill](images/Ron.jpg){fig-alt="Photo de Ron"}](https://www.mcgill.ca/neurology-neurosurgery/ronald-schondorf-phd-md-frcpc-faas)
+
+[![Fuat Balci, McGill](images/Fuat.jpg){fig-alt="Photo de Fuat"}](https://umanitoba.ca/science/directory/biological-sciences/fuat-balci)
+
 ::: 
 
 ------------------------------------------------------------------------

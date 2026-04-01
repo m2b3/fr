@@ -18,6 +18,8 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
+**Avril 2026** - Alex Zhao a reçu une bourse CGSM. Félicitations à Alex ! 🎉
+
 **Mars 2026** - [Le modèle CanVIT](https://arxiv.org/abs/2603.22570) de Yohai est maintenant disponible en prépublication sur arXiv !! 🎉📄
 
 **Mars 2026** – ["Correction of saccadic decisions during active visual search in the monkey"](https://jov.arvojournals.org/article.aspx?articleid=2811630) publié dans le Journal of Vision après un processus d’évaluation fluide, rapide et transparent. 📄

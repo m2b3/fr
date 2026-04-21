@@ -236,7 +236,9 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/Eva.png){fig-alt="Photo de Eva Ozturk" width="200"}
 :::
 
--   Étudiante en Master d’ingénieurie Biomedicale – Neurotechnology, Université Paris Cité / Arts et Métiers Double Licence en sciences biomédicales et psychologie, Université Paris Cité Erasmus : Imperial College London; Stages : ENS (Paris), EPFL (Genève) Je m’intéresse au développement d’outils à l’interface entre l’ingénierie et les neurosciences, tels que les interfaces cerveau-machine (BCI) ou les neuroprothèses. Mon objectif est de traduire les connaissances en neurosciences en technologies cliniquement pertinentes.
+-   Étudiante en Master d’ingénieurie Biomedicale – Neurotechnology, Université Paris Cité / Arts et Métiers Double Licence en sciences biomédicales et psychologie, Université Paris Cité Erasmus : Imperial College London; Stages : ENS (Paris), EPFL (Genève)
+
+-   Je m’intéresse au développement d’outils à l’interface entre l’ingénierie et les neurosciences, tels que les interfaces cerveau-machine (BCI) ou les neuroprothèses. Mon objectif est de traduire les connaissances en neurosciences en technologies cliniquement pertinentes.
 
 -   [Email](mailto:eva.ozturk@mail.mcgill.ca)
 

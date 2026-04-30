@@ -18,6 +18,14 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
+**Avril 2026** — Les membres du laboratoire feront partie des équipes de mentorat pour 5 projets open source du Google Summer of Code, via [INCF](https://www.incf.org/), cet été :
+
+iEEG — un logiciel d’analyse de données EEG intracrâniennes, en collaboration avec le CHUM
+SciCommons — une plateforme ouverte pour la discussion et l’évaluation scientifiques (alphatest.scicommons.org)
+BreathState — une application mobile pour le suivi de la respiration, du rythme cardiaque et de leur lien avec la santé mentale et la performance
+ActiveVision — un outil de modélisation de la vision active
+GestureCap — un système sans marqueurs pour l’expression musicale pilotée par gestes, et autres applications
+
 **Avril 2026** - Yohai reçoit une bourse CGRS-D du CRNSG. Félicitations Yohai !! 🎉
 
 **Avril 2026** - Alex Zhao reçoit une bourse CGSM des IRSC et Yohai obtient une bourse de doctorat UNIQUE. Félicitations à Alex et à Yohai !! 🎉

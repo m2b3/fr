@@ -18,8 +18,9 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
-**Avril 2026** - Alex Zhao reçoit une bourse CGSM et Yohai obtient une bourse de doctorat UNIQUE.
-  Félicitations à Alex et à Yohai !!
+**Avril 2026** - Yohai reçoit une bourse CGRS-D du CRNSG. Félicitations Yohai !! 🎉
+
+**Avril 2026** - Alex Zhao reçoit une bourse CGSM des IRSC et Yohai obtient une bourse de doctorat UNIQUE. Félicitations à Alex et à Yohai !! 🎉
 
 **Mars 2026** - [Le modèle CanVIT](https://arxiv.org/abs/2603.22570) de Yohai est maintenant disponible en prépublication sur arXiv !! 🎉📄
 
@@ -31,7 +32,7 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Décembre 2025** — SciCommons: La première étape de notre progression lente mais régulière vers un portail ouvert de publication et d’évaluation est désormais disponible sous la forme d’un [portail de club de lecture scientifique](https://alphatest.scicommons.org). Excellent travail d’Armaan et de Faisal, s’appuyant sur les travaux antérieurs de Jyothi Swaroop et Dinakar. Les testeurs intrépides sont invités à y créer leurs groupes de discussion.
 
-**December 2025** - Le préprint de Jonathan est maintenant sur [biorXiv](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1) !! 📄
+**Décembre 2025** – Le préprint de Jonathan est maintenant sur [biorXiv](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1) !! 📄
 
 **Novembre 2025** -  Alex reçoit une bourse de recrutement VSRN ! 🎉
 

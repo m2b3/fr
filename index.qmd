@@ -18,7 +18,7 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
-**Avril 2026** - Yohai reçoit une bourse de voyage UNIQUE pour faciliter son déplacement à New York lors du symposium AI in Biology de CSHL. Félicitations Yohai !! 🎉
+**Avril 2026** - Yohai obtient une bourse de doctorat en recherche du FRQNT, ainsi qu’une bourse de déplacement UNIQUE pour faciliter son voyage à New York au symposium AI in Biology du CSHL. Félicitations Yohai !! 🎉
 
 **Avril 2026** — Les membres du laboratoire feront partie des équipes de mentorat pour 5 projets open source du Google Summer of Code, via [INCF](https://www.incf.org/), cet été :
 

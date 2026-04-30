@@ -102,6 +102,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Serpil Çeçen, Sağlık Bilimleri Üniversitesi](images/Serpil.jpg){fig-alt="Photo de Serpil"}](https://scholar.google.com/citations?user=y0i79IgAAAAJ&hl=en)
 
+[![Thanh Dang-Vu, Concordia University](images/Thanh.jpg){fig-alt="Photo de Thanh"}](https://www.concordia.ca/faculty/thanh-dang-vu.html)
+
 ::: 
 
 ------------------------------------------------------------------------

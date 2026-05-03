@@ -348,7 +348,9 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/Simmi.jpg){fig-alt="Photo de Simmi Agnihotram" width="200"}
 :::
 
--   Maîtrise en analytique de gestion, Université McGill Baccalauréat spécialisé en économie, Université Concordia
+-   Maîtrise en analytique de gestion, Université McGill
+
+-   Baccalauréat spécialisé en économie, Université Concordia
 
 -   Interessé par l'apprentissage automatique et les flux de décision basés sur les LLM. J'ai effectué un stage au Centre universitaire de santé McGill où j'ai réalisé des analyses statistiques sur des données pédiatriques. J'aspire à appliquer cette curiosité pour la santé analytique afin d'explorer comment les workflows d'IA peuvent mieux guider l'analyse et la prise de décision dans des domaines scientifiques tels que la biologie ou les neurosciences.
 
@@ -364,7 +366,9 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/Jada.jpg){fig-alt="Photo de Jada Ke Thompson" width="200"}
 :::
 
--   Étudiante à la maîtrise en informatique (profil sans mémoire), McGill Baccalauréat en génie mécanique avec une mineure en génie logiciel, McGill
+-   Étudiante à la maîtrise en informatique (profil sans mémoire), McGill
+
+-   Baccalauréat en génie mécanique avec une mineure en génie logiciel, McGill
 
 -   Intéressée par l’apprentissage automatique, en particulier dans les domaines tels que la robotique, la santé et les neurosciences
 

@@ -1,5 +1,5 @@
 ---
-lang: fr  
+lang: fr
 from: markdown+emoji
 ---
 
@@ -17,6 +17,8 @@ Plus de détails sur la page [Projets](projects.qmd).
 <!-- to make a contact sheet, set boundaries in irfanview thumbnails -->
 
 **Actualités**
+
+**Juillet 2026** — Notre manuscrit intitulé « Effect of an auditory static distractor on the perception of an auditory moving target », un travail mené par Noa Kemp en collaboration avec Catherine Guastavino, paraîtra prochainement dans le Journal of the Acoustical Society of America, à l’issue d’un processus d’évaluation fluide et constructif. Heureux d’avoir à nouveau un article dans JASA après une longue pause :)
 
 **Juin 2026** – Fatma Ozlem obtient une bourse Études au Canada pour effectuer un séjour au laboratoire en 2026-2027, en provenance de Sağlık Bilimleri Üniversitesi à Istanbul.
 
@@ -148,4 +150,3 @@ Plus de détails sur la page [Projets](projects.qmd).
 ![](images/emc3_grey){fig-alt="Logo du laboratoire"}
 
 -------------------------------
-

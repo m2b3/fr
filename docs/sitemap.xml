@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://m2b3.github.io/fr/projects.html</loc>
-    <lastmod>2025-09-01T19:37:21.367Z</lastmod>
+    <loc>https://m2b3.github.io/fr/teaching.html</loc>
+    <lastmod>2026-07-29T04:30:23.246Z</lastmod>
   </url>
   <url>
-    <loc>https://m2b3.github.io/fr/members.html</loc>
-    <lastmod>2026-06-29T00:38:33.126Z</lastmod>
+    <loc>https://m2b3.github.io/fr/output.html</loc>
+    <lastmod>2026-07-08T04:35:32.983Z</lastmod>
   </url>
   <url>
-    <loc>https://m2b3.github.io/fr/join.html</loc>
+    <loc>https://m2b3.github.io/fr/locate.html</loc>
     <lastmod>2025-04-30T22:47:06.213Z</lastmod>
   </url>
   <url>
@@ -17,11 +17,19 @@
     <lastmod>2026-07-08T04:04:51.221Z</lastmod>
   </url>
   <url>
-    <loc>https://m2b3.github.io/fr/locate.html</loc>
+    <loc>https://m2b3.github.io/fr/CHANGE_COMMENTS.html</loc>
+    <lastmod>2026-07-29T04:30:27.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m2b3.github.io/fr/join.html</loc>
     <lastmod>2025-04-30T22:47:06.213Z</lastmod>
   </url>
   <url>
-    <loc>https://m2b3.github.io/fr/output.html</loc>
-    <lastmod>2026-07-08T04:35:32.983Z</lastmod>
+    <loc>https://m2b3.github.io/fr/members.html</loc>
+    <lastmod>2026-06-29T00:38:33.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m2b3.github.io/fr/projects.html</loc>
+    <lastmod>2025-09-01T19:37:21.367Z</lastmod>
   </url>
 </urlset>

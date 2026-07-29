@@ -22,6 +22,11 @@ website:
       href: members.qmd
     - text: "Projets"
       href: projects.qmd
+    # Ajouté par Codex le 2026-07-29
+    # Quoi/Pourquoi/Comment : ajoute la nouvelle page d'enseignement à la
+    # navigation principale afin de rendre le cours d'automne 2026 accessible.
+    - text: "Enseignement"
+      href: teaching.qmd
     - text: "Travaux"
       href: output.qmd
     - text: "Rejoindre"

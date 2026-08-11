@@ -460,7 +460,7 @@ tm_shape(World)+
 *   Bourse de Recherche Mackey-Glass -- Tim Yang
 *   Fellow de recherche d’été du CDSI – Yiqing Zhu
 *   Chercheur·e bénévole - Claire Yang, Edward Tong
-*   Stage d'été McGill-EAU - Rashed Alhosani
+*   Stage d'été McGill-EAU - Rashed Alhosani, Shahad Alnaqbi
 *   Stagiaires MITACS Globalink - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du
 *   Stagiaires d’été – Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu

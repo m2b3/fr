@@ -88,7 +88,9 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Thanh Dang-Vu, Concordia University](images/Thanh.jpg){fig-alt="Photo de Thanh"}](https://www.concordia.ca/faculty/thanh-dang-vu.html)
 
-[![Eva Ozturk](images/Eva.png){fig-alt="Eva"}](https://www.linkedin.com/in/eva-ozturk-78934b28a/)
+[![Eva Ozturk](images/Eva.png){fig-alt="Photo de Eva"}](https://www.linkedin.com/in/eva-ozturk-78934b28a/)
+
+[![Faraz Shamim, Kathmandu](images/Faraz.png){fig-alt="Photo de Faraz"}](https://www.linkedin.com/in/faraz-sh/)
 
 :::
 

@@ -96,6 +96,8 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Faraz Shamim, Kathmandu](images/Faraz.png){fig-alt="Photo de Faraz"}](https://www.linkedin.com/in/faraz-sh/)
 
+[![Isabeau Prémont-Schwarz, U.Laval](images/isabeau.jpg){fig-alt="Photo de Isabeau"}](https://isabeaups.github.io/)
+
 :::
 
 ------------------------------------------------------------------------

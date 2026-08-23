@@ -57,8 +57,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Fatma Ozlem](images/fatma.jpg){fig-alt="Photo de Fatma Ozlem"}](#fatma)
 
-[![Lavinia Azer](images/Lavinia.jpg){fig-alt="Photo de Lavinia Azer"}](#lavinia)
-
 [![Erik Mas](images/Erik.jpg){fig-alt="Photo de Erik Mas"}](#erik)
 
 [![Meena Ramadan](images/Meena.jpg){fig-alt="Photo de Meena Ramadan"}](#meena)
@@ -352,24 +350,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="lavinia"></a>
-
-#### Lavinia Azer
-
-::: column-margin
-![](images/Lavinia.jpg){fig-alt="Photo de Lavinia Azer" width="200"}
-:::
-
--   Étudiante au B.Sc Majeure en Psychologie et Mineure en Linguistique, McGill
-
--   Je m’intéresse à la façon dont le cerveau perçoit et intègre des informations auditives et linguistiques complexes, notamment la musique, les sons et le langage.
-
--   En dehors des études, vous me pouvez me trouver en train d’apprendre des chansons sur mon piano ou ma guitare.
-
--   [Email](mailto:lavinia.azer@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="erik"></a>
 
 #### Erik Mas
@@ -441,8 +421,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma", "lavinia", "erik", "meena", "shuxin")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma", "lavinia", "erik", "meena", "shuxin"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma", "erik", "meena", "shuxin"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad", "lavinia"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]

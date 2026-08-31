@@ -39,8 +39,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo de Alex Zhao"}](#azhao)
 
-[![Jacky Chen](images/jackysm.png){fig-alt="Photo de Jacky Chen"}](#jacky)
-
 [![Manuel Hanna](images/manuel.png){fig-alt="Photo de Manuel Hanna"}](#Manuel)
 
 [![Sophie Yun](images/Sophie.jpg){fig-alt="Photo de Sophie Yun"}](#Sophie)
@@ -50,8 +48,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Xueqing Zhai](images/Xueqing.jpg){fig-alt="Photo de Xueqing Zhai"}](#Xueqing)
 
 [![Zifan Qian](images/Zifan.jpg){fig-alt="Photo de Zifan Qian"}](#Zifan)
-
-[![Simmi Agnihotram](images/Simmi.jpg){fig-alt="Photo de Simmi Agnihotram"}](#Simmi)
 
 [![Jada Ke Thompson](images/Jada.jpg){fig-alt="Photo de Jada Ke Thompson"}](#Jada)
 
@@ -192,24 +188,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="jacky"></a>
-
-#### Jacky Chen
-
-::: column-margin
-![](images/jackysm.png){fig-alt="Photo de Jacky Chen" width="200"}
-:::
-
--   Étudiant en Baccalauréat de psychologie avec une double mineure en sciences comportementales et en sciences des arts, à l'Université McGill.
-
--   Je suis passionné de piano et je m'intéresse aux interactions entre les processus cognitifs, l'expression musicale et les variations de l'attention. Mes recherches explorent les liens entre la psychologie, la musique et les sciences cognitives.
-
--   Originaire de Shanghai, en Chine, j'y ai vécu jusqu'à l'âge de 18 ans avant de déménager à Montréal pour mes études à l'Université McGill. J'apprécie particulièrement les étés montréalais !
-
--   [Email](mailto:yijun.chen@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Manuel"></a>
 
 #### Manuel Hanna
@@ -293,24 +271,6 @@ L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   Baccalauréat ès sciences en informatique, Université de l’Alberta
 
 -   [Email](mailto:zifan.qian@mail.mcgill.ca); [Google Scholar]( https://scholar.google.com/citations?user=hLBvu8gAAAAJ&hl=en&oi=ao)
-
-------------------------------------------------------------------------
-
-<a name="Simmi"></a>
-
-#### Simmi Agnihotram
-
-::: column-margin
-![](images/Simmi.jpg){fig-alt="Photo de Simmi Agnihotram" width="200"}
-:::
-
--   Maîtrise en analytique de gestion, Université McGill
-
--   Baccalauréat spécialisé en économie, Université Concordia
-
--   Interessé par l'apprentissage automatique et les flux de décision basés sur les LLM. J'ai effectué un stage au Centre universitaire de santé McGill où j'ai réalisé des analyses statistiques sur des données pédiatriques. J'aspire à appliquer cette curiosité pour la santé analytique afin d'explorer comment les workflows d'IA peuvent mieux guider l'analyse et la prise de décision dans des domaines scientifiques tels que la biologie ou les neurosciences.
-
--   [Email](mailto:srimayee.agnihotram@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -421,8 +381,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma", "lavinia", "erik", "meena", "shuxin")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma", "erik", "meena", "shuxin"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad", "lavinia"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Jada", "fatma", "erik", "meena", "shuxin"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad", "Simmi", "lavinia"))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -487,6 +447,7 @@ tm_shape(World)+
 *   Stage d'été McGill-EAU - Rashed Alhosani
 *   Stagiaires MITACS Globalink - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du
+*   FSRB MMA - Srimayee Agnihotram
 *   Stagiaires d’été – Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
 *   Étudiants de 1er Cycle Observateurs - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Stagiares (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen, Deepansh Goel, Mohd Faisal Ansari, Michael Lewis, Eva Ozturk, Faraz Shamim, Mat Vallejo, Mikaël Molliex, Abhishek Farshwal

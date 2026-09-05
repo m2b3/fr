@@ -39,7 +39,7 @@
     "href": "CHANGE_COMMENTS.html",
     "title": "Résumé des modifications",
     "section": "",
-    "text": "Problème : Le site français ne comportait ni onglet « Enseignement » dans le menu principal ni page pour le cours d’automne 2026.\nCause fondamentale : Aucune page d’enseignement ni entrée de navigation n’avait été configurée.\nSolution : Ajout de teaching.qmd, reprise en anglais du contenu de Fall2026.md dans la section Automne 2026 et ajout du lien dans _quarto.yml. Après la première version, suppression de la seconde ligne « Time and Location », identique à la première et héritée de la source.\nRésultat : Les visiteurs peuvent accéder aux informations concises du cours d’automne 2026 depuis la navigation principale du site français, avec l’horaire affiché une seule fois.\nFichiers modifiés : _quarto.yml, teaching.qmd (version initiale : commit 985b5c2; suppression du doublon pas encore validée)."
+    "text": "Problème : Le site français ne comportait ni onglet « Enseignement » dans le menu principal ni page pour le cours d’automne 2026.\nCause fondamentale : Aucune page d’enseignement ni entrée de navigation n’avait été configurée.\nSolution : Ajout de teaching.qmd, reprise en anglais du contenu de Fall2026.md dans la section Automne 2026 et ajout du lien dans _quarto.yml. Après la première version, suppression de la seconde ligne « Time and Location », identique à la première et héritée de la source.\nRésultat : Les visiteurs peuvent accéder aux informations concises du cours d’automne 2026 depuis la navigation principale du site français, avec l’horaire affiché une seule fois.\nFichiers modifiés : _quarto.yml, teaching.qmd (version initiale : commit 985b5c2; suppression du doublon pas encore validée).\n\n\n\n\n\nProblème : La carte des membres utilisait une disposition longitude/latitude non projetée qui exagérait visuellement la superficie des terres aux hautes latitudes.\nCause fondamentale : La couche principale World ne précisait aucun SCR projeté pour l’affichage; tmap dessinait donc directement les coordonnées WGS 84 de la source.\nSolution : Définition du SCR principal sur Equal Earth (EPSG:8857); tmap reprojette ensemble les polygones du monde et les points des membres actuels et anciens.\nRésultat : La carte « D’où Venons-Nous? » conserve maintenant les superficies relatives tout en gardant les emplacements, couleurs, tailles et styles existants.\nFichiers modifiés : members.qmd (modification pas encore validée dans Git)."
   },
   {
     "objectID": "CHANGE_COMMENTS.html#page-et-navigation-denseignement",
@@ -47,6 +47,13 @@
     "title": "Résumé des modifications",
     "section": "",
     "text": "Problème : Le site français ne comportait ni onglet « Enseignement » dans le menu principal ni page pour le cours d’automne 2026.\nCause fondamentale : Aucune page d’enseignement ni entrée de navigation n’avait été configurée.\nSolution : Ajout de teaching.qmd, reprise en anglais du contenu de Fall2026.md dans la section Automne 2026 et ajout du lien dans _quarto.yml. Après la première version, suppression de la seconde ligne « Time and Location », identique à la première et héritée de la source.\nRésultat : Les visiteurs peuvent accéder aux informations concises du cours d’automne 2026 depuis la navigation principale du site français, avec l’horaire affiché une seule fois.\nFichiers modifiés : _quarto.yml, teaching.qmd (version initiale : commit 985b5c2; suppression du doublon pas encore validée)."
+  },
+  {
+    "objectID": "CHANGE_COMMENTS.html#projection-equal-earth-de-la-carte",
+    "href": "CHANGE_COMMENTS.html#projection-equal-earth-de-la-carte",
+    "title": "Résumé des modifications",
+    "section": "",
+    "text": "Problème : La carte des membres utilisait une disposition longitude/latitude non projetée qui exagérait visuellement la superficie des terres aux hautes latitudes.\nCause fondamentale : La couche principale World ne précisait aucun SCR projeté pour l’affichage; tmap dessinait donc directement les coordonnées WGS 84 de la source.\nSolution : Définition du SCR principal sur Equal Earth (EPSG:8857); tmap reprojette ensemble les polygones du monde et les points des membres actuels et anciens.\nRésultat : La carte « D’où Venons-Nous? » conserve maintenant les superficies relatives tout en gardant les emplacements, couleurs, tailles et styles existants.\nFichiers modifiés : members.qmd (modification pas encore validée dans Git)."
   },
   {
     "objectID": "join.html",

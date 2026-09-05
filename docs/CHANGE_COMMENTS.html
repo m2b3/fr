@@ -145,6 +145,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#résumé-des-modifications" id="toc-résumé-des-modifications" class="nav-link active" data-scroll-target="#résumé-des-modifications">Résumé des modifications</a>
   <ul class="collapse">
   <li><a href="#page-et-navigation-denseignement" id="toc-page-et-navigation-denseignement" class="nav-link" data-scroll-target="#page-et-navigation-denseignement">2026-07-29 — Page et navigation d’enseignement</a></li>
+  <li><a href="#projection-equal-earth-de-la-carte" id="toc-projection-equal-earth-de-la-carte" class="nav-link" data-scroll-target="#projection-equal-earth-de-la-carte">2026-09-05 — Projection Equal Earth de la carte</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -169,6 +170,16 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Solution :</strong> Ajout de <code>teaching.qmd</code>, reprise en anglais du contenu de <code>Fall2026.md</code> dans la section Automne 2026 et ajout du lien dans <code>_quarto.yml</code>. Après la première version, suppression de la seconde ligne « Time and Location », identique à la première et héritée de la source.</li>
 <li><strong>Résultat :</strong> Les visiteurs peuvent accéder aux informations concises du cours d’automne 2026 depuis la navigation principale du site français, avec l’horaire affiché une seule fois.</li>
 <li><strong>Fichiers modifiés :</strong> <code>_quarto.yml</code>, <code>teaching.qmd</code> (version initiale : commit <code>985b5c2</code>; suppression du doublon pas encore validée).</li>
+</ul>
+</section>
+<section id="projection-equal-earth-de-la-carte" class="level2">
+<h2 class="anchored" data-anchor-id="projection-equal-earth-de-la-carte">2026-09-05 — Projection Equal Earth de la carte</h2>
+<ul>
+<li><strong>Problème :</strong> La carte des membres utilisait une disposition longitude/latitude non projetée qui exagérait visuellement la superficie des terres aux hautes latitudes.</li>
+<li><strong>Cause fondamentale :</strong> La couche principale <code>World</code> ne précisait aucun SCR projeté pour l’affichage; <code>tmap</code> dessinait donc directement les coordonnées WGS 84 de la source.</li>
+<li><strong>Solution :</strong> Définition du SCR principal sur Equal Earth (<code>EPSG:8857</code>); <code>tmap</code> reprojette ensemble les polygones du monde et les points des membres actuels et anciens.</li>
+<li><strong>Résultat :</strong> La carte « D’où Venons-Nous? » conserve maintenant les superficies relatives tout en gardant les emplacements, couleurs, tailles et styles existants.</li>
+<li><strong>Fichiers modifiés :</strong> <code>members.qmd</code> (modification pas encore validée dans Git).</li>
 </ul>
 
 

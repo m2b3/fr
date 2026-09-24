@@ -18,6 +18,8 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
+**Septembre 2026** – CanVIT a été accepté pour une présentation par affiche à NeurIPS 2026. Félicitations à Yohai et Sabrina ! 🎉
+
 **Septembre 2026** – Le manuscrit de Kasia et Yohai, intitulé « Human-like meaning maps from single-prompt VLM ratings of local scene meaning », est disponible en prépublication sur bioRxiv.
 
 **Juillet 2026** — Notre manuscrit intitulé « Effect of an auditory static distractor on the perception of an auditory moving target », un travail mené par Noa Kemp en collaboration avec Catherine Guastavino, paraîtra prochainement dans le Journal of the Acoustical Society of America, à l’issue d’un processus d’évaluation fluide et constructif. Heureux d’avoir à nouveau un article dans JASA après une longue pause :)

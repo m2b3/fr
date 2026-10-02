@@ -146,6 +146,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#page-et-navigation-denseignement" id="toc-page-et-navigation-denseignement" class="nav-link" data-scroll-target="#page-et-navigation-denseignement">2026-07-29 — Page et navigation d’enseignement</a></li>
   <li><a href="#projection-equal-earth-de-la-carte" id="toc-projection-equal-earth-de-la-carte" class="nav-link" data-scroll-target="#projection-equal-earth-de-la-carte">2026-09-05 — Projection Equal Earth de la carte</a></li>
+  <li><a href="#canvit-news-item-link-and-logo" id="toc-canvit-news-item-link-and-logo" class="nav-link" data-scroll-target="#canvit-news-item-link-and-logo">2026-10-01 — CanViT news item link and logo</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -180,6 +181,15 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Solution :</strong> Définition du SCR principal sur Equal Earth (<code>EPSG:8857</code>); <code>tmap</code> reprojette ensemble les polygones du monde et les points des membres actuels et anciens.</li>
 <li><strong>Résultat :</strong> La carte « D’où Venons-Nous? » conserve maintenant les superficies relatives tout en gardant les emplacements, couleurs, tailles et styles existants.</li>
 <li><strong>Fichiers modifiés :</strong> <code>members.qmd</code> (modification pas encore validée dans Git).</li>
+</ul>
+</section>
+<section id="canvit-news-item-link-and-logo" class="level2">
+<h2 class="anchored" data-anchor-id="canvit-news-item-link-and-logo">2026-10-01 — CanViT news item link and logo</h2>
+<ul>
+<li><strong>Problem:</strong> The top News item about CanViT at NeurIPS 2026 had no link to the project page and no visual identifier.</li>
+<li><strong>Solution:</strong> Linked “CanViT” to the project page <code>https://m2b3.github.io/CanViT/</code> (the lowercase <code>/canvit</code> path returns 404 because GitHub Pages paths are case-sensitive). Added the official CanViT wordmark (<code>images/canvit-wordmark.svg</code>, copied from <code>m2b3/CanViT</code> <code>site/assets/logos/</code>) at the end of the line, inline at <code>height=1.3em</code> so it matches the text line; the logo also links to the project page.</li>
+<li><strong>Result:</strong> Visitors can jump to the CanViT project page from the home page; the logo fits within the news line.</li>
+<li><strong>Files Modified:</strong> <code>index.qmd</code>, <code>images/canvit-wordmark.svg</code>, rendered <code>docs/</code> (not yet committed).</li>
 </ul>
 
 

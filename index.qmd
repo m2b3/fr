@@ -18,7 +18,7 @@ Plus de détails sur la page [Projets](projects.qmd).
 
 **Actualités**
 
-**Septembre 2026** – [![](images/canvit-wordmark.svg){fig-alt="CanViT" style="display: inline; height: 1em; width: auto; vertical-align: -0.1em;"}](https://m2b3.github.io/CanViT/ "Page du projet CanViT"){.canvit-logo-link} [(page du projet&nbsp;↗)](https://m2b3.github.io/CanViT/){.canvit-cue} sera présenté à NeurIPS 2026. Félicitations à Yohai et Sabrina ! 🎉
+**Septembre 2026** – [![](images/canvit-wordmark.svg){fig-alt="CanViT" style="display: inline; height: 1em; width: auto; vertical-align: -0.1em;"}](https://m2b3.github.io/CanViT/ "Page du projet CanViT"){.canvit-logo-link}[↗](https://m2b3.github.io/CanViT/ "Page du projet CanViT"){.canvit-cue aria-label="Page du projet CanViT"} sera présenté à NeurIPS 2026. Félicitations à Yohai et Sabrina ! 🎉
 
 **Septembre 2026** – Le manuscrit de Kasia et Yohai, intitulé « [Human-like meaning maps from single-prompt VLM ratings of local scene meaning](https://www.biorxiv.org/content/10.64898/2026.08.30.748100v1) », est disponible en prépublication sur bioRxiv.
 
